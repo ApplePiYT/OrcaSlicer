@@ -1,0 +1,55 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "100"
+    ],
+    "filament_settings_id": [
+        "Pandoras Box Polymaker ABS"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.001\n"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Pandoras Box Polymaker ABS",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "270"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "temperature_vitrification": [
+        "130"
+    ],
+    "version": "1.5.1.2"
+}

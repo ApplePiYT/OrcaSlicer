@@ -1,0 +1,35 @@
+Exceptions:
+Exception Code :c0000005 ACCESS_VIOLATION
+Exception Flag :0x0 NumberParameters :2 
+Param 0 :0x0 
+Param 1 :0x8 
+Context :000000243A54D740 
+ContextFlag : 0x10005f, EFlags: 0x10246 
+Fault address:  0xD3EC6DC 0x0:0x0 
+
+Show CallStack:
+Call SymGetLineFromAddr64 ,Address 0d3ec6dc Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0d3ec6fd Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0d8b1fa6 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0d8af54d Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0dc0e9c1 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0dbfe050 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eab01e2 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eaab764 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eaabb2a Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eaabdf3 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eaab67a Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eaab92b Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eab180b Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eaee9c4 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eaeec1a Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eab1187 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eab5227 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0eb1e118 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0db30cfc Error:000001e7
+Call SymGetSymFromAddr64 ,Address 0d376c71 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0d392d89 Error:000001e7
+Call SymGetSymFromAddr64 ,Address ce185635 Error:000001e7
+Call SymGetSymFromAddr64 ,Address ce185af6 Error:000001e7
+Call SymGetLineFromAddr64 ,Address 0ff2257d Error:000001e7
+Call SymGetLineFromAddr64 ,Address 1160aa58 Error:000001e7

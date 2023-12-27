@@ -1,0 +1,49 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "85"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Hextrudort Atomic Filaments ABS 1.5"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "120"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "120"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Hextrudort Atomic Filaments ABS 1.5",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "nozzle_temperature_range_high": [
+        "265"
+    ],
+    "nozzle_temperature_range_low": [
+        "265"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "temperature_vitrification": [
+        "130"
+    ],
+    "version": "1.5.1.2"
+}

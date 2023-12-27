@@ -1,0 +1,18 @@
+{
+    "app": {
+        "associate_3mf": false,
+        "associate_step": false,
+        "associate_stl": false,
+        "backup_interval": "10",
+        "backup_switch": true,
+        "curr_bed_type": "3",
+        "dark_color_mode": "1",
+        "developer_mode": false,
+        "download_path": "C:\\Users\\nicho\\Downloads",
+        "drop_project_action": true,
+        "dump_video": false,
+        "flush_multiplier": "1.000000",
+        "import_project_action": "2",
+        "iot_environment": "3",
+        "keyboard_supported": "none/alt/control/shift",
+        "

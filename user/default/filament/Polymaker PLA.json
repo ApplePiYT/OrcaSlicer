@@ -2,6 +2,12 @@
     "close_fan_the_first_x_layers": [
         "0"
     ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
     "filament_max_volumetric_speed": [
         "25"
     ],
@@ -15,5 +21,8 @@
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
     "name": "Polymaker PLA",
+    "pressure_advance": [
+        "0.06"
+    ],
     "version": "1.6.5.2"
 }

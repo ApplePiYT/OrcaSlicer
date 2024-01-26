@@ -18,10 +18,13 @@
         "Hextrudort 3DO ASA-GF"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.001"
+        "; Filament gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.02"
     ],
     "filament_type": [
         "ASA"
+    ],
+    "filament_vendor": [
+        "3DO"
     ],
     "from": "User",
     "hot_plate_temp": [

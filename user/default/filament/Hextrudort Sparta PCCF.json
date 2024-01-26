@@ -25,10 +25,10 @@
     ],
     "from": "User",
     "hot_plate_temp": [
-        "120"
+        "115"
     ],
     "hot_plate_temp_initial_layer": [
-        "120"
+        "115"
     ],
     "inherits": "Voron Generic ABS",
     "is_custom_defined": "0",

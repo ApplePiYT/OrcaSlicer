@@ -2,6 +2,62 @@
     "device_error": {
         "en": [
             {
+                "ecode": "0500C010",
+                "intro": "MicroSD Card read/write exception. please reinsert or replace MicroSD Card ."
+            },
+            {
+                "ecode": "0514039",
+                "intro": "Device login has expired, please try to bind again."
+            },
+            {
+                "ecode": "03008018",
+                "intro": "Chamber temperature malfunction."
+            },
+            {
+                "ecode": "03008019",
+                "intro": "No build plate is placed."
+            },
+            {
+                "ecode": "12008007",
+                "intro": "Failed to extrude the filament. The extruder may be clogged or the filament may be stuck, please refer to HMS. After troubleshooting, click \"Retry\" button."
+            },
+            {
+                "ecode": "12018007",
+                "intro": "Failed to extrude the filament. The extruder may be clogged or the filament may be stuck, please refer to HMS. After troubleshooting, click \"Retry\" button."
+            },
+            {
+                "ecode": "12038007",
+                "intro": "Failed to extrude the filament. The extruder may be clogged or the filament may be stuck, please refer to HMS. After troubleshooting, click \"Retry\" button."
+            },
+            {
+                "ecode": "12008016",
+                "intro": "The extruder is not extruding normally, please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
+            },
+            {
+                "ecode": "12018016",
+                "intro": "The extruder is not extruding normally, please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
+            },
+            {
+                "ecode": "12028016",
+                "intro": "The extruder is not extruding normally, please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
+            },
+            {
+                "ecode": "12038016",
+                "intro": "The extruder is not extruding normally, please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
+            },
+            {
+                "ecode": "12028007",
+                "intro": "Failed to extrude the filament. The extruder may be clogged or the filament may be stuck, please refer to HMS. After troubleshooting, click \"Retry\" button."
+            },
+            {
+                "ecode": "03008014",
+                "intro": "The nozzle is covered with filaments, or the build plate is installed incorrectly. Please cancel this printing and clean the nozzle or adjust the build plate according to the actual status, or tap \"Resume\" button to resume the print job."
+            },
+            {
+                "ecode": "03008016",
+                "intro": "The nozzle is clogged up with filaments. Please cancel this printing and clean the nozzle according to the actual status, or tap \"Resume\" button to resume the print job."
+            },
+            {
                 "ecode": "03004005",
                 "intro": "The nozzle fan speed is abnormal."
             },
@@ -10,24 +66,8 @@
                 "intro": "The nozzle fan speed is abnormal."
             },
             {
-                "ecode": "12028016",
-                "intro": "The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button."
-            },
-            {
-                "ecode": "12038016",
-                "intro": "The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button."
-            },
-            {
                 "ecode": "0300400F",
                 "intro": "No build plate is placed."
-            },
-            {
-                "ecode": "12008016",
-                "intro": "The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button."
-            },
-            {
-                "ecode": "12018016",
-                "intro": "The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button."
             },
             {
                 "ecode": "05014038",
@@ -36,10 +76,6 @@
             {
                 "ecode": "05004002",
                 "intro": "Unsupported print file path or name. Please resend the printing job."
-            },
-            {
-                "ecode": "03008016",
-                "intro": "The nozzle is clogged up with filaments. Please check the nozzle. Then you can tap \"Resume\" to resume the print job."
             },
             {
                 "ecode": "03008017",
@@ -82,10 +118,6 @@
                 "intro": "The device is in the process of binding and cannot respond to new binding requests."
             },
             {
-                "ecode": "03008014",
-                "intro": "The nozzle is covered with filament, or the build plate is installed incorrectly. Please clean the nozzle or adjust the position of the build plate. Then you can tap \"Resume\" to resume the print job."
-            },
-            {
                 "ecode": "03008015",
                 "intro": "The filament has run out, please load new filament in the \"filament\" page, then return back to the print page and tap \"Resume\" to resume the print job."
             },
@@ -120,14 +152,6 @@
             {
                 "ecode": "12FF8006",
                 "intro": "Please feed from the spool holder until the tool head filament sensor is triggered, and then click the \"Retry\" button."
-            },
-            {
-                "ecode": "12028007",
-                "intro": "Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the \"Retry\" button."
-            },
-            {
-                "ecode": "12038007",
-                "intro": "Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the \"Retry\" button."
             },
             {
                 "ecode": "12028010",
@@ -462,10 +486,6 @@
                 "intro": "Failed to feed the filament into the toolhead. Please check whether the filament is stuck. After troubleshooting, click the \"Retry\" button."
             },
             {
-                "ecode": "12018007",
-                "intro": "Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the \"Retry\" button."
-            },
-            {
                 "ecode": "12008010",
                 "intro": "Please check if the spool or filament is stuck. After troubleshooting, click the \"Retry\" button."
             },
@@ -644,10 +664,6 @@
             {
                 "ecode": "12FFC003",
                 "intro": "Please pull out the filament on the spool holder from the extruder or check if there is filament  broken in the extruder, if AMS is to be used later,please connect PTFE tube to the coupler."
-            },
-            {
-                "ecode": "12008007",
-                "intro": "Failed to extrude the filament. Please check whether the filament is stuck or the extruder clogged. After troubleshooting, click the \"retry\" button."
             },
             {
                 "ecode": "07FF8003",
@@ -832,10 +848,6 @@
             {
                 "ecode": "0500C011",
                 "intro": ""
-            },
-            {
-                "ecode": "0500C010",
-                "intro": "MicroSD Card error: please reinsert, format or replace it."
             },
             {
                 "ecode": "0500400C",
@@ -1054,10 +1066,18 @@
                 "intro": "Heatbed temperature malfunction."
             }
         ],
-        "ver": 202311241930
+        "ver": 202401041600
     },
     "device_hms": {
         "en": [
+            {
+                "ecode": "03001D0000010001",
+                "intro": "The position sensor of extrusion motor is abnormal. The sensor signal wire may be not properly plugged in."
+            },
+            {
+                "ecode": "03001C0000010001",
+                "intro": "The extrusion motor driver is abnormal. The MOSFET may have a short circuit."
+            },
             {
                 "ecode": "030001000001000A",
                 "intro": "The hotbed temperature control is abnormal, the AC board may be broken."
@@ -4063,7 +4083,7 @@
                 "intro": "The nozzle temperature is abnormal; the sensor may have an open circuit."
             }
         ],
-        "ver": 202311242030
+        "ver": 202401160930
     },
-    "version": "202311242030"
+    "version": "202401160930"
 }

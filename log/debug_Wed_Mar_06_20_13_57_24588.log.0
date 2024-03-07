@@ -1,0 +1,282 @@
+2024-03-06 20:13:57.882147[Thread 0x00000bb4]:gui mode, Current OrcaSlicer Version 1.9.1
+2024-03-06 20:13:57.883144[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::load_language: language , initial: 1
+2024-03-06 20:13:57.883144[Thread 0x00000bb4]:language provided by OrcaSlicer.conf: en_GB
+2024-03-06 20:13:57.896109[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::Update_dark_mode_flag: switch the current dark mode status to 1 
+2024-03-06 20:13:57.896109[Thread 0x00000bb4]:last app version {1.8.2}, current version {1.8.2}
+2024-03-06 20:13:57.897107[Thread 0x00000bb4]:begin to show the splash screen...
+2024-03-06 20:13:57.937001[Thread 0x00000bb4]:loading systen presets...
+2024-03-06 20:13:57.937998[Thread 0x00000bb4]:[BBL Updater]:Checking whether the profile from resource is newer
+2024-03-06 20:13:57.937998[Thread 0x00000bb4]:Installing 3 bundles from resources ...
+2024-03-06 20:13:57.956459[Thread 0x00000bb4]:[BBL Updater]:Performing 12 updates
+2024-03-06 20:13:57.956459[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Custom.json -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom.json)
+2024-03-06 20:13:57.956459[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Custom\process -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\process)
+2024-03-06 20:13:57.956459[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Custom\process" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\process"
+2024-03-06 20:13:57.961446[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Custom\filament -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\filament)
+2024-03-06 20:13:57.961446[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Custom\filament" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\filament"
+2024-03-06 20:13:57.967430[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Custom\machine -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\machine)
+2024-03-06 20:13:57.967430[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Custom\machine" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\machine"
+2024-03-06 20:13:57.969424[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Prusa.json -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Prusa.json)
+2024-03-06 20:13:57.969424[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Prusa\process -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Prusa\process)
+2024-03-06 20:13:57.969424[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Prusa\process" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Prusa\process"
+2024-03-06 20:13:57.976406[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Prusa\filament -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Prusa\filament)
+2024-03-06 20:13:57.976406[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Prusa\filament" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Prusa\filament"
+2024-03-06 20:13:57.985382[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Prusa\machine -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Prusa\machine)
+2024-03-06 20:13:57.985382[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Prusa\machine" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Prusa\machine"
+2024-03-06 20:13:57.989371[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Voron.json -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Voron.json)
+2024-03-06 20:13:57.989371[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Voron\process -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Voron\process)
+2024-03-06 20:13:57.989371[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Voron\process" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Voron\process"
+2024-03-06 20:13:58.002336[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Voron\filament -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Voron\filament)
+2024-03-06 20:13:58.003334[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Voron\filament" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Voron\filament"
+2024-03-06 20:13:58.008320[Thread 0x00000bb4]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Voron\machine -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Voron\machine)
+2024-03-06 20:13:58.008320[Thread 0x00000bb4]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Voron\machine" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Voron\machine"
+2024-03-06 20:13:58.031259[Thread 0x00000bb4]:Slic3r::NetworkAgent::initialize_network_module, can not Load Library for C:\Users\nicho\AppData\Roaming\OrcaSlicer\plugins/bambu_networking.dll
+2024-03-06 20:13:58.031259[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::on_init_network: on_init_network, load dll failed
+2024-03-06 20:13:58.031259[Thread 0x00000bb4]:Slic3r::NetworkAgent::unload_network_module, network module 0000000000000000
+2024-03-06 20:13:58.031259[Thread 0x00000bb4]:on_init_network, unload_network_module, result = 0
+2024-03-06 20:13:58.031259[Thread 0x00000bb4]:preset_folder: set to empty
+2024-03-06 20:13:58.032257[Thread 0x00000bb4]:Slic3r::PresetBundle::load_presets enter, substitution_rule 3, preferred printer_model_id 
+2024-03-06 20:13:58.032257[Thread 0x00000bb4]:Slic3r::PresetBundle::load_vendor_configs_from_json enter, path C:\Users\nicho\AppData\Roaming\OrcaSlicer\system, compatibility_rule 2
+2024-03-06 20:13:58.032257[Thread 0x00000bb4]:Slic3r::PresetBundle::load_vendor_configs_from_json: parse C:\Users\nicho\AppData\Roaming\OrcaSlicer\system/Custom.json, got description:  "My configurations"
+2024-03-06 20:13:58.114550[Thread 0x00000bb4]:Slic3r::PresetBundle::load_vendor_configs_from_json enter, path C:\Users\nicho\AppData\Roaming\OrcaSlicer\system, compatibility_rule 2
+2024-03-06 20:13:58.117542[Thread 0x00000bb4]:Slic3r::PresetBundle::load_vendor_configs_from_json: parse C:\Users\nicho\AppData\Roaming\OrcaSlicer\system/Prusa.json, got description:  "Prusa configurations"
+2024-03-06 20:13:58.226761[Thread 0x00000bb4]:Slic3r::PresetBundle::load_vendor_configs_from_json enter, path C:\Users\nicho\AppData\Roaming\OrcaSlicer\system, compatibility_rule 2
+2024-03-06 20:13:58.229753[Thread 0x00000bb4]:Slic3r::PresetBundle::load_vendor_configs_from_json: parse C:\Users\nicho\AppData\Roaming\OrcaSlicer\system/Voron.json, got description:  "Voron configurations"
+2024-03-06 20:13:58.439435[Thread 0x00000bb4]:Slic3r::PresetBundle::load_user_presets545 entry and user is: default
+2024-03-06 20:13:58.439435[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets enter, load presets from "C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process", current type process
+2024-03-06 20:13:58.439435[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.10mm V2.4 Quality
+2024-03-06 20:13:58.440432[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.10mm V2.4 Slow Quality
+2024-03-06 20:13:58.440432[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.20mm V2.4 300mms
+2024-03-06 20:13:58.441430[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.20mm V2.4 PPGF
+2024-03-06 20:13:58.441430[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.20mm V2.4 Quality
+2024-03-06 20:13:58.442427[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.20mm V2.4 Slow Quality (Infil 200) 
+2024-03-06 20:13:58.442427[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.20mm V2.4 Slow Quality RIGID
+2024-03-06 20:13:58.443425[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.20mm V2.4 Slow Quality
+2024-03-06 20:13:58.443425[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.6 Nozzle 0.20mm V2.4 Slow Quality
+2024-03-06 20:13:58.444422[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.6 Nozzle 0.30mm V2.4 Slow Quality
+2024-03-06 20:13:58.444422[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.60mm V2.4 Slow Quality
+2024-03-06 20:13:58.445419[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:3DO 0.20mm V2.4 Quality
+2024-03-06 20:13:58.445419[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Pandora's Box 0.1mm
+2024-03-06 20:13:58.445419[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Pandora's Box Quality
+2024-03-06 20:13:58.446417[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Pandora's Box RIGID
+2024-03-06 20:13:58.446417[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets enter, load presets from "C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament", current type filament
+2024-03-06 20:13:58.446417[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.5 Fusion Filaments ABS 1.5
+2024-03-06 20:13:58.447414[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.5 Nozzle Polymaker ABS
+2024-03-06 20:13:58.447414[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:3DX PP-GF30 GV2
+2024-03-06 20:13:58.447414[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:ABS No PA
+2024-03-06 20:13:58.448411[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort 0.8mm ABS
+2024-03-06 20:13:58.448411[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort 3DO ASA-GF
+2024-03-06 20:13:58.449409[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort 3DO ASA
+2024-03-06 20:13:58.449409[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort 3DX PP-GF30 DB
+2024-03-06 20:13:58.449409[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort 3DX PP-GF30 GM0.6
+2024-03-06 20:13:58.450406[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort 3DX PP-GF30 PHTC
+2024-03-06 20:13:58.450406[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort 3DX PP-GF30
+2024-03-06 20:13:58.450406[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Atomic Filaments ABS 1.5
+2024-03-06 20:13:58.451403[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Atomic Filaments ABS
+2024-03-06 20:13:58.451403[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Fusion ABS 1.5
+2024-03-06 20:13:58.451906[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Fusion Filaments ABS 2.0 SL GM
+2024-03-06 20:13:58.451906[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Fusion Filaments ABS 2.0
+2024-03-06 20:13:58.451906[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort GM SnoLabs PCCF+
+2024-03-06 20:13:58.452904[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort IEMAI PCCF
+2024-03-06 20:13:58.452904[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Phaetus ASA-GF GM
+2024-03-06 20:13:58.452904[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Phaetus CF-ASA
+2024-03-06 20:13:58.453902[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Polymaker ABS
+2024-03-06 20:13:58.453902[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Polymaker ASA
+2024-03-06 20:13:58.454899[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Polymaker CF-PLA
+2024-03-06 20:13:58.454899[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Polymaker Galaxy ASA
+2024-03-06 20:13:58.454899[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Polymaker PC-PBT
+2024-03-06 20:13:58.455896[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort SnoLabs PCCF+
+2024-03-06 20:13:58.455896[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort Sparta PCCF
+2024-03-06 20:13:58.455896[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Hextrudort ZYLTECH PETG 0.6mm
+2024-03-06 20:13:58.456894[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Pandoras Box Polymaker ABS
+2024-03-06 20:13:58.456894[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Polymaker PLA
+2024-03-06 20:13:58.456894[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:Zyltech TPU
+2024-03-06 20:13:58.456894[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets enter, load presets from "C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine", current type machine
+2024-03-06 20:13:58.457891[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:0.6 LDO Blue V2
+2024-03-06 20:13:58.457891[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:LDO Blue V2 0.5
+2024-03-06 20:13:58.457891[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:LDO Blue V2 0.8
+2024-03-06 20:13:58.457891[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:LDO Blue V2
+2024-03-06 20:13:58.458888[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:LDO Space Grey V2 0.5
+2024-03-06 20:13:58.458888[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:LDO Space Grey V2 0.6
+2024-03-06 20:13:58.458888[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:LDO Space Grey V2 0.8
+2024-03-06 20:13:58.459886[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:LDO Space Grey V2
+2024-03-06 20:13:58.459886[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:PandorasBox 0.1
+2024-03-06 20:13:58.459886[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:PandorasBox 0.2
+2024-03-06 20:13:58.460883[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:PandorasBox
+2024-03-06 20:13:58.460883[Thread 0x00000bb4]:Slic3r::PresetCollection::load_presets1202 load config successful and preset name is:ShitBoxZero
+2024-03-06 20:13:58.460883[Thread 0x00000bb4]:update_compatibility for all presets enter
+2024-03-06 20:13:58.460883[Thread 0x00000bb4]:update_compatibility for all presets exit
+2024-03-06 20:13:58.460883[Thread 0x00000bb4]:update_compatibility for all presets enter
+2024-03-06 20:13:58.460883[Thread 0x00000bb4]:update_compatibility for all presets exit
+2024-03-06 20:13:58.460883[Thread 0x00000bb4]:update_compatibility for all presets enter
+2024-03-06 20:13:58.461881[Thread 0x00000bb4]:update_compatibility for all presets exit
+2024-03-06 20:13:58.461881[Thread 0x00000bb4]:Slic3r::PresetBundle::load_presets finished, returned substitutions 0
+2024-03-06 20:13:58.461881[Thread 0x00000bb4]:create the main window
+2024-03-06 20:13:58.633928[Thread 0x00000bb4]:WebView::CreateWebView: file:C:/Program%20Files/OrcaSlicer/resources/web/homepage/index.html?lang=en_US
+2024-03-06 20:13:58.637919[Thread 0x00000bb4]:WebView::CreateWebView::<lambda_99995e51ade83985bb6396e8fde8ca33>::operator (): begin to add script message handler for wx.
+2024-03-06 20:13:58.637919[Thread 0x00000bb4]:WebView::CreateWebView::<lambda_99995e51ade83985bb6396e8fde8ca33>::operator (): finished add script message handler for wx.
+2024-03-06 20:13:58.943725[Thread 0x00000bb4]:Slic3r::BackgroundSlicingProcess::select_technology: change the printer technology from  to  
+2024-03-06 20:13:58.977150[Thread 0x00000bb4]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 000002B9BBDB6350
+2024-03-06 20:13:59.024024[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 0000000000000000, new_panel 000002B9BBD11230
+2024-03-06 20:13:59.909890[Thread 0x00000bb4]:ImageGrid::SetStatus: No printers.
+2024-03-06 20:13:59.915875[Thread 0x00000bb4]:monitor: show_status = 4
+2024-03-06 20:13:59.945795[Thread 0x00000bb4]:Slic3r::GUI::PrintingTaskPanel::market_scoring_hide hide market scoring page
+2024-03-06 20:13:59.951779[Thread 0x00000bb4]:Slic3r::GUI::Sidebar::load_ams_list: 0 items
+2024-03-06 20:13:59.987195[Thread 0x00000bb4]:WebView::CreateWebView: 
+2024-03-06 20:13:59.988193[Thread 0x00000bb4]:WebView::CreateWebView::<lambda_99995e51ade83985bb6396e8fde8ca33>::operator (): begin to add script message handler for wx.
+2024-03-06 20:13:59.988193[Thread 0x00000bb4]:WebView::CreateWebView::<lambda_99995e51ade83985bb6396e8fde8ca33>::operator (): finished add script message handler for wx.
+2024-03-06 20:13:59.988193[Thread 0x00000bb4]:WebView::CreateWebView: file:C:/Program%20Files/OrcaSlicer/resources/web/model/index.html?lang=en_US
+2024-03-06 20:13:59.997169[Thread 0x00000bb4]:WebView::CreateWebView::<lambda_99995e51ade83985bb6396e8fde8ca33>::operator (): begin to add script message handler for wx.
+2024-03-06 20:13:59.997169[Thread 0x00000bb4]:WebView::CreateWebView::<lambda_99995e51ade83985bb6396e8fde8ca33>::operator (): finished add script message handler for wx.
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::GCodeViewer::reset: current result id 0 
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::Bed3D::set_shape:current position {0,0}, new position {0, 0}
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlateList::reset_size:before size: plate_width 0, plate_depth 0, plate_height 0
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlateList::reset_size:after size: plate_width 350, plate_depth 350, plate_height 325
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::set_pos_and_size: plate_id 0, before, origin {0,0,0}, plate_width 0, plate_depth 0, plate_height 0
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::set_pos_and_size: with_instance_move 0, after, origin {0,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::set_pos_and_size: plate_id 1, before, origin {0,0,0}, plate_width 0, plate_depth 0, plate_height 0
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::set_pos_and_size: with_instance_move 0, after, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-03-06 20:14:00.941532[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+2024-03-06 20:14:00.947516[Thread 0x00000bb4]:File Metadata/plate_1.png not found from archive
+2024-03-06 20:14:00.947516[Thread 0x00000bb4]:Unable to open the fileC:\Users\nicho\Downloads\Brush_Arm_v2 v1.3mf
+2024-03-06 20:14:00.947516[Thread 0x00006390]:File Metadata/plate_1.png not found from archive
+2024-03-06 20:14:01.126050[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 1, enable= 0 
+2024-03-06 20:14:01.126050[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_slice_status: m_slice_select 1, enable= 1 
+2024-03-06 20:14:01.126050[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 1, can_print 1, enable_slice 1, enable_print 0 
+2024-03-06 20:14:01.127047[Thread 0x00000bb4]:Slic3r::_BBS_Backup_Manager::_BBS_Backup_Manager inital and interval = 60
+2024-03-06 20:14:01.127047[Thread 0x00000bb4]:Slic3r::_BBS_Backup_Manager::set_interval entry, and last interval is: 60
+2024-03-06 20:14:01.127047[Thread 0x00000bb4]:Slic3r::_BBS_Backup_Manager::set_interval exit, and new interval is: 10
+2024-03-06 20:14:01.137020[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-03-06 20:14:01.165451[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:01.165451[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:01.173430[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-03-06 20:14:01.173430[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-03-06 20:14:01.178416[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:01.178416[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:01.186395[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-03-06 20:14:01.186395[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-03-06 20:14:01.187392[Thread 0x00000bb4]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-03-06 20:14:01.187392[Thread 0x00000bb4]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-03-06 20:14:01.216315[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:01.216315[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:01.225291[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-03-06 20:14:01.239254[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:01.239254[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:01.257207[Thread 0x00000bb4]:main frame firstly shown
+2024-03-06 20:14:01.561421[Thread 0x00000bb4]:finished the gui app init
+2024-03-06 20:14:01.574387[Thread 0x00000bb4]:ImageGrid::SetStatus: No printers.
+2024-03-06 20:14:01.575384[Thread 0x00000bb4]:monitor: show_status = 4
+2024-03-06 20:14:01.611288[Thread 0x00000bb4]:Slic3r::GUI::Sidebar::load_ams_list: 0 items
+2024-03-06 20:14:01.697564[Thread 0x00000bb4]:Slic3r::GUI::WebViewPanel::OnNavigationRequest: 
+2024-03-06 20:14:01.706540[Thread 0x00000bb4]:Slic3r::Model::update_print_volume_state, print_volume {0, 0, 0} to {350, 350, 325}, got 0 printable istances
+2024-03-06 20:14:01.707537[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::update_background_process: enter, force_validation=0 postpone_error_messages=0, switch_print=1, was_running=0
+2024-03-06 20:14:01.707537[Thread 0x00000bb4]:Slic3r::Model::update_print_volume_state, print_volume {0, 0, 0} to {350, 350, 325}, got 0 printable istances
+2024-03-06 20:14:01.707537[Thread 0x00000bb4]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 000002B9BBDB6350
+2024-03-06 20:14:01.707537[Thread 0x00000bb4]:Slic3r::Print::apply, Line 1019: enter
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::Print::apply, got print_diff 79, object_diff 26, region_diff 30, set status to APPLY_STATUS_CHANGED
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::Print::apply 1075: found full_config_diff changed.
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::Print::apply 1575: finished,  this 000002B9BBDB7540, m_modified_count 1, apply_status 1, m_support_used 0
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::update_background_process: background process apply result=1
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::update_background_process, Line 4946: was_running = 0, running 0, invalidated=1, return_state=0, internal_cancel=0
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::update_background_process, Line 4976: background data valid, return_state=0
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::update_background_process, Line 5019: exit, return_state=0
+2024-03-06 20:14:01.708535[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5057: not started
+2024-03-06 20:14:01.720503[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, begin load_gl_resources
+2024-03-06 20:14:01.820769[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::select_view_3D3109select view3D
+2024-03-06 20:14:01.820769[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 0000000000000000, new_panel 000002B9BBD11230
+2024-03-06 20:14:01.820769[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-03-06 20:14:01.820769[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_slice_status: m_slice_select 1, enable= 1 
+2024-03-06 20:14:01.820769[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 1, can_print 1, enable_slice 1, enable_print 0 
+2024-03-06 20:14:01.829745[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_current_panel: successfully, exit
+2024-03-06 20:14:01.831740[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, start to init opengl
+2024-03-06 20:14:01.833735[Thread 0x00000bb4]:Found Framebuffer Type ARB.
+2024-03-06 20:14:01.833735[Thread 0x00000bb4]:got opengl version 4.6.0 NVIDIA 551.61, glsl version 4.60 NVIDIA, vendor NVIDIA Corporation
+2024-03-06 20:14:01.910037[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, finished init opengl
+2024-03-06 20:14:01.910037[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::init enter
+2024-03-06 20:14:01.910037[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::init: before m_layers_editing init
+2024-03-06 20:14:01.910037[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::init: before gizmo init
+2024-03-06 20:14:01.931978[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::init: before _init_toolbars
+2024-03-06 20:14:01.944945[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::_init_assemble_view_toolbar: enter,  m_assemble_view_toolbar.is_enabled=true
+2024-03-06 20:14:01.944945[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::_init_assemble_view_toolbar: Finished Successfully
+2024-03-06 20:14:01.946940[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::init: finish _init_toolbars
+2024-03-06 20:14:01.946940[Thread 0x00000bb4]:Slic3r::GUI::GLCanvas3D::init: finish m_selection
+2024-03-06 20:14:01.946940[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, finished init canvas3D
+2024-03-06 20:14:02.456346[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, finished init imgui frame
+2024-03-06 20:14:02.456346[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, start to render a first frame for test
+2024-03-06 20:14:02.660334[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, finished rendering a first frame for test
+2024-03-06 20:14:02.832406[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::post_init, end load_gl_resources
+2024-03-06 20:14:02.832406[Thread 0x00000bb4]:before check_updates
+2024-03-06 20:14:02.832406[Thread 0x00000bb4]:after check_updates
+2024-03-06 20:14:02.834401[Thread 0x00000bb4]:delete log file over 30, filename: crash_Sun_Nov_19_12_41_51_0.log
+2024-03-06 20:14:02.834401[Thread 0x00000bb4]:finished post_init
+2024-03-06 20:14:02.848364[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::select_view_3D3109select view3D
+2024-03-06 20:14:02.848364[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 000002B9BBD11230, new_panel 000002B9BBD11230
+2024-03-06 20:14:02.848364[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_current_panel: the same panel, exit
+2024-03-06 20:14:02.878793[Thread 0x00000bb4]:Undo / Redo snapshot taken: Reset Project, Undo / Redo stack memory: 0MB WorkingSet: 278MB; PrivateBytes: 422MB; Pagefile(peak): 422MB(422MB)
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_project_filename7278 project folder is:
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_project_name7248 project is:
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::reset4591 call set_project_filename: empty
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-03-06 20:14:02.879791[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+2024-03-06 20:14:02.880788[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::set_pos_and_size: plate_id 1, before, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-03-06 20:14:02.880788[Thread 0x00000bb4]:Slic3r::GUI::PartPlate::set_pos_and_size: with_instance_move 0, after, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-03-06 20:14:02.880788[Thread 0x00000bb4]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 000002B9BBDB6350
+2024-03-06 20:14:02.880788[Thread 0x00000bb4]:Slic3r::BackgroundSlicingProcess::stop, enter
+2024-03-06 20:14:02.880788[Thread 0x00000bb4]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-03-06 20:14:02.913700[Thread 0x00000bb4]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-03-06 20:14:02.944617[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::object_list_changed: can_slice 0, model_fits= 1, export_in_progress 0, has_printable_instances 0 
+2024-03-06 20:14:02.944617[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-03-06 20:14:02.944617[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-03-06 20:14:02.944617[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-03-06 20:14:02.946613[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:02.946613[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:02.956586[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-03-06 20:14:02.956586[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-03-06 20:14:02.957584[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:02.957584[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:02.965075[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-03-06 20:14:02.965075[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-03-06 20:14:02.965075[Thread 0x00000bb4]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-03-06 20:14:02.965075[Thread 0x00000bb4]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-03-06 20:14:02.976045[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:02.976045[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:02.984025[Thread 0x00000bb4]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-03-06 20:14:02.993998[Thread 0x00000bb4]:put_other_changes
+2024-03-06 20:14:02.993998[Thread 0x00000bb4]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-03-06 20:14:02.993998[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_project_name7248 project is:Untitled
+2024-03-06 20:14:02.994995[Thread 0x00000bb4]:Undo / Redo snapshot taken: New Project, Undo / Redo stack memory: 0MB WorkingSet: 279MB; PrivateBytes: 422MB; Pagefile(peak): 422MB(422MB)
+2024-03-06 20:14:02.994995[Thread 0x00000bb4]:model 000000E7D5FB1FB0, id 49, backup_path empty, set to C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Wed_Mar_06/20_14_02#24588#49
+2024-03-06 20:14:02.994995[Thread 0x00000bb4]:create /3D/Objects in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Wed_Mar_06/20_14_02#24588#49"
+2024-03-06 20:14:02.994995[Thread 0x00000bb4]:create /Metadata in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Wed_Mar_06/20_14_02#24588#49"
+2024-03-06 20:14:02.995992[Thread 0x00000bb4]:create /lock.txt in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Wed_Mar_06/20_14_02#24588#49"
+2024-03-06 20:14:02.995992[Thread 0x00000bb4]:Slic3r::Model::set_backup_path, model 000002B9BBD1C380, id 7, set backup to C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Wed_Mar_06/20_14_02#24588#49
+2024-03-06 20:14:02.995992[Thread 0x00000bb4]:create missing sub_pathC:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Wed_Mar_06/20_14_02#24588#49//Auxiliaries
+2024-03-06 20:14:03.006963[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::select_view_3D3109select view3D
+2024-03-06 20:14:03.006963[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 000002B9BBD11230, new_panel 000002B9BBD11230
+2024-03-06 20:14:03.006963[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::set_current_panel: the same panel, exit
+2024-03-06 20:14:03.038878[Thread 0x00000bb4]:Slic3r::GUI::Plater::priv::select_view3038select view3D
+2024-03-06 20:14:03.041870[Thread 0x00000bb4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+2024-03-06 20:14:03.041870[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::is_compatibility_version: m_networking_compatible=0
+2024-03-06 20:14:03.041870[Thread 0x00000bb4]:Slic3r::GUI::WebViewPanel::ShowNetpluginTip: bValid=0, nShow=1
+2024-03-06 20:14:03.042867[Thread 0x0000a738]:[BBL Updater]: sync_config Syncing configuration enter
+2024-03-06 20:14:03.042867[Thread 0x0000a738]:non need to sync plugins for there is no plugins currently.
+2024-03-06 20:14:03.042867[Thread 0x0000a738]:[BBL Updater]: sync_resources get preferred setting version for app version OrcaSlicer, url: https://api.bambulab.com/v1/iot-service/api/slicer/resource, current_version_str , check_patch 0
+2024-03-06 20:14:03.042867[Thread 0x0000a738]:[BBL Updater]: sync_resources request_url: https://api.bambulab.com/v1/iot-service/api/slicer/resource?slicer/printer/bbl=01.08.00.00
+2024-03-06 20:14:03.044862[Thread 0x0000a81c]:HMS: check_hms_info current version = 202401301630
+2024-03-06 20:14:03.044862[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-03-06 20:14:03.044862[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-03-06 20:14:03.044862[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-03-06 20:14:03.044862[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-03-06 20:14:03.044862[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-03-06 20:14:03.044862[Thread 0x00000bb4]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-03-06 20:14:03.052843[Thread 0x00000bb4]:Slic3r::GUI::WebViewPanel::OnDocumentLoaded: 
+2024-03-06 20:14:03.052843[Thread 0x00000bb4]:Slic3r::GUI::GUI_App::is_compatibility_version: m_networking_compatible=0
+2024-03-06 20:14:03.052843[Thread 0x00000bb4]:Slic3r::GUI::WebViewPanel::ShowNetpluginTip: bValid=0, nShow=1
+2024-03-06 20:14:03.065322[Thread 0x00000bb4]:Slic3r::GUI::WebViewPanel::OnTitleChanged: homepage
+2024-03-06 20:14:03.095243[Thread 0x00000bb4]:Slic3r::GUI::W

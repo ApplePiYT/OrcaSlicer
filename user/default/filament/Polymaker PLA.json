@@ -9,10 +9,13 @@
         "0.96"
     ],
     "filament_max_volumetric_speed": [
-        "25"
+        "20"
     ],
     "filament_settings_id": [
         "Polymaker PLA"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=+0.15 MOVE=1\n"
     ],
     "filament_vendor": [
         "Polymaker"

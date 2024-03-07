@@ -23,8 +23,8 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\nicho\\AppData\\Local\\Temp/orcaslicer_model/Thu_Jan_18/21_34_52#32276#383",
-        "last_export_path": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Fabreeko Printed Parts\\Jeremy- XOL",
+        "last_backup_path": "C:\\Users\\nicho\\AppData\\Local\\Temp/orcaslicer_model/Wed_Mar_06/20_14_02#24588#49",
+        "last_export_path": "C:\\Users\\nicho\\Downloads",
         "max_recent_count": "18",
         "mouse_supported": "mouse left/mouse middle/mouse right",
         "mouse_wheel": "0",
@@ -39,8 +39,8 @@
         "print_host_queue_dialog_column_5": "80",
         "print_host_queue_dialog_height": "60",
         "print_host_queue_dialog_width": "30",
-        "print_host_queue_dialog_x": "716",
-        "print_host_queue_dialog_y": "508",
+        "print_host_queue_dialog_x": "938",
+        "print_host_queue_dialog_y": "628",
         "privacy_version": "00.00.00.00",
         "region": "North America",
         "rotate_view": "none/mouse left",
@@ -76,7 +76,7 @@
         "zoom_view": "none/mouse left"
     },
     "arrange": {
-        "enable_rotation_fff": true,
+        "enable_rotation_fff": false,
         "min_object_distance_fff": "5"
     },
     "filaments": [
@@ -104,7 +104,7 @@
     "firstguide": {
         "finish": true
     },
-    "header": "OrcaSlicer 1.9.0",
+    "header": "OrcaSlicer 1.9.1",
     "models": [
         {
             "model": "MINI",
@@ -171,7 +171,16 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Zyltech TPU",
+            "filament": "Hextrudort 0.8mm ABS",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "LDO Blue V2 0.8",
+            "process": "0.60mm V2.4 Slow Quality"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Hextrudort Atomic Filaments ABS 1.5",
             "filament_colors": "#0080FF",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
@@ -189,12 +198,21 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Voron Generic PLA",
+            "filament": "Hextrudort 0.8mm ABS",
             "filament_colors": "#26A69A",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "LDO Space Grey V2 0.6",
-            "process": "0.20mm Standard @Voron"
+            "process": "0.60mm V2.4 Slow Quality"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Hextrudort 0.8mm ABS",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "LDO Space Grey V2 0.8",
+            "process": "0.60mm V2.4 Slow Quality"
         },
         {
             "curr_bed_type": "3",
@@ -243,26 +261,29 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "C:\\Users\\nicho\\Downloads",
+        "last_opened_folder": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\E3D Toolchanger\\Mods\\Rene Hemera Fan Duct",
         "printhost_path": "",
         "settings_folder": "C:\\Users\\nicho\\Downloads"
     },
     "recent_projects": {
-        "01": "C:\\Users\\nicho\\Downloads\\Master Spool EIBOS EASDRY.3mf",
-        "02": "C:\\Users\\nicho\\Downloads\\part_a.3mf",
-        "03": "C:\\Users\\nicho\\Downloads\\V-Spooler+Beta+5.3mf",
-        "04": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Fabreeko Printed Parts\\Jeremy- XOL\\Xol Carriage - Belt Clip - 6MM - E.3mf",
-        "05": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Fabreeko Printed Parts\\SunDragon CW2 + BTT 43 Screen\\Primary.3mf",
-        "06": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Fabreeko Printed Parts\\SunDragon CW2 + BTT 43 Screen\\Accents.3mf",
-        "07": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\FInal Red Parts.3mf",
-        "08": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Corner Panel Clips.3mf",
-        "09": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Gantry.3mf",
-        "10": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Filter.3mf",
-        "11": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Skirts.3mf",
-        "12": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Primary Plate 1.3mf",
-        "13": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Tools.3mf",
-        "14": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Accent Parts.3mf",
-        "15": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\ASA-GF.3mf"
+        "01": "C:\\Users\\nicho\\Downloads\\arm.3mf",
+        "02": "C:\\Users\\nicho\\Downloads\\brush arm.3mf",
+        "03": "C:\\Users\\nicho\\Downloads\\Brush_Arm_v2 v1.3mf",
+        "04": "C:\\Users\\nicho\\Downloads\\Night Spirit_v1_2_og.3mf",
+        "05": "C:\\Users\\nicho\\Downloads\\Master Spool EIBOS EASDRY.3mf",
+        "06": "C:\\Users\\nicho\\Downloads\\part_a.3mf",
+        "07": "C:\\Users\\nicho\\Downloads\\V-Spooler+Beta+5.3mf",
+        "08": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Fabreeko Printed Parts\\Jeremy- XOL\\Xol Carriage - Belt Clip - 6MM - E.3mf",
+        "09": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Fabreeko Printed Parts\\SunDragon CW2 + BTT 43 Screen\\Primary.3mf",
+        "10": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Fabreeko Printed Parts\\SunDragon CW2 + BTT 43 Screen\\Accents.3mf",
+        "11": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\FInal Red Parts.3mf",
+        "12": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Corner Panel Clips.3mf",
+        "13": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Gantry.3mf",
+        "14": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Filter.3mf",
+        "15": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Skirts.3mf",
+        "16": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Primary Plate 1.3mf",
+        "17": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Tools.3mf",
+        "18": "C:\\Users\\nicho\\OneDrive\\Cad Shit\\Salad Fork\\Printed Parts\\Accent Parts.3mf"
     }
 }
-# MD5 checksum F91855B2BBC7BE132E59A04F8ABE2B90
+# MD5 checksum 82D10A88CE65D49D2D421FACA5B0D286

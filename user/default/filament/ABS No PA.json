@@ -21,7 +21,7 @@
         "ABS No PA"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.001\n"
+        "; Filament gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.02\n"
     ],
     "filament_vendor": [
         "Polymaker"

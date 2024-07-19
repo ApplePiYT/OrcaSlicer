@@ -1,0 +1,666 @@
+2024-04-12 22:54:34.213492[Thread 0x00005bb0]:gui mode, Current OrcaSlicer Version 2.0.0-beta
+2024-04-12 22:54:34.225460[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::load_language: language , initial: 1
+2024-04-12 22:54:34.225460[Thread 0x00005bb0]:language provided by OrcaSlicer.conf: en_GB
+2024-04-12 22:54:34.243412[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::Update_dark_mode_flag: switch the current dark mode status to 1 
+2024-04-12 22:54:34.243412[Thread 0x00005bb0]:last app version {1.8.4}, current version {1.8.4}
+2024-04-12 22:54:34.244409[Thread 0x00005bb0]:begin to show the splash screen...
+2024-04-12 22:54:34.274364[Thread 0x00005bb0]:loading systen presets...
+2024-04-12 22:54:34.276358[Thread 0x00005bb0]:[Orca Updater]:Checking whether the profile from resource is newer
+2024-04-12 22:54:34.292317[Thread 0x00005bb0]:Installing 1 bundles from resources ...
+2024-04-12 22:54:34.292317[Thread 0x00005bb0]:[Orca Updater]:Performing 2 updates
+2024-04-12 22:54:34.292317[Thread 0x00005bb0]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Custom.json -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom.json)
+2024-04-12 22:54:34.293315[Thread 0x00005bb0]:	Update(C:\Program Files\OrcaSlicer\resources\profiles\Custom -> C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom)
+2024-04-12 22:54:34.293315[Thread 0x00005bb0]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Custom" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom"
+2024-04-12 22:54:34.293315[Thread 0x00005bb0]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Custom\filament" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\filament"
+2024-04-12 22:54:34.302466[Thread 0x00005bb0]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Custom\machine" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\machine"
+2024-04-12 22:54:34.305009[Thread 0x00005bb0]:copy_directory_recursively "C:\Program Files\OrcaSlicer\resources\profiles\Custom\process" -> "C:\Users\nicho\AppData\Roaming\OrcaSlicer\system\Custom\process"
+2024-04-12 22:54:34.315981[Thread 0x00005bb0]:Slic3r::NetworkAgent::initialize_network_module, can not Load Library for C:\Users\nicho\AppData\Roaming\OrcaSlicer\plugins/bambu_networking.dll
+2024-04-12 22:54:34.315981[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::on_init_network: on_init_network, load dll failed
+2024-04-12 22:54:34.315981[Thread 0x00005bb0]:Slic3r::NetworkAgent::unload_network_module, network module 0000000000000000
+2024-04-12 22:54:34.315981[Thread 0x00005bb0]:on_init_network, unload_network_module, result = 0
+2024-04-12 22:54:34.315981[Thread 0x00005bb0]:preset_folder: set to empty
+2024-04-12 22:54:34.316978[Thread 0x00005bb0]:Slic3r::PresetBundle::load_presets enter, substitution_rule 3, preferred printer_model_id 
+2024-04-12 22:54:34.316978[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json enter, path C:\Users\nicho\AppData\Roaming\OrcaSlicer\system, compatibility_rule 2
+2024-04-12 22:54:34.320968[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json: parse C:\Users\nicho\AppData\Roaming\OrcaSlicer\system/Custom.json, got description:  "My configurations"
+2024-04-12 22:54:34.342909[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.08mm Extra Fine @MyKlipper load filament_id: 
+2024-04-12 22:54:34.345901[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.12mm Fine @MyKlipper load filament_id: 
+2024-04-12 22:54:34.349890[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.15mm Optimal @MyKlipper load filament_id: 
+2024-04-12 22:54:34.351885[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Standard @MyKlipper load filament_id: 
+2024-04-12 22:54:34.354877[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.24mm Draft @MyKlipper load filament_id: 
+2024-04-12 22:54:34.357869[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.28mm Extra Draft @MyKlipper load filament_id: 
+2024-04-12 22:54:34.360861[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.08mm Extra Fine @MyMarlin load filament_id: 
+2024-04-12 22:54:34.363853[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.12mm Fine @MyMarlin load filament_id: 
+2024-04-12 22:54:34.366845[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.15mm Optimal @MyMarlin load filament_id: 
+2024-04-12 22:54:34.369837[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Standard @MyMarlin load filament_id: 
+2024-04-12 22:54:34.372829[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.24mm Draft @MyMarlin load filament_id: 
+2024-04-12 22:54:34.375820[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.28mm Extra Draft @MyMarlin load filament_id: 
+2024-04-12 22:54:34.409243[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic PLA load filament_id: GFL99
+2024-04-12 22:54:34.412236[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic PLA-CF load filament_id: GFL98
+2024-04-12 22:54:34.415228[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic PETG load filament_id: GFG99
+2024-04-12 22:54:34.418220[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic ABS load filament_id: GFB99
+2024-04-12 22:54:34.421211[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic TPU load filament_id: GFU99
+2024-04-12 22:54:34.424203[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic ASA load filament_id: GFB98
+2024-04-12 22:54:34.427195[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic PC load filament_id: GFC99
+2024-04-12 22:54:34.430187[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic PVA load filament_id: GFS99
+2024-04-12 22:54:34.432182[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic PA load filament_id: GFN99
+2024-04-12 22:54:34.435174[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510My Generic PA-CF load filament_id: GFN98
+2024-04-12 22:54:34.447143[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510MyKlipper 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.451132[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510MyMarlin 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.452129[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json enter, path C:\Users\nicho\AppData\Roaming\OrcaSlicer\system, compatibility_rule 2
+2024-04-12 22:54:34.452129[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json: parse C:\Users\nicho\AppData\Roaming\OrcaSlicer\system/Prusa.json, got description:  "Prusa configurations"
+2024-04-12 22:54:34.474070[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Standard @MINI load filament_id: 
+2024-04-12 22:54:34.478060[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.05mm UltraDetail @MK3S 0.25 load filament_id: 
+2024-04-12 22:54:34.482050[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.05mm UltraDetail @MK3S 0.4 load filament_id: 
+2024-04-12 22:54:34.485042[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.07mm UltraDetail @MK3S 0.25 load filament_id: 
+2024-04-12 22:54:34.488034[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.07mm UltraDetail @MK3S 0.4 load filament_id: 
+2024-04-12 22:54:34.492024[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.10mm Detail @MK3S 0.25 load filament_id: 
+2024-04-12 22:54:34.495525[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.10mm Detail @MK3S 0.4 load filament_id: 
+2024-04-12 22:54:34.500610[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.15mm Quality @MK3S 0.25 load filament_id: 
+2024-04-12 22:54:34.504720[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.15mm Quality @MK3S 0.4 load filament_id: 
+2024-04-12 22:54:34.508775[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.15mm Speed @MK3S load filament_id: 
+2024-04-12 22:54:34.511767[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Standard @MK3S 0.4 load filament_id: 
+2024-04-12 22:54:34.515757[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Speed @MK3S 0.4 load filament_id: 
+2024-04-12 22:54:34.519746[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.30mm Draft @MK3S 0.4 load filament_id: 
+2024-04-12 22:54:34.523735[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.15mm Detail @MK3S 0.6 load filament_id: 
+2024-04-12 22:54:34.528722[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Detail @MK3S 0.6 load filament_id: 
+2024-04-12 22:54:34.532711[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.30mm Quality @MK3S 0.6 load filament_id: 
+2024-04-12 22:54:34.536701[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.35mm Speed @MK3S 0.6 load filament_id: 
+2024-04-12 22:54:34.540690[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.40mm Draft @MK3S 0.6 load filament_id: 
+2024-04-12 22:54:34.543682[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.30mm Detail @MK3S 0.8 load filament_id: 
+2024-04-12 22:54:34.547671[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.40mm Quality @MK3S 0.8 load filament_id: 
+2024-04-12 22:54:34.551539[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.55mm Draft @MK3S 0.8 load filament_id: 
+2024-04-12 22:54:34.554579[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.08mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.557620[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.12mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.560699[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.16mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.563693[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.566685[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.24mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.569677[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.28mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.572669[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.32mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.575661[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.40mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.578653[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.56mm Standard @MK4 load filament_id: 
+2024-04-12 22:54:34.613068[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PLA load filament_id: GFL99
+2024-04-12 22:54:34.616059[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PLA @MK4 load filament_id: GFL99_1
+2024-04-12 22:54:34.619051[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PLA-CF load filament_id: GFL98
+2024-04-12 22:54:34.623041[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PETG load filament_id: GFG99
+2024-04-12 22:54:34.626033[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PETG @MK4 load filament_id: GFG99_1
+2024-04-12 22:54:34.629025[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic ABS load filament_id: GFB99
+2024-04-12 22:54:34.633014[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic ABS @MK4 load filament_id: GFB99_1
+2024-04-12 22:54:34.636006[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic TPU load filament_id: GFU99
+2024-04-12 22:54:34.638999[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic TPU @MK4 load filament_id: GFU99_1
+2024-04-12 22:54:34.642987[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic ASA load filament_id: GFB98
+2024-04-12 22:54:34.646977[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic ASA @MK4 load filament_id: GFB98_1
+2024-04-12 22:54:34.649969[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PC load filament_id: GFC99
+2024-04-12 22:54:34.652962[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PVA load filament_id: GFS99
+2024-04-12 22:54:34.655489[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PA load filament_id: GFN99
+2024-04-12 22:54:34.658482[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa Generic PA-CF load filament_id: GFN98
+2024-04-12 22:54:34.666461[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK3S 0.25 nozzle load filament_id: 
+2024-04-12 22:54:34.670847[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK3S 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.674837[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK3S 0.6 nozzle load filament_id: 
+2024-04-12 22:54:34.678826[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK3S 0.8 nozzle load filament_id: 
+2024-04-12 22:54:34.682818[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK4 0.25 nozzle load filament_id: 
+2024-04-12 22:54:34.688802[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK4 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.692791[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK4 0.6 nozzle load filament_id: 
+2024-04-12 22:54:34.697286[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MK4 0.8 nozzle load filament_id: 
+2024-04-12 22:54:34.702273[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Prusa MINI 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.703269[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json enter, path C:\Users\nicho\AppData\Roaming\OrcaSlicer\system, compatibility_rule 2
+2024-04-12 22:54:34.704267[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json: parse C:\Users\nicho\AppData\Roaming\OrcaSlicer\system/Voron.json, got description:  "Voron configurations"
+2024-04-12 22:54:34.762299[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.05mm Fine 0.15 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.765291[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.06mm Fine 0.2 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.768283[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.06mm Fine 0.25 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.771275[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.07mm Optimal 0.15 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.774267[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.08mm Extra Fine @Voron load filament_id: 
+2024-04-12 22:54:34.778257[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.08mm Optimal 0.2 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.781250[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.08mm Optimal 0.25 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.784242[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.09mm Standard 0.15 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.787234[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.10mm Standard 0.2 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.790811[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.10mm Standard 0.25 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.793857[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.12mm Fine @Voron load filament_id: 
+2024-04-12 22:54:34.796390[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.12mm Draft 0.15 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.799437[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.12mm Draft 0.2 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.802465[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.12mm Draft 0.25 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.804460[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.14mm Extra Draft 0.2 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.807453[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.14mm Extra Draft 0.25 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.810445[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.15mm Optimal @Voron load filament_id: 
+2024-04-12 22:54:34.814433[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.18mm Fine 0.6 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.817426[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.20mm Standard @Voron load filament_id: 
+2024-04-12 22:54:34.820417[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.24mm Draft @Voron load filament_id: 
+2024-04-12 22:54:34.823488[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.24mm Optimal 0.6 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.826034[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.24mm Fine 0.8 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.829093[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.28mm Extra Draft @Voron load filament_id: 
+2024-04-12 22:54:34.831637[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.30mm Standard 0.6 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.834631[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.30mm Fine 1.0 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.838621[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.32mm Optimal 0.6 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.841612[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.36mm Draft 0.6 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.844604[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.40mm Standard 0.8 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.848594[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.42mm Extra Draft 0.6 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.851585[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.48mm Draft 0.8 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.854577[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.50mm Standard 1.0 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.857569[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.56mm Extra Draft 0.8 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.861559[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.60mm Draft 1.0 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.864550[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 35100.80mm Extra Draft 1.0 nozzle @Voron load filament_id: 
+2024-04-12 22:54:34.885044[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic PLA load filament_id: GFL99
+2024-04-12 22:54:34.889037[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic PLA-CF load filament_id: GFL98
+2024-04-12 22:54:34.892029[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic PETG load filament_id: GFG99
+2024-04-12 22:54:34.895021[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic ABS load filament_id: GFB99
+2024-04-12 22:54:34.897520[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic TPU load filament_id: GFU99
+2024-04-12 22:54:34.900512[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic ASA load filament_id: GFB98
+2024-04-12 22:54:34.903504[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic PC load filament_id: GFC99
+2024-04-12 22:54:34.906496[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic PVA load filament_id: GFS99
+2024-04-12 22:54:34.909487[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic PA load filament_id: GFN99
+2024-04-12 22:54:34.912480[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Generic PA-CF load filament_id: GFN98
+2024-04-12 22:54:34.923451[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 250 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.928437[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 250 0.15 nozzle load filament_id: 
+2024-04-12 22:54:34.931429[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 250 0.2 nozzle load filament_id: 
+2024-04-12 22:54:34.935418[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 250 0.25 nozzle load filament_id: 
+2024-04-12 22:54:34.938538[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 250 0.6 nozzle load filament_id: 
+2024-04-12 22:54:34.941531[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 250 0.8 nozzle load filament_id: 
+2024-04-12 22:54:34.945521[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 250 1.0 nozzle load filament_id: 
+2024-04-12 22:54:34.948514[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 300 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.951506[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 300 0.15 nozzle load filament_id: 
+2024-04-12 22:54:34.954498[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 300 0.2 nozzle load filament_id: 
+2024-04-12 22:54:34.957491[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 300 0.25 nozzle load filament_id: 
+2024-04-12 22:54:34.960482[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 300 0.6 nozzle load filament_id: 
+2024-04-12 22:54:34.963984[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 300 0.8 nozzle load filament_id: 
+2024-04-12 22:54:34.966976[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 300 1.0 nozzle load filament_id: 
+2024-04-12 22:54:34.969968[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 350 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.973129[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 350 0.15 nozzle load filament_id: 
+2024-04-12 22:54:34.976123[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 350 0.2 nozzle load filament_id: 
+2024-04-12 22:54:34.979115[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 350 0.25 nozzle load filament_id: 
+2024-04-12 22:54:34.982108[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 350 0.6 nozzle load filament_id: 
+2024-04-12 22:54:34.985099[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 350 0.8 nozzle load filament_id: 
+2024-04-12 22:54:34.988092[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 2.4 350 1.0 nozzle load filament_id: 
+2024-04-12 22:54:34.991083[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 250 0.4 nozzle load filament_id: 
+2024-04-12 22:54:34.993581[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 250 0.15 nozzle load filament_id: 
+2024-04-12 22:54:34.997083[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 250 0.2 nozzle load filament_id: 
+2024-04-12 22:54:35.000014[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 250 0.25 nozzle load filament_id: 
+2024-04-12 22:54:35.003006[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 250 0.6 nozzle load filament_id: 
+2024-04-12 22:54:35.005998[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 250 0.8 nozzle load filament_id: 
+2024-04-12 22:54:35.008990[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 250 1.0 nozzle load filament_id: 
+2024-04-12 22:54:35.011982[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 300 0.4 nozzle load filament_id: 
+2024-04-12 22:54:35.014974[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 300 0.15 nozzle load filament_id: 
+2024-04-12 22:54:35.018964[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 300 0.2 nozzle load filament_id: 
+2024-04-12 22:54:35.021955[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 300 0.25 nozzle load filament_id: 
+2024-04-12 22:54:35.025945[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 300 0.6 nozzle load filament_id: 
+2024-04-12 22:54:35.028937[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 300 0.8 nozzle load filament_id: 
+2024-04-12 22:54:35.031928[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 300 1.0 nozzle load filament_id: 
+2024-04-12 22:54:35.035918[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 350 0.4 nozzle load filament_id: 
+2024-04-12 22:54:35.038910[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 350 0.15 nozzle load filament_id: 
+2024-04-12 22:54:35.041902[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 350 0.2 nozzle load filament_id: 
+2024-04-12 22:54:35.044894[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 350 0.25 nozzle load filament_id: 
+2024-04-12 22:54:35.049013[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 350 0.6 nozzle load filament_id: 
+2024-04-12 22:54:35.052062[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 350 0.8 nozzle load filament_id: 
+2024-04-12 22:54:35.055105[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Trident 350 1.0 nozzle load filament_id: 
+2024-04-12 22:54:35.058150[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 0.1 0.4 nozzle load filament_id: 
+2024-04-12 22:54:35.061143[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 0.1 0.15 nozzle load filament_id: 
+2024-04-12 22:54:35.064135[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 0.1 0.2 nozzle load filament_id: 
+2024-04-12 22:54:35.067128[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 0.1 0.25 nozzle load filament_id: 
+2024-04-12 22:54:35.070119[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 0.1 0.6 nozzle load filament_id: 
+2024-04-12 22:54:35.072114[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 0.1 0.8 nozzle load filament_id: 
+2024-04-12 22:54:35.075106[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron 0.1 1.0 nozzle load filament_id: 
+2024-04-12 22:54:35.078098[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Switchwire 250 0.4 nozzle load filament_id: 
+2024-04-12 22:54:35.081090[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Switchwire 250 0.15 nozzle load filament_id: 
+2024-04-12 22:54:35.085081[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Switchwire 250 0.2 nozzle load filament_id: 
+2024-04-12 22:54:35.088073[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Switchwire 250 0.25 nozzle load filament_id: 
+2024-04-12 22:54:35.091065[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Switchwire 250 0.6 nozzle load filament_id: 
+2024-04-12 22:54:35.093060[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Switchwire 250 0.8 nozzle load filament_id: 
+2024-04-12 22:54:35.096554[Thread 0x00005bb0]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_a0cf1711ec5f0152bfe6b4a4aa1ff1df>::operator () 3510Voron Switchwire 250 1.0 nozzle load filament_id: 
+2024-04-12 22:54:35.097553[Thread 0x00005bb0]:Slic3r::PresetBundle::load_user_presets545 entry and user is: default
+2024-04-12 22:54:35.097553[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets enter, load presets from "C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process", current type process
+2024-04-12 22:54:35.101542[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.10mm V2.4 Quality.info and base_id: GP004
+2024-04-12 22:54:35.104534[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.10mm V2.4 Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.104534[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.10mm V2.4 Quality
+2024-04-12 22:54:35.108025[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.10mm V2.4 Slow Quality.info and base_id: GP004
+2024-04-12 22:54:35.111016[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.10mm V2.4 Slow Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.111016[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.10mm V2.4 Slow Quality
+2024-04-12 22:54:35.114009[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm V2.4 300mms.info and base_id: GP004
+2024-04-12 22:54:35.117998[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.20mm V2.4 300mms and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.117998[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.20mm V2.4 300mms
+2024-04-12 22:54:35.120990[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm V2.4 PPGF.info and base_id: GP004
+2024-04-12 22:54:35.123982[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.20mm V2.4 PPGF and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.123982[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.20mm V2.4 PPGF
+2024-04-12 22:54:35.126974[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm V2.4 Quality.info and base_id: GP004
+2024-04-12 22:54:35.129966[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.20mm V2.4 Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.130964[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.20mm V2.4 Quality
+2024-04-12 22:54:35.132958[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm V2.4 Slow Quality (Infil 200) .info and base_id: GP004
+2024-04-12 22:54:35.136947[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.20mm V2.4 Slow Quality (Infil 200)  and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.136947[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.20mm V2.4 Slow Quality (Infil 200) 
+2024-04-12 22:54:35.139939[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm V2.4 Slow Quality RIGID.info and base_id: GP004
+2024-04-12 22:54:35.142931[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.20mm V2.4 Slow Quality RIGID and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.143929[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.20mm V2.4 Slow Quality RIGID
+2024-04-12 22:54:35.145923[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm V2.4 Slow Quality.info and base_id: GP004
+2024-04-12 22:54:35.149913[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.20mm V2.4 Slow Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.149913[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.20mm V2.4 Slow Quality
+2024-04-12 22:54:35.152905[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.6 Nozzle 0.20mm V2.4 Slow Quality.info and base_id: GP004
+2024-04-12 22:54:35.156894[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.6 Nozzle 0.20mm V2.4 Slow Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.156894[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.6 Nozzle 0.20mm V2.4 Slow Quality
+2024-04-12 22:54:35.158888[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.6 Nozzle 0.30mm V2.4 Slow Quality.info and base_id: GP004
+2024-04-12 22:54:35.162878[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.6 Nozzle 0.30mm V2.4 Slow Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.162878[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.6 Nozzle 0.30mm V2.4 Slow Quality
+2024-04-12 22:54:35.165870[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\0.60mm V2.4 Slow Quality.info and base_id: GP004
+2024-04-12 22:54:35.169859[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.60mm V2.4 Slow Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.169859[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.60mm V2.4 Slow Quality
+2024-04-12 22:54:35.172851[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\3DO 0.20mm V2.4 Quality.info and base_id: GP004
+2024-04-12 22:54:35.176841[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 3DO 0.20mm V2.4 Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.176841[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:3DO 0.20mm V2.4 Quality
+2024-04-12 22:54:35.179833[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\Pandora's Box 0.1mm.info and base_id: GP004
+2024-04-12 22:54:35.184822[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Pandora's Box 0.1mm and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.184822[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Pandora's Box 0.1mm
+2024-04-12 22:54:35.187814[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\Pandora's Box Quality.info and base_id: GP004
+2024-04-12 22:54:35.191803[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Pandora's Box Quality and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.191803[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Pandora's Box Quality
+2024-04-12 22:54:35.194795[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\process\Pandora's Box RIGID.info and base_id: GP004
+2024-04-12 22:54:35.198298[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Pandora's Box RIGID and filament_id:  and base_id: GP004
+2024-04-12 22:54:35.199296[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Pandora's Box RIGID
+2024-04-12 22:54:35.199296[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets enter, load presets from "C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament", current type filament
+2024-04-12 22:54:35.202287[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\0.5 Fusion Filaments ABS 1.5.info and base_id: GFSA04
+2024-04-12 22:54:35.206277[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.5 Fusion Filaments ABS 1.5 and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.206277[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.5 Fusion Filaments ABS 1.5
+2024-04-12 22:54:35.210266[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\0.5 Nozzle Polymaker ABS.info and base_id: GFSA04
+2024-04-12 22:54:35.214255[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.5 Nozzle Polymaker ABS and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.214255[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.5 Nozzle Polymaker ABS
+2024-04-12 22:54:35.217248[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\3DX PP-GF30 GV2.info and base_id: GFSA04
+2024-04-12 22:54:35.221236[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 3DX PP-GF30 GV2 and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.221236[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:3DX PP-GF30 GV2
+2024-04-12 22:54:35.223231[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\ABS No PA.info and base_id: GFSA04
+2024-04-12 22:54:35.226223[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: ABS No PA and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.227220[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:ABS No PA
+2024-04-12 22:54:35.229215[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort 0.8mm ABS.info and base_id: GFSA04
+2024-04-12 22:54:35.233205[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort 0.8mm ABS and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.233205[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort 0.8mm ABS
+2024-04-12 22:54:35.236196[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort 3DO ASA-GF.info and base_id: GFSA04
+2024-04-12 22:54:35.239189[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort 3DO ASA-GF and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.239189[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort 3DO ASA-GF
+2024-04-12 22:54:35.242180[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort 3DO ASA.info and base_id: GFSA04
+2024-04-12 22:54:35.246170[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort 3DO ASA and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.246170[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort 3DO ASA
+2024-04-12 22:54:35.249191[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort 3DX PP-GF30 DB.info and base_id: GFSA04
+2024-04-12 22:54:35.253181[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort 3DX PP-GF30 DB and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.253181[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort 3DX PP-GF30 DB
+2024-04-12 22:54:35.255175[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort 3DX PP-GF30 GM0.6.info and base_id: GFSA04
+2024-04-12 22:54:35.259165[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort 3DX PP-GF30 GM0.6 and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.259165[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort 3DX PP-GF30 GM0.6
+2024-04-12 22:54:35.262157[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort 3DX PP-GF30 PHTC.info and base_id: GFSA04
+2024-04-12 22:54:35.265149[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort 3DX PP-GF30 PHTC and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.265149[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort 3DX PP-GF30 PHTC
+2024-04-12 22:54:35.268141[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort 3DX PP-GF30.info and base_id: GFSA04
+2024-04-12 22:54:35.272130[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort 3DX PP-GF30 and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.272130[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort 3DX PP-GF30
+2024-04-12 22:54:35.274125[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Atomic Filaments ABS 1.5.info and base_id: GFSA04
+2024-04-12 22:54:35.278115[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Atomic Filaments ABS 1.5 and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.278115[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Atomic Filaments ABS 1.5
+2024-04-12 22:54:35.281106[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Atomic Filaments ABS.info and base_id: GFSA04
+2024-04-12 22:54:35.284099[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Atomic Filaments ABS and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.284099[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Atomic Filaments ABS
+2024-04-12 22:54:35.287091[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Fusion ABS 1.5.info and base_id: GFSA04
+2024-04-12 22:54:35.290083[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Fusion ABS 1.5 and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.290083[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Fusion ABS 1.5
+2024-04-12 22:54:35.293075[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Fusion Filaments ABS 2.0 SL GM.info and base_id: GFSA04
+2024-04-12 22:54:35.296577[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Fusion Filaments ABS 2.0 SL GM and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.296577[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Fusion Filaments ABS 2.0 SL GM
+2024-04-12 22:54:35.299571[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Fusion Filaments ABS 2.0.info and base_id: GFSA04
+2024-04-12 22:54:35.304183[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Fusion Filaments ABS 2.0 and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.304183[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Fusion Filaments ABS 2.0
+2024-04-12 22:54:35.307228[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort GM SnoLabs PCCF+.info and base_id: GFSA04
+2024-04-12 22:54:35.310892[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort GM SnoLabs PCCF+ and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.310892[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort GM SnoLabs PCCF+
+2024-04-12 22:54:35.313426[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort IEMAI PCCF.info and base_id: GFSA04
+2024-04-12 22:54:35.316926[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort IEMAI PCCF and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.316926[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort IEMAI PCCF
+2024-04-12 22:54:35.319919[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Phaetus ASA-GF GM.info and base_id: GFSA04
+2024-04-12 22:54:35.323908[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Phaetus ASA-GF GM and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.323908[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Phaetus ASA-GF GM
+2024-04-12 22:54:35.325902[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Phaetus CF-ASA.info and base_id: GFSA04
+2024-04-12 22:54:35.329892[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Phaetus CF-ASA and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.329892[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Phaetus CF-ASA
+2024-04-12 22:54:35.332884[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Polymaker ABS.info and base_id: GFSA04
+2024-04-12 22:54:35.335876[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Polymaker ABS and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.335876[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Polymaker ABS
+2024-04-12 22:54:35.339865[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Polymaker ASA.info and base_id: GFSA04
+2024-04-12 22:54:35.343854[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Polymaker ASA and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.343854[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Polymaker ASA
+2024-04-12 22:54:35.346846[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Polymaker CF-PLA.info and base_id: GFSA04
+2024-04-12 22:54:35.350836[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Polymaker CF-PLA and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.350836[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Polymaker CF-PLA
+2024-04-12 22:54:35.353828[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Polymaker Galaxy ASA.info and base_id: GFSA04
+2024-04-12 22:54:35.357817[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Polymaker Galaxy ASA and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.357817[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Polymaker Galaxy ASA
+2024-04-12 22:54:35.360809[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Polymaker PC-PBT.info and base_id: GFSA04
+2024-04-12 22:54:35.363801[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Polymaker PC-PBT and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.363801[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Polymaker PC-PBT
+2024-04-12 22:54:35.366793[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort SnoLabs PCCF+.info and base_id: GFSA04
+2024-04-12 22:54:35.370783[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort SnoLabs PCCF+ and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.370783[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort SnoLabs PCCF+
+2024-04-12 22:54:35.373774[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort Sparta PCCF.info and base_id: GFSA04
+2024-04-12 22:54:35.377764[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort Sparta PCCF and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.377764[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort Sparta PCCF
+2024-04-12 22:54:35.380756[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Hextrudort ZYLTECH PETG 0.6mm.info and base_id: GFSA04
+2024-04-12 22:54:35.384746[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Hextrudort ZYLTECH PETG 0.6mm and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.384746[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Hextrudort ZYLTECH PETG 0.6mm
+2024-04-12 22:54:35.386741[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Pandoras Box Polymaker ABS.info and base_id: GFSA04
+2024-04-12 22:54:35.390730[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Pandoras Box Polymaker ABS and filament_id: GFB99 and base_id: GFSA04
+2024-04-12 22:54:35.390730[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Pandoras Box Polymaker ABS
+2024-04-12 22:54:35.393722[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Polymaker PLA.info and base_id: GFSA04
+2024-04-12 22:54:35.397218[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Polymaker PLA and filament_id: GFL99 and base_id: GFSA04
+2024-04-12 22:54:35.397218[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Polymaker PLA
+2024-04-12 22:54:35.401209[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\filament\Zyltech TPU.info and base_id: GFSA04
+2024-04-12 22:54:35.404201[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: Zyltech TPU and filament_id: GFL99 and base_id: GFSA04
+2024-04-12 22:54:35.404201[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:Zyltech TPU
+2024-04-12 22:54:35.404201[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets enter, load presets from "C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine", current type machine
+2024-04-12 22:54:35.407193[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\0.6 LDO Blue V2.info and base_id: GM001
+2024-04-12 22:54:35.410185[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: 0.6 LDO Blue V2 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.411182[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:0.6 LDO Blue V2
+2024-04-12 22:54:35.413177[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\LDO Blue V2 0.5.info and base_id: GM001
+2024-04-12 22:54:35.416169[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: LDO Blue V2 0.5 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.417166[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:LDO Blue V2 0.5
+2024-04-12 22:54:35.420158[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\LDO Blue V2 0.8.info and base_id: GM001
+2024-04-12 22:54:35.423150[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: LDO Blue V2 0.8 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.423150[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:LDO Blue V2 0.8
+2024-04-12 22:54:35.425145[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\LDO Blue V2.info and base_id: GM001
+2024-04-12 22:54:35.429134[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: LDO Blue V2 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.429134[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:LDO Blue V2
+2024-04-12 22:54:35.432126[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\LDO Space Grey V2 0.5.info and base_id: GM001
+2024-04-12 22:54:35.435118[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: LDO Space Grey V2 0.5 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.435118[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:LDO Space Grey V2 0.5
+2024-04-12 22:54:35.438110[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\LDO Space Grey V2 0.6.info and base_id: GM001
+2024-04-12 22:54:35.441102[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: LDO Space Grey V2 0.6 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.441102[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:LDO Space Grey V2 0.6
+2024-04-12 22:54:35.444094[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\LDO Space Grey V2 0.8.info and base_id: GM001
+2024-04-12 22:54:35.448083[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: LDO Space Grey V2 0.8 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.448083[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:LDO Space Grey V2 0.8
+2024-04-12 22:54:35.450078[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\LDO Space Grey V2.info and base_id: GM001
+2024-04-12 22:54:35.454068[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: LDO Space Grey V2 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.454068[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:LDO Space Grey V2
+2024-04-12 22:54:35.457059[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\PandorasBox 0.1.info and base_id: GM001
+2024-04-12 22:54:35.461049[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: PandorasBox 0.1 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.461049[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:PandorasBox 0.1
+2024-04-12 22:54:35.464041[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\PandorasBox 0.2.info and base_id: GM001
+2024-04-12 22:54:35.468030[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: PandorasBox 0.2 and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.468030[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:PandorasBox 0.2
+2024-04-12 22:54:35.471022[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\PandorasBox.info and base_id: GM001
+2024-04-12 22:54:35.474014[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: PandorasBox and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.474014[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:PandorasBox
+2024-04-12 22:54:35.477006[Thread 0x00005bb0]:Slic3r::Preset::load_info load info from: C:\Users\nicho\AppData\Roaming\OrcaSlicer\user\default\machine\ShitBoxZero.info and base_id: GM001
+2024-04-12 22:54:35.479998[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets load preset: ShitBoxZero and filament_id:  and base_id: GM001
+2024-04-12 22:54:35.479998[Thread 0x00005bb0]:Slic3r::PresetCollection::load_presets1209 load config successful and preset name is:ShitBoxZero
+2024-04-12 22:54:35.479998[Thread 0x00005bb0]:update_compatibility for all presets enter
+2024-04-12 22:54:35.479998[Thread 0x00005bb0]:update_compatibility for all presets exit
+2024-04-12 22:54:35.479998[Thread 0x00005bb0]:update_compatibility for all presets enter
+2024-04-12 22:54:35.479998[Thread 0x00005bb0]:update_compatibility for all presets exit
+2024-04-12 22:54:35.480995[Thread 0x00005bb0]:update_compatibility for all presets enter
+2024-04-12 22:54:35.480995[Thread 0x00005bb0]:update_compatibility for all presets exit
+2024-04-12 22:54:35.480995[Thread 0x00005bb0]:Slic3r::PresetBundle::load_presets finished, returned substitutions 0
+2024-04-12 22:54:35.480995[Thread 0x00005bb0]:create the main window
+2024-04-12 22:54:35.676510[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): begin to add script message handler for wx.
+2024-04-12 22:54:35.676510[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): finished add script message handler for wx.
+2024-04-12 22:54:36.033897[Thread 0x00005bb0]:Slic3r::BackgroundSlicingProcess::select_technology: change the printer technology from  to  
+2024-04-12 22:54:36.061196[Thread 0x00005bb0]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 00000194B7B88A80
+2024-04-12 22:54:36.117553[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 0000000000000000, new_panel 00000194B1EEEC90
+2024-04-12 22:54:36.638024[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): begin to add script message handler for wx.
+2024-04-12 22:54:36.638024[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): finished add script message handler for wx.
+2024-04-12 22:54:37.276828[Thread 0x00005bb0]:ImageGrid::SetStatus: No printers.
+2024-04-12 22:54:37.283809[Thread 0x00005bb0]:monitor: show_status = 4
+2024-04-12 22:54:37.324486[Thread 0x00005bb0]:Slic3r::GUI::PrintingTaskPanel::market_scoring_hide hide market scoring page
+2024-04-12 22:54:37.330470[Thread 0x00005bb0]:Slic3r::GUI::Sidebar::load_ams_list: 0 items
+2024-04-12 22:54:37.367372[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): begin to add script message handler for wx.
+2024-04-12 22:54:37.367372[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): finished add script message handler for wx.
+2024-04-12 22:54:37.374353[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): begin to add script message handler for wx.
+2024-04-12 22:54:37.374353[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): finished add script message handler for wx.
+2024-04-12 22:54:38.301824[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 0 
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::Bed3D::set_shape:current position {0,0}, new position {0, 0}
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlateList::reset_size:before size: plate_width 0, plate_depth 0, plate_height 0
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlateList::reset_size:after size: plate_width 350, plate_depth 350, plate_height 325
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: plate_id 0, before, origin {0,0,0}, plate_width 0, plate_depth 0, plate_height 0
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: with_instance_move 0, after, origin {0,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: plate_id 1, before, origin {0,0,0}, plate_width 0, plate_depth 0, plate_height 0
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: with_instance_move 0, after, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:54:38.303453[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-04-12 22:54:38.303963[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+2024-04-12 22:54:38.309556[Thread 0x00005bb0]:Unable to open the fileC:\Users\nicho\Downloads\Octotherm_Mount_DIN.3mf
+2024-04-12 22:54:38.309556[Thread 0x00008f00]:Unable to open the fileC:\Users\nicho\Downloads\brush arm.3mf
+2024-04-12 22:54:38.309556[Thread 0x00008f14]:Unable to open the fileC:\Users\nicho\Downloads\arm.3mf
+2024-04-12 22:54:38.309556[Thread 0x00008f04]:Unable to open the fileC:\Users\nicho\Downloads\part_a.3mf
+2024-04-12 22:54:38.309556[Thread 0x00008f10]:Unable to open the fileC:\Users\nicho\Downloads\Brush_Arm_v2 v1.3mf
+2024-04-12 22:54:38.309556[Thread 0x00008efc]:Unable to open the fileC:\Users\nicho\Downloads\Night Spirit_v1_2_og.3mf
+2024-04-12 22:54:38.309556[Thread 0x00008f00]:Unable to open the fileC:\Users\nicho\Downloads\V-Spooler+Beta+5.3mf
+2024-04-12 22:54:38.309556[Thread 0x00008efc]:Unable to open the fileC:\Users\nicho\Downloads\Master Spool EIBOS EASDRY.3mf
+2024-04-12 22:54:38.475243[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 1, enable= 0 
+2024-04-12 22:54:38.475243[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_slice_status: m_slice_select 1, enable= 1 
+2024-04-12 22:54:38.475243[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 1, can_print 1, enable_slice 1, enable_print 0 
+2024-04-12 22:54:38.475243[Thread 0x00005bb0]:Slic3r::_BBS_Backup_Manager::_BBS_Backup_Manager inital and interval = 60
+2024-04-12 22:54:38.475243[Thread 0x00005bb0]:Slic3r::_BBS_Backup_Manager::set_interval entry, and last interval is: 60
+2024-04-12 22:54:38.475243[Thread 0x00005bb0]:Slic3r::_BBS_Backup_Manager::set_interval exit, and new interval is: 10
+2024-04-12 22:54:38.485217[Thread 0x00005bb0]:model 00000194B3C96148, id 7, backup_path empty, set to C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7
+2024-04-12 22:54:38.485217[Thread 0x00005bb0]:create /3D/Objects in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7"
+2024-04-12 22:54:38.485217[Thread 0x00005bb0]:create /Metadata in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7"
+2024-04-12 22:54:38.485217[Thread 0x00005bb0]:create /lock.txt in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7"
+2024-04-12 22:54:38.486216[Thread 0x00005bb0]:create missing sub_pathC:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7/Auxiliaries
+2024-04-12 22:54:38.492200[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:54:38.517895[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:54:38.517895[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:54:38.524991[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:54:38.524991[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:54:38.527983[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:54:38.527983[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:54:38.534964[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:54:38.534964[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:54:38.535961[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-04-12 22:54:38.535961[Thread 0x00005bb0]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-04-12 22:54:38.554911[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:54:38.554911[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:54:38.561892[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:54:38.572863[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:54:38.572863[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:54:38.587824[Thread 0x00005bb0]:main frame firstly shown
+2024-04-12 22:54:38.952713[Thread 0x00005bb0]:finished the gui app init
+2024-04-12 22:54:38.966743[Thread 0x00005bb0]:ImageGrid::SetStatus: No printers.
+2024-04-12 22:54:38.967740[Thread 0x00005bb0]:monitor: show_status = 4
+2024-04-12 22:54:39.001080[Thread 0x00005bb0]:Slic3r::GUI::Sidebar::load_ams_list: 0 items
+2024-04-12 22:54:39.094121[Thread 0x00005bb0]:Slic3r::Model::update_print_volume_state, print_volume {0, 0, 0} to {350, 350, 325}, got 0 printable istances
+2024-04-12 22:54:39.094121[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process: enter, force_validation=0 postpone_error_messages=0, switch_print=1, was_running=0
+2024-04-12 22:54:39.094121[Thread 0x00005bb0]:Slic3r::Model::update_print_volume_state, print_volume {0, 0, 0} to {350, 350, 325}, got 0 printable istances
+2024-04-12 22:54:39.094121[Thread 0x00005bb0]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 00000194B7B88A80
+2024-04-12 22:54:39.095119[Thread 0x00005bb0]:Slic3r::Print::apply, Line 1020: enter
+2024-04-12 22:54:39.095119[Thread 0x00005bb0]:Slic3r::Print::apply, has_scarf_joint_seam:false
+2024-04-12 22:54:39.096116[Thread 0x00005bb0]:Slic3r::Print::apply, got print_diff 78, object_diff 26, region_diff 30, set status to APPLY_STATUS_CHANGED
+2024-04-12 22:54:39.096116[Thread 0x00005bb0]:Slic3r::Print::apply 1094: found full_config_diff changed.
+2024-04-12 22:54:39.096116[Thread 0x00005bb0]:Slic3r::Print::apply 1594: finished,  this 00000194B7B8A550, m_modified_count 1, apply_status 1, m_support_used 0
+2024-04-12 22:54:39.097113[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process: background process apply result=1
+2024-04-12 22:54:39.097113[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process, Line 5030: was_running = 0, running 0, invalidated=1, return_state=0, internal_cancel=0
+2024-04-12 22:54:39.097113[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process, Line 5060: background data valid, return_state=0
+2024-04-12 22:54:39.097113[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process, Line 5103: exit, return_state=0
+2024-04-12 22:54:39.097113[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5141: not started
+2024-04-12 22:54:39.106593[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init sync_user_preset: false
+2024-04-12 22:54:39.106593[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, begin load_gl_resources
+2024-04-12 22:54:39.198736[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::select_view_3D3191select view3D
+2024-04-12 22:54:39.198736[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 0000000000000000, new_panel 00000194B1EEEC90
+2024-04-12 22:54:39.198736[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:54:39.198736[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_slice_status: m_slice_select 1, enable= 1 
+2024-04-12 22:54:39.198736[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 1, can_print 1, enable_slice 1, enable_print 0 
+2024-04-12 22:54:39.208223[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::set_current_panel: successfully, exit
+2024-04-12 22:54:39.210217[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, start to init opengl
+2024-04-12 22:54:39.214206[Thread 0x00005bb0]:Found Framebuffer Type ARB.
+2024-04-12 22:54:39.214206[Thread 0x00005bb0]:got opengl version 4.6.0 NVIDIA 551.61, glsl version 4.60 NVIDIA, vendor NVIDIA Corporation
+2024-04-12 22:54:39.346296[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, finished init opengl
+2024-04-12 22:54:39.346296[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::init enter
+2024-04-12 22:54:39.346296[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::init: before m_layers_editing init
+2024-04-12 22:54:39.346296[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::init: before gizmo init
+2024-04-12 22:54:39.379208[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::init: before _init_toolbars
+2024-04-12 22:54:39.397161[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::_init_assemble_view_toolbar: enter,  m_assemble_view_toolbar.is_enabled=true
+2024-04-12 22:54:39.397161[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::_init_assemble_view_toolbar: Finished Successfully
+2024-04-12 22:54:39.405644[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::init: finish _init_toolbars
+2024-04-12 22:54:39.405644[Thread 0x00005bb0]:Slic3r::GUI::GLCanvas3D::init: finish m_selection
+2024-04-12 22:54:39.405644[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, finished init canvas3D
+2024-04-12 22:54:40.011955[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, finished init imgui frame
+2024-04-12 22:54:40.011955[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, start to render a first frame for test
+2024-04-12 22:54:40.348294[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, finished rendering a first frame for test
+2024-04-12 22:54:40.502905[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::post_init, end load_gl_resources
+2024-04-12 22:54:40.510884[Thread 0x00005bb0]:delete log file over 30, filename: debug_Tue_Nov_21_16_15_51_53536.log.0
+2024-04-12 22:54:40.510884[Thread 0x00005bb0]:finished post_init
+2024-04-12 22:54:40.525386[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::select_view_3D3191select view3D
+2024-04-12 22:54:40.525386[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 00000194B1EEEC90, new_panel 00000194B1EEEC90
+2024-04-12 22:54:40.525386[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::set_current_panel: the same panel, exit
+2024-04-12 22:54:40.596272[Thread 0x00005bb0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+2024-04-12 22:54:40.597270[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::is_compatibility_version: m_networking_compatible=0
+2024-04-12 22:54:40.597270[Thread 0x00005bb0]:Slic3r::GUI::WebViewPanel::ShowNetpluginTip: bValid=0, nShow=1
+2024-04-12 22:54:40.604765[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::is_compatibility_version: m_networking_compatible=0
+2024-04-12 22:54:40.604765[Thread 0x00005bb0]:Slic3r::GUI::WebViewPanel::ShowNetpluginTip: bValid=0, nShow=1
+2024-04-12 22:54:40.606759[Thread 0x00008c84]:HMS: check_hms_info current version = 202403311730
+2024-04-12 22:54:40.649645[Thread 0x00005bb0]:Slic3r::GUI::WebViewPanel::OnScriptMessage Create Timer
+2024-04-12 22:54:40.770818[Thread 0x00008c84]:HMS: check_hms_info latest version = 202403311730
+2024-04-12 22:54:40.770818[Thread 0x00008c84]:HMS: check_hms_info need download new hms info = false
+2024-04-12 22:54:40.871388[Thread 0x00008c7c]:Error getting: `sync_config_orca`: HTTP 404, 
+2024-04-12 22:54:40.872386[Thread 0x00008c7c]:non need to sync plugins for there is no plugins currently.
+2024-04-12 22:54:40.872386[Thread 0x00005bb0]:[Orca Updater]:Checking for cached configuration updates...
+2024-04-12 22:54:40.872386[Thread 0x00005bb0]:[Orca Updater]:No configuration updates available.
+2024-04-12 22:54:40.873383[Thread 0x00008c7c]:[Orca Updater]: sync_resources get preferred setting version for app version OrcaSlicer, url: https://api.bambulab.com/v1/iot-service/api/slicer/resource, current_version_str , check_patch 0
+2024-04-12 22:54:40.873383[Thread 0x00008c7c]:[Orca Updater]: sync_resources request_url: https://api.bambulab.com/v1/iot-service/api/slicer/resource?slicer/printer/bbl=01.08.00.00
+2024-04-12 22:54:41.015715[Thread 0x00008c7c]:[Orca Updater]: request_resources, body={"message":"success","code":null,"error":null,"software":null,"guide":null,"resources":[]}
+2024-04-12 22:54:41.015715[Thread 0x00008c7c]:[Orca Updater]Vendor slicer/printer/bbl can not get setting versions online
+2024-04-12 22:54:41.526831[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): begin to add script message handler for wx.
+2024-04-12 22:54:41.526831[Thread 0x00005bb0]:WebView::CreateWebView::<lambda_5c3dc2dacddac66ceeee3f4b06b6bf7d>::operator (): finished add script message handler for wx.
+2024-04-12 22:54:48.484927[Thread 0x00008f7c]:process_task{ type:Backup, id:0, path:, object:0, extra:1} and interval = 10
+2024-04-12 22:54:48.484927[Thread 0x00005bb0]:process_ui_task{ type:Backup, id:0, path:, object:0, extra:1} and interval = 10
+2024-04-12 22:54:58.476639[Thread 0x00008f7c]:process_task{ type:Backup, id:0, path:, object:0, extra:2} and interval = 10
+2024-04-12 22:54:58.476639[Thread 0x00005bb0]:process_ui_task{ type:Backup, id:0, path:, object:0, extra:2} and interval = 10
+2024-04-12 22:55:08.489900[Thread 0x00008f7c]:process_task{ type:Backup, id:0, path:, object:0, extra:3} and interval = 10
+2024-04-12 22:55:08.489900[Thread 0x00005bb0]:process_ui_task{ type:Backup, id:0, path:, object:0, extra:3} and interval = 10
+2024-04-12 22:55:18.490667[Thread 0x00008f7c]:process_task{ type:Backup, id:0, path:, object:0, extra:4} and interval = 10
+2024-04-12 22:55:18.490667[Thread 0x00005bb0]:process_ui_task{ type:Backup, id:0, path:, object:0, extra:4} and interval = 10
+2024-04-12 22:55:28.487029[Thread 0x00008f7c]:process_task{ type:Backup, id:0, path:, object:0, extra:5} and interval = 10
+2024-04-12 22:55:28.487029[Thread 0x00005bb0]:process_ui_task{ type:Backup, id:0, path:, object:0, extra:5} and interval = 10
+2024-04-12 22:55:28.928896[Thread 0x00005bb0]:Undo / Redo snapshot taken: Reset Project, Undo / Redo stack memory: 0MB WorkingSet: 298MB; PrivateBytes: 434MB; Pagefile(peak): 434MB(438MB)
+2024-04-12 22:55:28.929894[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::reset4675 call set_project_filename: empty
+2024-04-12 22:55:28.929894[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-04-12 22:55:28.929894[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:55:28.929894[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:55:28.929894[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-04-12 22:55:28.929894[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+2024-04-12 22:55:28.930891[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: plate_id 1, before, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-04-12 22:55:28.930891[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: with_instance_move 0, after, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-04-12 22:55:28.930891[Thread 0x00005bb0]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 00000194B7B88A80
+2024-04-12 22:55:28.930891[Thread 0x00005bb0]:Slic3r::BackgroundSlicingProcess::stop, enter
+2024-04-12 22:55:28.930891[Thread 0x00005bb0]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-04-12 22:55:28.968418[Thread 0x00005bb0]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-04-12 22:55:29.002833[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::object_list_changed: can_slice 0, model_fits= 1, export_in_progress 0, has_printable_instances 0 
+2024-04-12 22:55:29.002833[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.002833[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.002833[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:55:29.006822[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:55:29.006822[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:55:29.018303[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:55:29.018303[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:55:29.021296[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:55:29.021296[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:55:29.030271[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:55:29.030271[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:55:29.031269[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-04-12 22:55:29.031269[Thread 0x00005bb0]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-04-12 22:55:29.045232[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:55:29.045232[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:55:29.052213[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:55:29.064182[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:55:29.064182[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:Undo / Redo snapshot taken: New Project, Undo / Redo stack memory: 0MB WorkingSet: 299MB; PrivateBytes: 434MB; Pagefile(peak): 434MB(438MB)
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:model 0000005C334D1BF0, id 49, backup_path empty, set to C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:create /3D/Objects in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49"
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:create /Metadata in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49"
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:create /lock.txt in "C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49"
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:Slic3r::Model::set_backup_path, model 00000194B3C96148, id 7, remove previous backup C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:remove_backup C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7, true
+2024-04-12 22:55:29.066177[Thread 0x00005bb0]:Slic3r::Model::set_backup_path, model 00000194B3C96148, id 7, set backup to C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49
+2024-04-12 22:55:29.066177[Thread 0x00008f7c]:process_task{ type:RemoveBackup, id:7, path:C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7, object:0, extra:1} and interval = 10
+2024-04-12 22:55:29.067175[Thread 0x00005bb0]:create missing sub_pathC:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49/Auxiliaries
+2024-04-12 22:55:29.078657[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::select_view_3D3191select view3D
+2024-04-12 22:55:29.078657[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::set_current_panel: current_panel 00000194B1EEEC90, new_panel 00000194B1EEEC90
+2024-04-12 22:55:29.078657[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::set_current_panel: the same panel, exit
+2024-04-12 22:55:29.112678[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::select_view3120select view3D
+2024-04-12 22:55:29.113675[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.113675[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.113675[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.113675[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.113675[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.113675[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.115670[Thread 0x00005bb0]:process_ui_task{ type:RemoveBackup, id:7, path:C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7, object:0, extra:1} and interval = 10
+2024-04-12 22:55:29.115670[Thread 0x00005bb0]:process_ui_task: remove all of backup path C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_54_38#23456#7
+2024-04-12 22:55:29.535296[Thread 0x00005bb0]:Slic3r::Model::update_print_volume_state, print_volume {0, 0, 0} to {350, 350, 325}, got 0 printable istances
+2024-04-12 22:55:29.535296[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process: enter, force_validation=0 postpone_error_messages=0, switch_print=1, was_running=0
+2024-04-12 22:55:29.535296[Thread 0x00005bb0]:Slic3r::Model::update_print_volume_state, print_volume {0, 0, 0} to {350, 350, 325}, got 0 printable istances
+2024-04-12 22:55:29.535296[Thread 0x00005bb0]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 00000194B7B88A80
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::Print::apply, Line 1020: enter
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::Print::apply, has_scarf_joint_seam:false
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::Print::apply, got print_diff 78, object_diff 26, region_diff 30, set status to APPLY_STATUS_CHANGED
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::Print::apply 1094: found full_config_diff changed.
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::Print::apply 1594: finished,  this 00000194B7B8A550, m_modified_count 1, apply_status 1, m_support_used 0
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process: background process apply result=1
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process, Line 5030: was_running = 0, running 0, invalidated=1, return_state=0, internal_cancel=0
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process, Line 5060: background data valid, return_state=0
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::update_background_process, Line 5103: exit, return_state=0
+2024-04-12 22:55:29.536293[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5141: not started
+2024-04-12 22:55:29.612582[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::persist_window_geometry::<lambda_07623ffafd5a6e096bbc2e4b7e1abd7a>::operator (): received wxEVT_CLOSE_WINDOW, trigger save for window_mainframe
+2024-04-12 22:55:29.624550[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::{ctor}::<lambda_50e0177b8a65d8a99444ac033836d32d>::operator (): mainframe received close_widow event
+2024-04-12 22:55:29.624550[Thread 0x00005bb0]:Slic3r::Model::set_backup_path, model 00000194B3C96148, id 7, remove previous backup C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49
+2024-04-12 22:55:29.624550[Thread 0x00005bb0]:remove_backup C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49, true
+2024-04-12 22:55:29.624550[Thread 0x00005bb0]:Slic3r::Model::set_backup_path, model 00000194B3C96148, id 7, set backup to 
+2024-04-12 22:55:29.625547[Thread 0x00008f7c]:process_task{ type:RemoveBackup, id:7, path:C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49, object:0, extra:1} and interval = 10
+2024-04-12 22:55:29.625547[Thread 0x00005bb0]:Undo / Redo snapshot taken: Reset Project, Undo / Redo stack memory: 0MB WorkingSet: 299MB; PrivateBytes: 434MB; Pagefile(peak): 434MB(438MB)
+2024-04-12 22:55:29.625547[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::reset4675 call set_project_filename: empty
+2024-04-12 22:55:29.625547[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-04-12 22:55:29.625547[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:55:29.625547[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:55:29.625547[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-04-12 22:55:29.625547[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+2024-04-12 22:55:29.626545[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: plate_id 1, before, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-04-12 22:55:29.626545[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::set_pos_and_size: with_instance_move 0, after, origin {420,0,0}, plate_width 350, plate_depth 350, plate_height 325
+2024-04-12 22:55:29.626545[Thread 0x00005bb0]:Slic3r::GUI::PartPlateList::get_current_slice_result:m_current_plate 0, current_plate 00000194B7B88A80
+2024-04-12 22:55:29.626545[Thread 0x00005bb0]:Slic3r::BackgroundSlicingProcess::stop, enter
+2024-04-12 22:55:29.626545[Thread 0x00005bb0]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-04-12 22:55:29.659516[Thread 0x00005bb0]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-04-12 22:55:29.689940[Thread 0x00005bb0]:Slic3r::GUI::Plater::priv::object_list_changed: can_slice 0, model_fits= 1, export_in_progress 0, has_printable_instances 0 
+2024-04-12 22:55:29.689940[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.689940[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.689940[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:55:29.694705[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:55:29.694705[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:55:29.705621[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:55:29.705621[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:55:29.707155[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:55:29.707155[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:55:29.712840[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:55:29.712840[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: enter
+2024-04-12 22:55:29.713839[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-04-12 22:55:29.713839[Thread 0x00005bb0]:Slic3r::GUI::Preview::load_print_as_fff 670: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2024-04-12 22:55:29.725811[Thread 0x00005bb0]:put_other_changes
+2024-04-12 22:55:29.725811[Thread 0x00005bb0]:Slic3r::GUI::ProjectDirtyStateManager::update_from_presetsproject file name is empty
+2024-04-12 22:55:29.732789[Thread 0x00005bb0]:Slic3r::GUI::Tab::load_current_preset: exit
+2024-04-12 22:55:29.743759[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::shutdownMainFrame::shutdown enter
+2024-04-12 22:55:29.764706[Thread 0x00005bb0]:GUI_App::shutdown enter
+2024-04-12 22:55:29.764706[Thread 0x00005bb0]:GUI_App::shutdown exit
+2024-04-12 22:55:29.764706[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::shutdownMainFrame::shutdown exit
+2024-04-12 22:55:29.764706[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::{ctor}::<lambda_50e0177b8a65d8a99444ac033836d32d>::operator (): mainframe finished process close_widow event
+2024-04-12 22:55:29.764706[Thread 0x00005bb0]:process_ui_task{ type:RemoveBackup, id:7, path:C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49, object:0, extra:1} and interval = 10
+2024-04-12 22:55:29.765703[Thread 0x00005bb0]:process_ui_task: remove all of backup path C:\Users\nicho\AppData\Local\Temp/orcaslicer_model/Fri_Apr_12/22_55_29#23456#49
+2024-04-12 22:55:29.765703[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.765703[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.765703[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.765703[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.765703[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::get_enable_print_status: m_print_select 4, enable= 0 
+2024-04-12 22:55:29.765703[Thread 0x00005bb0]:Slic3r::GUI::MainFrame::update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2024-04-12 22:55:29.818070[Thread 0x00005bb0]:ImageGrid::SetStatus: No printers.
+2024-04-12 22:55:29.819067[Thread 0x00005bb0]:Slic3r::GUI::PrinterWebView::~PrinterWebView Start
+2024-04-12 22:55:29.819067[Thread 0x00005bb0]:Slic3r::GUI::PrinterWebView::~PrinterWebView End
+2024-04-12 22:55:29.874040[Thread 0x00005bb0]:Slic3r::BackgroundSlicingProcess::stop, enter
+2024-04-12 22:55:29.874040[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:55:29.874040[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2024-04-12 22:55:29.874040[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-04-12 22:55:29.874040[Thread 0x00005bb0]:Slic3r::GUI::PartPlate::update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2024-04-12 22:55:29.897975[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 0 
+2024-04-12 22:55:29.898973[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 4294967295 
+2024-04-12 22:55:29.898973[Thread 0x00005bb0]:Slic3r::GUI::GCodeViewer::reset: current result id 0 
+2024-04-12 22:55:29.904650[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::~GUI_App: enter
+2024-04-12 22:55:29.904650[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::~GUI_App: destroy app_config
+2024-04-12 22:55:29.904650[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::~GUI_App: destroy preset_bundle
+2024-04-12 22:55:29.910254[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::~GUI_App: destroy preset updater
+2024-04-12 22:55:29.910254[Thread 0x00005bb0]:Slic3r::GUI::GUI_App::~GUI_App: exit

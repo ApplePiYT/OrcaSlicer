@@ -37,6 +37,5 @@
     "version": "1.5.1.2",
     "wall_generator": "classic",
     "wall_loops": "4",
-    "wipe_on_loops": "0",
     "wipe_speed": "0"
 }

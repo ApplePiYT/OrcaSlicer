@@ -1,0 +1,17 @@
+[error]	2024-06-11 21:03:15.453329[Thread 0x0000287c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-11 21:03:15.464299[Thread 0x00001074]:Unable to open the fileC:\Users\nicho\Downloads\Brush_Arm_v2 v1.3mf
+[error]	2024-06-11 21:03:15.464299[Thread 0x000023d0]:Unable to open the fileC:\Users\nicho\Downloads\Master Spool EIBOS EASDRY.3mf
+[error]	2024-06-11 21:03:15.464299[Thread 0x00001074]:Unable to open the fileC:\Users\nicho\Downloads\Night Spirit_v1_2_og.3mf
+[error]	2024-06-11 21:03:15.464299[Thread 0x000023d0]:Unable to open the fileC:\Users\nicho\Downloads\arm.3mf
+[error]	2024-06-11 21:03:15.465295[Thread 0x00000e00]:Unable to open the fileC:\Users\nicho\Downloads\part_a.3mf
+[error]	2024-06-11 21:03:15.465295[Thread 0x000023d0]:Unable to open the fileC:\Users\nicho\Downloads\brush arm.3mf
+[error]	2024-06-11 21:03:15.465295[Thread 0x00000e00]:Unable to open the fileC:\Users\nicho\Downloads\V-Spooler+Beta+5.3mf
+[error]	2024-06-11 21:03:15.465295[Thread 0x000023d0]:Unable to open the fileC:\Users\nicho\Downloads\Octotherm_Mount_DIN.3mf
+[error]	2024-06-11 21:03:18.968976[Thread 0x0000287c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-11 21:03:19.213392[Thread 0x0000287c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-11 21:03:38.409244[Thread 0x0000287c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-11 21:03:44.869997[Thread 0x0000287c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-11 21:04:10.262831[Thread 0x0000287c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-11 21:04:18.280656[Thread 0x0000287c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-11 21:04:48.515901[Thread 0x0000287c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-11 21:05:11.630261[Thread 0x0000287c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

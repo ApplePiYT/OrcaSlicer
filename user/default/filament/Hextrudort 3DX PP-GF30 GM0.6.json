@@ -24,14 +24,17 @@
         "; Filament gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.001\nSET_GCODE_OFFSET Z=0.301"
     ],
     "filament_type": [
-        "ASA"
+        "PA6-CF"
+    ],
+    "filament_vendor": [
+        "3DX Tech"
     ],
     "from": "User",
     "hot_plate_temp": [
-        "100"
+        "80"
     ],
     "hot_plate_temp_initial_layer": [
-        "100"
+        "80"
     ],
     "inherits": "Voron Generic ABS",
     "is_custom_defined": "0",

@@ -1,0 +1,638 @@
+[error]	2024-06-04 22:18:49.771520[Thread 0x00007664]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-04 22:18:49.780174[Thread 0x00007664]:Unable to open the fileC:\Users\nicho\Downloads\Octotherm_Mount_DIN.3mf
+[error]	2024-06-04 22:18:49.780174[Thread 0x00007664]:Unable to open the fileC:\Users\nicho\Downloads\arm.3mf
+[error]	2024-06-04 22:18:49.780174[Thread 0x00007664]:Unable to open the fileC:\Users\nicho\Downloads\brush arm.3mf
+[error]	2024-06-04 22:18:49.780174[Thread 0x00007664]:Unable to open the fileC:\Users\nicho\Downloads\Brush_Arm_v2 v1.3mf
+[error]	2024-06-04 22:18:49.780174[Thread 0x00007664]:Unable to open the fileC:\Users\nicho\Downloads\Night Spirit_v1_2_og.3mf
+[error]	2024-06-04 22:18:49.780174[Thread 0x0000a234]:Unable to open the fileC:\Users\nicho\Downloads\Master Spool EIBOS EASDRY.3mf
+[error]	2024-06-04 22:18:49.780174[Thread 0x0000a234]:Unable to open the fileC:\Users\nicho\Downloads\part_a.3mf
+[error]	2024-06-04 22:18:49.780174[Thread 0x0000a234]:Unable to open the fileC:\Users\nicho\Downloads\V-Spooler+Beta+5.3mf
+[error]	2024-06-04 22:18:52.198811[Thread 0x00007664]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-04 22:18:52.369511[Thread 0x00007664]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-04 22:18:54.441055[Thread 0x00007664]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-04 22:23:56.056736[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:24:01.434522[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:25:17.113953[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:25:52.849341[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:26:01.846415[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:26:57.379018[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:28:02.475125[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:28:24.694274[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-04 22:29:16.189930[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-05 11:02:49.896171[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-05 11:03:18.663583[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-05 11:03:36.707047[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-05 11:03:45.942674[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-05 11:03:54.712981[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-05 11:03:56.432908[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 11:04:22.654461[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 11:04:22.846831[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 11:08:02.126943[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 11:08:02.221982[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-05 11:08:03.993502[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-05 11:08:04.703896[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 11:08:09.064656[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 11:08:19.295293[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 11:08:49.612004[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-05 11:08:51.773414[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-05 11:09:20.535858[Thread 0x000084cc]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_rear_z_belt_attachment_ABS_1h43m
+ ^
+[error]	2024-06-05 20:40:13.290588[Thread 0x0000a248]:OctoPrint: Error getting version at http://192.168.1.134/api/version : curl:Timeout was reached:
+Connection timed out after 10011 milliseconds
+[Error 28], HTTP 0, body: ``
+[warning]	2024-06-05 21:41:28.441718[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-05 21:41:47.069773[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-05 21:42:00.507097[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:06.711952[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:12.032098[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:12.439865[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:12.613933[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:18.050618[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:32.455153[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:32.854952[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:42:32.972474[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 21:49:44.292157[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:15:47.689969[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:15:48.101303[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:15:48.302452[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:16:03.467537[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:16:03.661308[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-05 22:16:04.911612[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-05 22:23:09.621641[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:23:09.790530[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:23:18.082612[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:23:18.299816[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:23:25.657646[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-05 22:23:27.416618[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-05 22:23:39.093217[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:23:39.911582[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:23:40.134840[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:23:46.139060[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:24:05.700909[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:24:06.339759[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:24:06.493470[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-05 22:24:08.358468[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-05 22:24:09.668545[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-05 22:24:18.840527[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-06 11:19:59.576615[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-06 16:13:27.046779[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-06 16:14:17.398343[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-06 16:15:01.177053[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-07 20:56:12.580133[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-07 20:56:58.225923[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-08 11:02:41.528545[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-08 20:38:06.004261[Thread 0x00007664]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-10 21:59:02.017346[Thread 0x0000409c]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-06-10 21:59:42.095226[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 415 NextTarget: 415 Distance to top: 61 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C64C2C4E0: Radius: 1349954 at layer: 416 NextTarget: 416 Distance to top: 60 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.125658[Thread 0x00005010]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 408 NextTarget: 408 Distance to top: 56 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C64C79900: Radius: 1349954 at layer: 409 NextTarget: 409 Distance to top: 55 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.155579[Thread 0x0000a234]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 401 NextTarget: 401 Distance to top: 62 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C5AC16A20: Radius: 1349954 at layer: 402 NextTarget: 402 Distance to top: 61 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.232219[Thread 0x00009d48]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 383 NextTarget: 383 Distance to top: 75 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C92031370: Radius: 1349954 at layer: 384 NextTarget: 384 Distance to top: 74 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.239200[Thread 0x0000a710]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 381 NextTarget: 381 Distance to top: 89 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C9203B4B0: Radius: 1349954 at layer: 382 NextTarget: 382 Distance to top: 88 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.247179[Thread 0x00006c74]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 379 NextTarget: 379 Distance to top: 93 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C92086370: Radius: 1349954 at layer: 380 NextTarget: 380 Distance to top: 92 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.255158[Thread 0x0000a234]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 377 NextTarget: 377 Distance to top: 99 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C9209B430: Radius: 1349954 at layer: 378 NextTarget: 378 Distance to top: 98 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.324449[Thread 0x00006c74]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 359 NextTarget: 359 Distance to top: 113 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027CCEE31090: Radius: 1349954 at layer: 360 NextTarget: 360 Distance to top: 112 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.327442[Thread 0x00009b34]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 358 NextTarget: 358 Distance to top: 118 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027CCEE37690: Radius: 1349954 at layer: 359 NextTarget: 359 Distance to top: 117 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.399756[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 333 NextTarget: 333 Distance to top: 130 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C913382B0: Radius: 1349954 at layer: 334 NextTarget: 334 Distance to top: 129 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.399756[Thread 0x00004024]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 333 NextTarget: 333 Distance to top: 143 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C91338BB0: Radius: 1349954 at layer: 334 NextTarget: 334 Distance to top: 142 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.431672[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 322 NextTarget: 322 Distance to top: 187 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C913701F0: Radius: 2434814 at layer: 323 NextTarget: 323 Distance to top: 186 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.562828[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 295 NextTarget: 295 Distance to top: 181 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C752D23B0: Radius: 1349954 at layer: 296 NextTarget: 296 Distance to top: 180 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.583774[Thread 0x00009dd4]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 290 NextTarget: 290 Distance to top: 182 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C75288410: Radius: 1349954 at layer: 291 NextTarget: 291 Distance to top: 181 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.593256[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 287 NextTarget: 287 Distance to top: 183 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C75295A90: Radius: 1349954 at layer: 288 NextTarget: 288 Distance to top: 182 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.613203[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 280 NextTarget: 280 Distance to top: 196 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000027C75270F80: Radius: 1349954 at layer: 281 NextTarget: 281 Distance to top: 195 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.696879[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 245 NextTarget: 245 Distance to top: 264 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C753E3120: Radius: 2434814 at layer: 246 NextTarget: 246 Distance to top: 263 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.716191[Thread 0x00009b34]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 237 NextTarget: 237 Distance to top: 275 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C7540B730: Radius: 3747144 at layer: 238 NextTarget: 238 Distance to top: 274 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.749102[Thread 0x00004024]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 225 NextTarget: 225 Distance to top: 287 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C75F36470: Radius: 3747144 at layer: 226 NextTarget: 226 Distance to top: 286 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.780021[Thread 0x00006c74]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 215 NextTarget: 215 Distance to top: 294 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C8A2150D0: Radius: 2434814 at layer: 216 NextTarget: 216 Distance to top: 293 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.840228[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 195 NextTarget: 195 Distance to top: 121 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C3ABE81D0: Radius: 1349954 at layer: 196 NextTarget: 196 Distance to top: 120 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.847210[Thread 0x00005010]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 193 NextTarget: 193 Distance to top: 54 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C3ABF0B10: Radius: 1349954 at layer: 194 NextTarget: 194 Distance to top: 53 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.857183[Thread 0x00009330]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 190 NextTarget: 190 Distance to top: 57 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C3ABFC390: Radius: 1349954 at layer: 191 NextTarget: 191 Distance to top: 56 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.867156[Thread 0x00009330]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 186 NextTarget: 186 Distance to top: 326 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C3ACDC4B0: Radius: 3747144 at layer: 187 NextTarget: 187 Distance to top: 325 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.906559[Thread 0x00009bd0]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 167 NextTarget: 167 Distance to top: 345 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C3ACB64F0: Radius: 3747144 at layer: 168 NextTarget: 168 Distance to top: 344 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.907556[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 166 NextTarget: 166 Distance to top: 81 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C3ACB5770: Radius: 1349954 at layer: 167 NextTarget: 167 Distance to top: 80 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.931493[Thread 0x00009d70]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 147 NextTarget: 147 Distance to top: 100 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C576C1250: Radius: 1349954 at layer: 148 NextTarget: 148 Distance to top: 99 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:42.935482[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 144 NextTarget: 144 Distance to top: 103 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C576C4C10: Radius: 1349954 at layer: 145 NextTarget: 145 Distance to top: 102 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:43.550768[Thread 0x00005010]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 42 NextTarget: 42 Distance to top: 470 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C493C6450: Radius: 3747144 at layer: 43 NextTarget: 43 Distance to top: 469 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 21:59:43.616108[Thread 0x000082f0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 37 NextTarget: 37 Distance to top: 42 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C0E679B90: Radius: 1349954 at layer: 38 NextTarget: 38 Distance to top: 41 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.472318[Thread 0x00009bd0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 424 NextTarget: 424 Distance to top: 39 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C8A2B05E0: Radius: 1349954 at layer: 425 NextTarget: 425 Distance to top: 38 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.505230[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 417 NextTarget: 417 Distance to top: 62 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C66177850: Radius: 1349954 at layer: 418 NextTarget: 418 Distance to top: 61 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.564581[Thread 0x00009dd4]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 405 NextTarget: 405 Distance to top: 51 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C71E55990: Radius: 1349954 at layer: 406 NextTarget: 406 Distance to top: 50 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.605474[Thread 0x0000a234]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 396 NextTarget: 396 Distance to top: 111 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C09E6B7C0: Radius: 2434814 at layer: 397 NextTarget: 397 Distance to top: 110 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.641408[Thread 0x0000a710]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 389 NextTarget: 389 Distance to top: 76 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C454D54D0: Radius: 1349954 at layer: 390 NextTarget: 390 Distance to top: 75 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.650383[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 387 NextTarget: 387 Distance to top: 70 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C454E6390: Radius: 1349954 at layer: 388 NextTarget: 388 Distance to top: 69 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.667338[Thread 0x00009bd0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 384 NextTarget: 384 Distance to top: 92 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C0EC01AA0: Radius: 1349954 at layer: 385 NextTarget: 385 Distance to top: 91 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.737666[Thread 0x000082f0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 370 NextTarget: 370 Distance to top: 90 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C48568BF0: Radius: 1349954 at layer: 371 NextTarget: 371 Distance to top: 89 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.743650[Thread 0x0000a234]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 369 NextTarget: 369 Distance to top: 87 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C48569130: Radius: 1349954 at layer: 370 NextTarget: 370 Distance to top: 86 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:27.752626[Thread 0x00004024]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 367 NextTarget: 367 Distance to top: 99 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C4E29E280: Radius: 1349954 at layer: 368 NextTarget: 368 Distance to top: 98 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.008670[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 302 NextTarget: 302 Distance to top: 205 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C91F54DB0: Radius: 2434814 at layer: 303 NextTarget: 303 Distance to top: 204 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.016648[Thread 0x0000a710]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 301 NextTarget: 301 Distance to top: 178 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C05774190: Radius: 1349954 at layer: 302 NextTarget: 302 Distance to top: 177 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.040101[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 296 NextTarget: 296 Distance to top: 211 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C05A4FB10: Radius: 2434814 at layer: 297 NextTarget: 297 Distance to top: 210 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.071018[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 288 NextTarget: 288 Distance to top: 219 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C66D90660: Radius: 2434814 at layer: 289 NextTarget: 289 Distance to top: 218 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.074010[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 287 NextTarget: 287 Distance to top: 192 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C663449B0: Radius: 1349954 at layer: 288 NextTarget: 288 Distance to top: 191 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.153313[Thread 0x00009dd4]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 262 NextTarget: 262 Distance to top: 198 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C056061C0: Radius: 1349954 at layer: 263 NextTarget: 263 Distance to top: 197 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.158300[Thread 0x00009db8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 260 NextTarget: 260 Distance to top: 216 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C0560B5C0: Radius: 1349954 at layer: 261 NextTarget: 261 Distance to top: 215 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.171265[Thread 0x00009330]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 254 NextTarget: 254 Distance to top: 225 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C1D150150: Radius: 1349954 at layer: 255 NextTarget: 255 Distance to top: 224 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.179243[Thread 0x00009d48]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 247 NextTarget: 247 Distance to top: 232 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C1D15ED90: Radius: 1349954 at layer: 248 NextTarget: 248 Distance to top: 231 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.183233[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 245 NextTarget: 245 Distance to top: 267 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C7426EE20: Radius: 3747144 at layer: 246 NextTarget: 246 Distance to top: 266 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.192210[Thread 0x0000a234]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 242 NextTarget: 242 Distance to top: 234 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C74277D60: Radius: 1349954 at layer: 243 NextTarget: 243 Distance to top: 233 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.207170[Thread 0x0000a234]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 237 NextTarget: 237 Distance to top: 79 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C74288CE0: Radius: 1349954 at layer: 238 NextTarget: 238 Distance to top: 78 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.213153[Thread 0x00004024]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 234 NextTarget: 234 Distance to top: 273 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C45279980: Radius: 2434814 at layer: 235 NextTarget: 235 Distance to top: 272 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.218139[Thread 0x00009d48]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 232 NextTarget: 232 Distance to top: 244 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C45280100: Radius: 1349954 at layer: 233 NextTarget: 233 Distance to top: 243 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.225124[Thread 0x00009b34]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 229 NextTarget: 229 Distance to top: 250 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C75F0FAA0: Radius: 1349954 at layer: 230 NextTarget: 230 Distance to top: 249 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.229112[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 2434814 at layer: 226 NextTarget: 226 Distance to top: 281 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C6DAA3560: Radius: 2434814 at layer: 227 NextTarget: 227 Distance to top: 280 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.232105[Thread 0x00004024]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 223 NextTarget: 223 Distance to top: 253 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C64298320: Radius: 1349954 at layer: 224 NextTarget: 224 Distance to top: 252 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.239596[Thread 0x0000917c]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 217 NextTarget: 217 Distance to top: 262 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C094507C0: Radius: 1349954 at layer: 218 NextTarget: 218 Distance to top: 261 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.251564[Thread 0x00009b34]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 208 NextTarget: 208 Distance to top: 304 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C09457E40: Radius: 3747144 at layer: 209 NextTarget: 209 Distance to top: 303 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.262535[Thread 0x000082f0]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 199 NextTarget: 199 Distance to top: 313 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C0E924AB0: Radius: 3747144 at layer: 200 NextTarget: 200 Distance to top: 312 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.280669[Thread 0x00009d70]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 183 NextTarget: 183 Distance to top: 64 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C5C655CE0: Radius: 1349954 at layer: 184 NextTarget: 184 Distance to top: 63 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.290643[Thread 0x00006c74]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 175 NextTarget: 175 Distance to top: 301 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C5B805F80: Radius: 1349954 at layer: 176 NextTarget: 176 Distance to top: 300 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.305602[Thread 0x00009b34]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 164 NextTarget: 164 Distance to top: 348 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C5B811740: Radius: 3747144 at layer: 165 NextTarget: 165 Distance to top: 347 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.312584[Thread 0x00004024]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 161 NextTarget: 161 Distance to top: 318 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C5B804CC0: Radius: 1349954 at layer: 162 NextTarget: 162 Distance to top: 317 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.336808[Thread 0x00009db8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 146 NextTarget: 146 Distance to top: 101 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C73C570C0: Radius: 1349954 at layer: 147 NextTarget: 147 Distance to top: 100 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.348777[Thread 0x00009b34]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 139 NextTarget: 139 Distance to top: 373 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C481500E0: Radius: 3747144 at layer: 140 NextTarget: 140 Distance to top: 372 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:28.349774[Thread 0x00009d70]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 138 NextTarget: 138 Distance to top: 109 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C4814E9A0: Radius: 1349954 at layer: 139 NextTarget: 139 Distance to top: 108 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:29.034105[Thread 0x00008be8]:Influence area could not be increased! Data about the Influence area: Radius: 3747144 at layer: 41 NextTarget: 41 Distance to top: 471 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C495B9A10: Radius: 3747144 at layer: 42 NextTarget: 42 Distance to top: 470 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-10 22:01:29.069649[Thread 0x00009d70]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 38 NextTarget: 38 Distance to top: 41 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000027C058ACF50: Radius: 1349954 at layer: 39 NextTarget: 39 Distance to top: 40 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-06-10 22:01:30.537102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.537102[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.537102[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.537102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.537102[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.537102[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.538102[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.539100[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.540097[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.541094[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.541094[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.541094[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.541094[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.541094[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.541094[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.541094[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.542091[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.542091[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.542091[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.542091[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.542091[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.542091[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.543088[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.543088[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.545084[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.545084[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.546081[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.546081[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.547079[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.549073[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.551068[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.551068[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.551068[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.552065[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.555057[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.555057[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.555057[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.556054[Thread 0x00009bd0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.556054[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.556054[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.556054[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.556054[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.556054[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.557053[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.557053[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.557053[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.557053[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.557053[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.558050[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.558050[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.558050[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.558050[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.558050[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.558050[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.559046[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.559046[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.559046[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.559046[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.559046[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.560043[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.560240[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.560748[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.560748[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.560748[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.563744[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.563744[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.563744[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.563744[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.563744[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.563744[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.564741[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.564741[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.564741[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.564741[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.564741[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.565737[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.565737[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.565737[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.565737[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.565737[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.565737[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.566734[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.566734[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.566734[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.567732[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.567732[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.568730[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.568730[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.568730[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.568730[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.569728[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.570724[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.571721[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.573717[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.574714[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.575711[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.575711[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.578705[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.580069[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.580069[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.580574[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.582572[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.583569[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.584566[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.584566[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.585564[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.589154[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.589154[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.590155[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.591153[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.593147[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.595142[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.596139[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.596139[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.597137[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.600134[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.601130[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.602127[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.605120[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.607115[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.609110[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.609110[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.610106[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.613098[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.613098[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.613098[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.613098[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.614096[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.614096[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.614096[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.614096[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.614096[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.614096[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.614096[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615094[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615094[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615094[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615094[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.615598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.616598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.616598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.616598[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.617596[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.617596[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.617596[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.617596[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.618592[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.618592[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.618592[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.619589[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.619589[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.619589[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.620587[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.620587[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.621585[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.622586[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.622586[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.625578[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.625578[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.625578[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.626575[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.627572[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.627572[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.628569[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.629567[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.629567[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.629567[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.630565[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.630565[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.630565[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.630565[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.631561[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.633556[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.641047[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.642045[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.645037[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.645037[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.645037[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.648029[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.649029[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.658002[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.660995[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.661991[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.662988[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.663985[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.663985[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.664983[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.665980[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.665980[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.666981[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.666981[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.666981[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.666981[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.666981[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.667976[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.667976[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.667976[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.668972[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.669969[Thread 0x00004024]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.669969[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.671965[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.682935[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.682935[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.682935[Thread 0x00009330]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.687159[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.699153[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.705139[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.707132[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.710381[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.710381[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.711379[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.712375[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.722355[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.724349[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.724349[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.724349[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.729337[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.730333[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.731330[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.731330[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.731330[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.734324[Thread 0x0000a234]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.735320[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.737835[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.745816[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.755788[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.768754[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.773740[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.774737[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.784711[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.787705[Thread 0x00009dd4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.789697[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.793688[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.794684[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.799671[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.800668[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.801666[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.804657[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.809644[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.812635[Thread 0x00005010]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.812635[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.814630[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.823609[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.825603[Thread 0x00009b34]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.825603[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.829219[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.837212[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.838213[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.841205[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.850181[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.853172[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.858160[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.863146[Thread 0x00009d48]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.869130[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.874117[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.878106[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.879105[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.880101[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.880101[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.884091[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.887082[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.888079[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.900049[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.905034[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.909024[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.909024[Thread 0x0000917c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.909024[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.909024[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.911018[Thread 0x00006c74]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.911018[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.911018[Thread 0x000082f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.911018[Thread 0x0000a710]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.911018[Thread 0x000084cc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.911018[Thread 0x00008be8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.921993[Thread 0x00009db8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.923988[Thread 0x00009d70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-10 22:01:30.931966[Thread 0x000084cc]:Had to cal

@@ -1,0 +1,12 @@
+[error]	2024-06-12 16:24:21.854010[Thread 0x000062e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006818]:Unable to open the fileC:\Users\nicho\Downloads\Brush_Arm_v2 v1.3mf
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006820]:Unable to open the fileC:\Users\nicho\Downloads\Master Spool EIBOS EASDRY.3mf
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006824]:Unable to open the fileC:\Users\nicho\Downloads\arm.3mf
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006828]:Unable to open the fileC:\Users\nicho\Downloads\part_a.3mf
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006830]:Unable to open the fileC:\Users\nicho\Downloads\Octotherm_Mount_DIN.3mf
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006824]:Unable to open the fileC:\Users\nicho\Downloads\brush arm.3mf
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006818]:Unable to open the fileC:\Users\nicho\Downloads\V-Spooler+Beta+5.3mf
+[error]	2024-06-12 16:24:21.866503[Thread 0x00006850]:Unable to open the fileC:\Users\nicho\Downloads\Night Spirit_v1_2_og.3mf
+[warning]	2024-06-12 16:24:24.301682[Thread 0x000062e4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-12 16:25:15.451388[Thread 0x000062e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-12 16:25:15.729269[Thread 0x000062e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

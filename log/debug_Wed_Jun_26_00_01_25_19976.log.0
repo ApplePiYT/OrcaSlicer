@@ -1,0 +1,29 @@
+[error]	2024-06-26 00:01:31.633045[Thread 0x0000304c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069cc]:Unable to open the fileC:\Users\nicho\Downloads\Master Spool EIBOS EASDRY.3mf
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069c4]:Unable to open the fileC:\Users\nicho\Downloads\V-Spooler+Beta+5.3mf
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069d4]:Unable to open the fileC:\Users\nicho\Downloads\part_a.3mf
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069c0]:Unable to open the fileC:\Users\nicho\Downloads\Brush_Arm_v2 v1.3mf
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069d0]:Unable to open the fileC:\Users\nicho\Downloads\Night Spirit_v1_2_og.3mf
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069e0]:Unable to open the fileC:\Users\nicho\Downloads\arm.3mf
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069c4]:Unable to open the fileC:\Users\nicho\Downloads\Octotherm_Mount_DIN.3mf
+[error]	2024-06-26 00:01:31.644988[Thread 0x000069cc]:Unable to open the fileC:\Users\nicho\Downloads\brush arm.3mf
+[error]	2024-06-26 00:01:34.150120[Thread 0x0000304c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-26 00:01:34.320690[Thread 0x0000304c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-26 00:01:42.587349[Thread 0x0000304c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-26 00:08:22.536971[Thread 0x00004fc0]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-26 18:10:14.038140[Thread 0x0000304c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-26 18:10:14.503582[Thread 0x0000304c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-26 18:10:14.601435[Thread 0x0000304c]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab A1 mini 0.4 nozzle, no inherit, set to not found
+[warning]	2024-06-26 18:10:14.601435[Thread 0x0000304c]:Slic3r::PresetBundle::validate_presets:file_name micro-hitch-125-32mm-v3r.3mf, found the printer preset not inherit from system
+[warning]	2024-06-26 18:10:14.601435[Thread 0x0000304c]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PETG Basic @BBL A1M 0.4 nozzle, no inherit, set to not found
+[warning]	2024-06-26 18:10:14.601435[Thread 0x0000304c]:Slic3r::PresetBundle::validate_presets:file_name micro-hitch-125-32mm-v3r.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-06-26 18:10:14.601435[Thread 0x0000304c]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PETG Basic @BBL A1M 0.4 nozzle, no inherit, set to not found
+[warning]	2024-06-26 18:10:14.601435[Thread 0x0000304c]:Slic3r::PresetBundle::validate_presets:file_name micro-hitch-125-32mm-v3r.3mf, found the filament 2 preset not inherit from system
+[warning]	2024-06-26 18:10:14.601435[Thread 0x0000304c]:Slic3r::PresetBundle::validate_presets:file_name micro-hitch-125-32mm-v3r.3mf, found self defined presets, count 2
+[error]	2024-06-26 18:10:21.247452[Thread 0x0000304c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-26 18:10:35.061907[Thread 0x0000304c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-26 18:10:43.272251[Thread 0x0000304c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-26 18:10:47.320978[Thread 0x0000304c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-26 18:10:52.066511[Thread 0x00004fc0]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-06-26 20:09:08.956165[Thread 0x0000304c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-26 20:09:23.192036[Thread 0x0000304c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

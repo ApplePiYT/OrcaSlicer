@@ -15,7 +15,7 @@
         "Polymaker PLA"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=+0.15 MOVE=1\n"
+        "; filament start gcode\n;SET_GCODE_OFFSET Z_ADJUST=+0.15 MOVE=1\n"
     ],
     "filament_vendor": [
         "Polymaker"

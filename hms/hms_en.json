@@ -1086,14 +1086,10 @@
                 "intro": "Heatbed temperature malfunction."
             }
         ],
-        "ver": 202407051730
+        "ver": 202407160930
     },
     "device_hms": {
         "en": [
-            {
-                "ecode": "0300180000010005",
-                "intro": "The Z axis motor got stuck while moving, or the extrusion force sensor may have an issue; please check if there is any foreign matter on the Z sliders or Z timing belt wheels."
-            },
             {
                 "ecode": "0500010000030004",
                 "intro": "Not enough space in MicroSD Card; please clear some space."
@@ -1129,6 +1125,18 @@
             {
                 "ecode": "0500030000010024",
                 "intro": "The current temperature is too low. In order to protect you and your printer. Printing task, moving axis and other operations is disabled. Please move the printer to an environment above 10°C."
+            },
+            {
+                "ecode": "0300180000010005",
+                "intro": "The Z axis motor got stuck while moving, or the extrusion force sensor may have an issue; please check if there is any foreign matter on the Z sliders or Z timing belt wheels."
+            },
+            {
+                "ecode": "0700220000030001",
+                "intro": "AMS1 Slot3 filament has run out. Please wait while old filament is purged."
+            },
+            {
+                "ecode": "0500030000010025",
+                "intro": "The current firmware is abnormal. Please update again."
             },
             {
                 "ecode": "0500030000010023",
@@ -2983,10 +2991,6 @@
                 "intro": "AMS1 Slot2 filament has run out. Please wait while old filament is purged."
             },
             {
-                "ecode": "0700220000030001",
-                "intro": "AMS1 Slot3 filament has run out. Please wait while old filament is purged."
-            },
-            {
                 "ecode": "0700200000030002",
                 "intro": "AMS1 Slot1 filament has run out and automatically switched to the slot with the same filament."
             },
@@ -4311,7 +4315,7 @@
                 "intro": "The nozzle temperature is abnormal; the sensor may have an open circuit."
             }
         ],
-        "ver": 202407051730
+        "ver": 202407160930
     },
-    "version": "202407051730"
+    "version": "202407160930"
 }

@@ -1,0 +1,287 @@
+[error]	2025-03-27 20:46:01.116948[Thread 0x00000001758db000]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-27 20:46:01.152203[Thread 0x00000001760f3000]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-27 20:46:01.163619[Thread 0x0000000176d17000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-27 20:46:02.424778[Thread 0x00000001ea7fc840]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-03-27 20:46:21.248013[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-27 20:46:32.657522[Thread 0x000000045fb77000]:[install_plugin]: 1385, got 47 files
+[warning]	2025-03-27 20:46:33.817504[Thread 0x00000001ea7fc840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-03-27 20:46:33.817592[Thread 0x00000001ea7fc840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-27 20:46:33.817659[Thread 0x00000001ea7fc840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-27 20:53:31.732327[Thread 0x00000001ea7fc840]:send_message_to_printer error: network_agent=0x60000b619a80, ret=-4, dev_id=0309CA4C1200806, json_str={"info":{"command":"get_version","sequence_id":"20000"}}, qos=1
+[warning]	2025-03-27 20:53:43.281912[Thread 0x00000001ea7fc840]:08:53:43 PM: PrinterFileSystem::Reconnect Initializing
+[warning]	2025-03-27 20:53:43.281989[Thread 0x00000001ea7fc840]:08:53:43 PM: PrinterFileSystem::Reconnect Initialize failed: 0
+[warning]	2025-03-27 20:53:43.282045[Thread 0x00000001ea7fc840]:08:53:43 PM: PrinterFileSystem::Reconnect Failed
+[warning]	2025-03-27 20:53:45.660419[Thread 0x00000001ea7fc840]:08:53:45 PM: PrinterFileSystem::Reconnect Initializing
+[warning]	2025-03-27 20:53:45.660509[Thread 0x00000001ea7fc840]:08:53:45 PM: PrinterFileSystem::Reconnect Initialize failed: 0
+[warning]	2025-03-27 20:53:45.660579[Thread 0x00000001ea7fc840]:08:53:45 PM: PrinterFileSystem::Reconnect Failed
+[warning]	2025-03-27 20:56:36.704098[Thread 0x00000001ea7fc840]:08:56:36 PM: PrinterFileSystem::Reconnect Initializing
+[warning]	2025-03-27 20:56:36.704192[Thread 0x00000001ea7fc840]:08:56:36 PM: PrinterFileSystem::Reconnect Initialize failed: 0
+[warning]	2025-03-27 20:56:36.704250[Thread 0x00000001ea7fc840]:08:56:36 PM: PrinterFileSystem::Reconnect Failed
+[error]	2025-03-30 16:43:48.840947[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.053278[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.064656[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.076046[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.086608[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.096887[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.097455[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.098213[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.109362[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.119779[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:43:49.450630[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:43:49.503307[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:38.362098[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:40.090211[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:42.020458[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:42.768523[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:43.196906[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:43.995846[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:44.385688[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:44.994114[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:44:45.214867[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-30 16:44:48.905048[Thread 0x00000001738cb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":180.000000,"clearance_radius":57.000000,"printable_height":180.000000,
+[error]	2025-03-30 16:44:48.929528[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 16:44:48.930733[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-30 16:46:06.640776[Thread 0x00000001738cb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":180.000000,"clearance_radius":57.000000,"printable_height":180.000000,
+[error]	2025-03-30 16:46:15.395208[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:46:33.307345[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:46:34.197468[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:46:54.218271[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-30 16:47:46.795078[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.802435[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.812715[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.818278[Thread 0x000000017690b000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.823644[Thread 0x000000017690b000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.844624[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.847607[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.848906[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.849977[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.856488[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.856580[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.858658[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.867152[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.868942[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.872309[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.877530[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.882890[Thread 0x000000017690b000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.901688[Thread 0x000000017690b000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.910908[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.914774[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.916357[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.921933[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.923680[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.927499[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.929236[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.930788[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.933023[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.934568[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.936606[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.938415[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.940122[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.941357[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.942449[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.946939[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.947371[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.948198[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.948910[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.952418[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.956374[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.957672[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.958073[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.959091[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.963023[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.963773[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.965353[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.968352[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.971107[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.971976[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.977168[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.977420[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.986017[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.989528[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.997492[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.998490[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:46.999063[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.001328[Thread 0x0000000175ce7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.004063[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.007043[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.007301[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.007607[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.008380[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.013133[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.018276[Thread 0x0000000175ce7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.021226[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.021468[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.022218[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.026625[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.027630[Thread 0x00000001764ff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.030357[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.030608[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.031667[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.033176[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.036673[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.037876[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.039257[Thread 0x0000000177123000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.039333[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.039790[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.041762[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.043638[Thread 0x0000000175ce7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.044550[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.045454[Thread 0x00000001764ff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.048353[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.049341[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.049452[Thread 0x0000000175ce7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.049644[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.050042[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.051349[Thread 0x0000000177123000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.054684[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.055402[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.056676[Thread 0x0000000177123000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.057598[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.058648[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.060473[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.060848[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.062830[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.064361[Thread 0x0000000175ce7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.065857[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.066361[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.066974[Thread 0x0000000177123000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.069813[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.071664[Thread 0x000000017752f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.071719[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.071930[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.075454[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.077000[Thread 0x00000001760f3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.077558[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.080951[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.082393[Thread 0x000000017690b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.083138[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.088696[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.109283[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:47:47.124921[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-30 16:47:55.802219[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-30 16:48:07.151439[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.154472[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.156643[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.159640[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.161153[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.162047[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.163474[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.167641[Thread 0x00000001760f3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.169128[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.169488[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.173245[Thread 0x00000001760f3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.175801[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.180994[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.184636[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.185811[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.193719[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.199222[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.202556[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.204706[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.211402[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.213468[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.213551[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.220129[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.222096[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.225558[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.230388[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.231168[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.235789[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.236722[Thread 0x00000001760f3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.242396[Thread 0x00000001760f3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.246218[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.247680[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.249739[Thread 0x00000001764ff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.251571[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.253148[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.256947[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.257193[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.258559[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.264057[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.266071[Thread 0x00000001764ff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.269552[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.274683[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.278130[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.283491[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.283530[Thread 0x00000001764ff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.286940[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.289061[Thread 0x00000001764ff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.292087[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.292282[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.297791[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.303764[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.306458[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.311200[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.311891[Thread 0x00000001764ff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.314318[Thread 0x000000017752f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.316434[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.317385[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.326188[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.328398[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.337265[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.342583[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.351311[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.370686[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.379701[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.381329[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.390355[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.392354[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.401054[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.417170[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.417725[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.423170[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.428815[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.431055[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.434245[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.439855[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.443091[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.446094[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.448830[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.451270[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.452932[Thread 0x0000000177123000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.453443[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.457093[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.457781[Thread 0x000000017752f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.462186[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.462859[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.463063[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.467222[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.467271[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.468396[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.468736[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.472396[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.473601[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.474273[Thread 0x00000001760f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.477757[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.480683[Thread 0x00000001754cf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.481616[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.482998[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.488284[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.489109[Thread 0x00000001754cf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.489314[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.495783[Thread 0x000000017752f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.496553[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.498207[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.498270[Thread 0x00000001754cf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.501010[Thread 0x000000017752f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.505019[Thread 0x0000000176d17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.505336[Thread 0x00000001754cf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.506506[Thread 0x000000017752f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.511298[Thread 0x00000001758db000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.514513[Thread 0x0000000175ce7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.516065[Thread 0x00000001764ff000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-30 16:48:07.517397[Thread 0x000000041320b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-30 16:48:46.079861[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:48:48.078464[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 16:49:53.346490[Thread 0x0000000479df7000]:print_job: send ok.
+[error]	2025-03-30 16:49:53.409215[Thread 0x00000001ea7fc840]:send_message_to_printer error: network_agent=0x60000b619a80, ret=-4, dev_id=0309CA4C1200806, json_str={"info":{"command":"get_version","sequence_id":"20041"}}, qos=1
+[warning]	2025-03-31 20:54:17.351466[Thread 0x00000001738cb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":180.000000,"clearance_radius":57.000000,"printable_height":180.000000,
+[warning]	2025-03-31 20:54:17.774955[Thread 0x00000001ea7fc840]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-03-31 20:54:21.524861[Thread 0x00000001738cb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":180.000000,"clearance_radius":57.000000,"printable_height":180.000000,
+[warning]	2025-03-31 20:54:21.970210[Thread 0x00000001ea7fc840]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-03-31 20:54:26.320709[Thread 0x00000001738cb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":180.000000,"clearance_radius":57.000000,"printable_height":180.000000,
+[error]	2025-03-31 21:02:18.354452[Thread 0x0000000479df7000]:print_job: send ok.
+[warning]	2025-04-01 23:41:41.778614[Thread 0x00000001ea7fc840]:11:41:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-04-01 23:41:41.780091[Thread 0x00000001ea7fc840]:11:41:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-04-02 22:10:02.633220[Thread 0x00000001ea7fc840]:10:10:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-04-04 21:01:24.223584[Thread 0x00000001ea7fc840]:calc_exclude_triangles:Unable to create exclude triangles

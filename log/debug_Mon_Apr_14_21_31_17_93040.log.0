@@ -1,0 +1,14 @@
+[warning]	2025-04-14 21:31:17.471494[Thread 0x00000001ff3a0840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-04-14 21:31:17.471643[Thread 0x00000001ff3a0840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-14 21:31:17.471704[Thread 0x00000001ff3a0840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-14 21:31:18.731285[Thread 0x000000016f9c3000]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-14 21:31:18.757693[Thread 0x000000016fdcf000]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-14 21:31:18.804461[Thread 0x000000016ed9f000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-04-14 21:31:21.211169[Thread 0x0000000429b63000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-04-14 21:31:32.695343[Thread 0x00000001ff3a0840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-14 21:31:33.509356[Thread 0x00000001ff3a0840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-14 21:33:16.896839[Thread 0x00000001ff3a0840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-14 21:33:17.897141[Thread 0x00000001ff3a0840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-14 21:33:20.664824[Thread 0x000000042cf67000]:gcode path conflicts found between Stand Front.stl and Calibration part.stl
+[error]	2025-04-14 21:33:24.527098[Thread 0x00000001ff3a0840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-14 21:33:27.788935[Thread 0x000000016da27000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,

@@ -1,0 +1,11 @@
+[warning]	2025-05-18 00:01:02.487340[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-05-18 00:01:02.487559[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-18 00:01:02.487622[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-18 00:01:03.736794[Thread 0x0000000175cef000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-18 00:01:03.785991[Thread 0x00000001750cb000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-18 00:01:03.797272[Thread 0x0000000204fa1f00]:File Metadata/plate_1.png not found from archive
+[warning]	2025-05-18 00:01:05.781714[Thread 0x0000000177c03000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-05-18 00:01:13.810381[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 00:01:15.283123[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 00:07:07.259624[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 00:07:14.101751[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 

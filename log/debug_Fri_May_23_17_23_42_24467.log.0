@@ -1,0 +1,15 @@
+[warning]	2025-05-23 17:23:43.591604[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-05-23 17:23:43.591847[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-23 17:23:43.591914[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-23 17:23:44.971378[Thread 0x000000016e7a7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-23 17:23:45.002204[Thread 0x000000016f3cb000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-23 17:23:45.042645[Thread 0x000000016f7d7000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-05-23 17:23:46.793766[Thread 0x000000031b0db000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-05-23 17:25:21.395183[Thread 0x0000000204fa1f00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-23 17:25:21.395311[Thread 0x0000000204fa1f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-23 17:25:21.396190[Thread 0x0000000204fa1f00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[warning]	2025-05-26 23:16:08.957139[Thread 0x000000016dc47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-05-26 23:16:13.247280[Thread 0x000000016dc47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-05-27 20:38:29.224301[Thread 0x000000016dc47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-05-28 23:11:13.459381[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-28 23:14:48.349369[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 

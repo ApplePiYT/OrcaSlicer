@@ -1,0 +1,41 @@
+[warning]	2025-06-09 21:11:34.730166[Thread 0x00000001f7cbdf00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-09 21:11:34.730430[Thread 0x00000001f7cbdf00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-09 21:11:34.730499[Thread 0x00000001f7cbdf00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-09 21:11:35.880153[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 21:11:35.880213[Thread 0x00000001f7cbdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-09 21:11:35.882854[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-06-09 21:11:35.885199[Thread 0x000000016c9e7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-09 21:11:35.940255[Thread 0x000000016de23000]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-09 21:11:35.945493[Thread 0x00000001f7cbdf00]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-09 21:11:36.026630[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 21:11:36.026642[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-06-09 21:11:37.184963[Thread 0x00000001f7cbdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-09 21:11:37.197616[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 21:11:37.197630[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[warning]	2025-06-09 21:11:37.760275[Thread 0x00000004136d3000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-06-09 21:11:38.657549[Thread 0x00000001f7cbdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-09 21:11:38.670726[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 21:11:38.670746[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-06-09 21:11:52.791903[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-09 21:11:53.699829[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-09 21:11:58.243642[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-09 21:11:58.276175[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-09 21:12:02.062887[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-09 21:12:03.138186[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-09 21:12:07.665857[Thread 0x000000016be87000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2025-06-09 21:17:59.720557[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-10 00:09:14.829964[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-10 00:09:15.267011[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-10 00:09:29.126550[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-10 00:09:29.735327[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-10 00:10:27.023151[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-10 00:10:28.643911[Thread 0x000000016be87000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2025-06-10 00:10:29.617964[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-11 16:02:45.696635[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-11 16:02:45.836586[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-11 16:02:50.447541[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-11 16:02:50.795663[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-11 16:03:16.624513[Thread 0x00000001f7cbdf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-21 20:57:46.183804[Thread 0x00000001f7cbdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-21 20:57:46.202712[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-21 20:57:46.202733[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png

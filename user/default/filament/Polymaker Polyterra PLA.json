@@ -1,0 +1,34 @@
+{
+    "close_fan_the_first_x_layers": [
+        "0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Polymaker Polyterra PLA"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\n;SET_GCODE_OFFSET Z_ADJUST=+0.15 MOVE=1\n"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polymaker Polyterra PLA",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.04"
+    ],
+    "version": "1.6.5.2"
+}

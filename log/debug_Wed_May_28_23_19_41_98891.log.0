@@ -1,0 +1,14 @@
+[warning]	2025-05-28 23:19:41.990371[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-05-28 23:19:41.990528[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-28 23:19:41.990592[Thread 0x0000000204fa1f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-28 23:19:43.207242[Thread 0x000000016e6e3000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-28 23:19:43.251825[Thread 0x000000016f713000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-28 23:19:43.268916[Thread 0x0000000204fa1f00]:File Metadata/plate_1.png not found from archive
+[warning]	2025-05-28 23:19:44.814901[Thread 0x000000041be33000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-05-28 23:39:11.334550[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-28 23:39:13.939307[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-28 23:39:14.398597[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-28 23:39:19.673539[Thread 0x000000016db83000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-05-28 23:39:20.227588[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-28 23:39:42.665754[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-28 23:40:37.915639[Thread 0x0000000204fa1f00]:tree_sel_change_delayedcan not find page with current selection 

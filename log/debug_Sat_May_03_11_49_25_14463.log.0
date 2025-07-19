@@ -1,0 +1,35 @@
+[warning]	2025-05-03 11:49:25.917465[Thread 0x00000001fefe4c80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-05-03 11:49:25.917667[Thread 0x00000001fefe4c80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-03 11:49:25.917732[Thread 0x00000001fefe4c80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-03 11:49:27.057132[Thread 0x00000001fefe4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-03 11:49:27.057327[Thread 0x00000001fefe4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 11:49:27.060347[Thread 0x00000001fefe4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-03 11:49:27.062881[Thread 0x0000000174b33000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 11:49:27.141610[Thread 0x00000001fefe4c80]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 11:49:27.152301[Thread 0x0000000174b33000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 11:49:27.231544[Thread 0x00000001fefe4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-03 11:49:27.231555[Thread 0x00000001fefe4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-03 11:49:28.628442[Thread 0x00000001fefe4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 11:49:28.639694[Thread 0x00000001fefe4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-03 11:49:28.639705[Thread 0x00000001fefe4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-03 11:49:28.673475[Thread 0x00000001fefe4c80]:load_files: can not find valid path, return directly
+[warning]	2025-05-03 11:49:29.000909[Thread 0x0000000422b5b000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-05-03 11:49:32.771942[Thread 0x00000001fefe4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 11:49:32.784460[Thread 0x00000001fefe4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-03 11:49:32.784473[Thread 0x00000001fefe4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-03 11:49:32.900100[Thread 0x00000001fefe4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 11:49:32.926381[Thread 0x00000001fefe4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-03 11:49:32.926398[Thread 0x00000001fefe4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-03 11:50:19.037765[Thread 0x00000001fefe4c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-03 11:50:28.655611[Thread 0x00000001fefe4c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-03 11:50:28.684544[Thread 0x00000001fefe4c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-03 11:50:31.452130[Thread 0x0000000173fd3000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2025-05-03 11:50:32.073828[Thread 0x00000001fefe4c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-03 11:50:35.305193[Thread 0x0000000174b33000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-05-03 11:51:10.805695[Thread 0x00000001fefe4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-03 11:51:10.805858[Thread 0x00000001fefe4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-03 11:51:10.959278[Thread 0x00000001fefe4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 11:51:10.973953[Thread 0x00000001fefe4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-03 11:51:10.973967[Thread 0x00000001fefe4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-03 11:51:11.081485[Thread 0x00000001fefe4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 11:51:11.088687[Thread 0x00000001fefe4c80]:Failed to delete lockfile /Users/nicholasclark/Library/Application Support/OrcaSlicer/cache/12239093808561760700.lock

@@ -1,0 +1,8 @@
+[warning]	2025-07-18 20:58:22.525643[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-07-18 20:58:22.525905[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-07-18 20:58:22.525973[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-07-18 20:58:24.022340[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 20:58:24.028708[Thread 0x000000017257f000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-18 20:58:24.028881[Thread 0x00000001fbbc5f00]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-18 20:58:24.028955[Thread 0x0000000172173000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-18 20:58:25.603361[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles

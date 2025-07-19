@@ -1,0 +1,33 @@
+{
+    "from": "User",
+    "inherits": "Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_max_jerk_e": [
+        "100"
+    ],
+    "machine_max_jerk_x": [
+        "100"
+    ],
+    "machine_max_jerk_y": [
+        "100"
+    ],
+    "machine_max_jerk_z": [
+        "100"
+    ],
+    "machine_start_gcode": "PRINT_START BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperature] CHAMBER=[chamber_temperature] MATERIAL=[filament_type[initial_extruder]] PURGE={0} PEI_WIPE={0}\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]",
+    "max_layer_height": [
+        "0.32"
+    ],
+    "min_layer_height": [
+        "0.1"
+    ],
+    "name": "Qidi Plus 4 0.4 nozzle KAMP",
+    "print_host": "http://10.162.81.134",
+    "printer_settings_id": "Qidi Plus 4 0.4 nozzle KAMP",
+    "retraction_length": [
+        "0.4"
+    ],
+    "time_lapse_gcode": "",
+    "version": "2.3.0.0"
+}

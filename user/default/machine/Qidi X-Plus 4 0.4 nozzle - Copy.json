@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Qidi X-Plus 4 0.4 nozzle - Copy",
+    "print_host": "http://10.162.81.240",
+    "printer_settings_id": "Qidi X-Plus 4 0.4 nozzle - Copy",
+    "version": "2.3.0.0"
+}

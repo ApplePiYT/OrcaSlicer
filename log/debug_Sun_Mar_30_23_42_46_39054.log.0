@@ -1,0 +1,30 @@
+[warning]	2025-03-30 23:42:46.520036[Thread 0x00000001ea7fc840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-03-30 23:42:46.520266[Thread 0x00000001ea7fc840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-30 23:42:46.520329[Thread 0x00000001ea7fc840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-30 23:42:47.650398[Thread 0x00000001720cb000]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-30 23:42:47.679564[Thread 0x00000001724d7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-30 23:42:47.730218[Thread 0x0000000170c8f000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-30 23:42:49.412531[Thread 0x0000000417aa3000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-03-30 23:49:43.574037[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 23:49:44.529253[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-31 01:28:01.514859[Thread 0x000000016fd23000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-03-31 09:36:01.227049[Thread 0x000000045af1b000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_hub_ABS_8h11m
+ ^
+[warning]	2025-04-01 23:41:42.091041[Thread 0x00000001ea7fc840]:11:41:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-04-01 23:41:42.091348[Thread 0x00000001ea7fc840]:11:41:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-04-02 22:10:02.421847[Thread 0x00000001ea7fc840]:10:10:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-04-03 14:12:53.225454[Thread 0x000000016fd23000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-04-03 23:26:18.641193[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 13:06:47.061933[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 13:06:50.553073[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 17:12:12.286412[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 17:12:14.911396[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 17:12:15.395968[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 17:12:16.583303[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 17:12:24.290196[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 17:12:49.480135[Thread 0x00000001ea7fc840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-04 17:13:37.969114[Thread 0x000000017b577000]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10004 milliseconds
+[Error 28], HTTP 0, body: ``
+[warning]	2025-04-04 17:15:45.584031[Thread 0x000000016fd23000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,

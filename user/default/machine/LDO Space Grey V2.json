@@ -13,15 +13,16 @@
         "50",
         "12"
     ],
+    "machine_max_speed_z": [
+        "400",
+        "12"
+    ],
     "machine_start_gcode": "SET_GCODE_VARIABLE MACRO=START_PRINT_SUPER_SLICER VARIABLE=bed_temp VALUE=[first_layer_bed_temperature]\nSET_GCODE_VARIABLE MACRO=START_PRINT_SUPER_SLICER VARIABLE=extruder_temp VALUE=[first_layer_temperature]\nSTART_PRINT_SUPER_SLICER",
     "name": "LDO Space Grey V2",
-    "print_host": "http://10.162.81.68",
+    "print_host": "http://10.162.81.205",
     "printer_settings_id": "LDO Space Grey V2",
     "retraction_length": [
         "0.4"
     ],
-    "version": "1.5.1.2",
-    "z_hop": [
-        "0"
-    ]
+    "version": "1.5.1.2"
 }

@@ -1,0 +1,20 @@
+[warning]	2025-04-06 23:36:59.984128[Thread 0x00000001ff3a0840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-04-06 23:36:59.984348[Thread 0x00000001ff3a0840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-06 23:36:59.984410[Thread 0x00000001ff3a0840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-06 23:37:01.219476[Thread 0x00000001ff3a0840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 23:37:01.224953[Thread 0x000000016eba7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-06 23:37:01.287583[Thread 0x00000001703ef000]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-06 23:37:01.292827[Thread 0x000000016eba7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-06 23:37:02.772182[Thread 0x00000001ff3a0840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-06 23:37:03.407015[Thread 0x0000000176e17000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-04-06 23:37:09.533147[Thread 0x00000001ff3a0840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 23:59:33.786019[Thread 0x00000001ff3a0840]:send_message_to_printer error: network_agent=0x60000177c010, ret=-4, dev_id=0309CA4C1200806, json_str={"info":{"command":"get_version","sequence_id":"20000"}}, qos=1
+[error]	2025-04-06 23:59:33.786039[Thread 0x00000001ff3a0840]:send_message_to_printer error: network_agent=0x60000177c010, ret=-4, dev_id=0309CA4C1200806, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20001","version":1}}, qos=0
+[error]	2025-04-07 00:00:00.622041[Thread 0x0000000418cff000]:print_job: send ok.
+[error]	2025-04-07 00:00:00.664019[Thread 0x00000001ff3a0840]:send_message_to_printer error: network_agent=0x60000177c010, ret=-4, dev_id=0309CA4C1200806, json_str={"info":{"command":"get_version","sequence_id":"20005"}}, qos=1
+[error]	2025-04-07 00:01:48.984578[Thread 0x0000000418cff000]:print_job: send ok.
+[error]	2025-04-07 00:02:38.261978[Thread 0x00000001ff3a0840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-10 14:43:09.773644[Thread 0x00000001ff3a0840]:02:43:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-04-10 14:43:09.773934[Thread 0x00000001ff3a0840]:02:43:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-04-10 14:43:09.774167[Thread 0x00000001ff3a0840]:02:43:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-04-10 16:59:48.420942[Thread 0x00000001ff3a0840]:calc_exclude_triangles:Unable to create exclude triangles

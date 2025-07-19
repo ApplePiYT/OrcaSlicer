@@ -1,0 +1,18 @@
+[warning]	2025-06-09 19:44:23.424176[Thread 0x00000001f7cbdf00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-09 19:44:23.424459[Thread 0x00000001f7cbdf00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-09 19:44:23.424526[Thread 0x00000001f7cbdf00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-09 19:44:24.628876[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 19:44:24.628938[Thread 0x00000001f7cbdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-09 19:44:24.631403[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-06-09 19:44:24.633694[Thread 0x0000000400a43000]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-09 19:44:24.683212[Thread 0x000000040228b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-09 19:44:24.707404[Thread 0x00000001f7cbdf00]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-09 19:44:24.789110[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 19:44:24.789121[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-06-09 19:44:25.987309[Thread 0x00000001f7cbdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-09 19:44:25.999072[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 19:44:25.999083[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[warning]	2025-06-09 19:44:26.534988[Thread 0x0000000406e27000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-06-09 21:03:40.218646[Thread 0x00000001f7cbdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-09 21:03:40.243488[Thread 0x00000001f7cbdf00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-06-09 21:03:40.243528[Thread 0x00000001f7cbdf00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png

@@ -1,0 +1,13 @@
+[warning]	2025-05-13 17:45:23.603371[Thread 0x00000001ff2e4c80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-05-13 17:45:23.603692[Thread 0x00000001ff2e4c80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-13 17:45:23.603759[Thread 0x00000001ff2e4c80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-13 17:45:24.488119[Thread 0x000000016ebd7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-13 17:45:24.533703[Thread 0x0000000178407000]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-13 17:45:24.554947[Thread 0x0000000178c1f000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-05-13 17:45:25.983561[Thread 0x00000004259cf000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-05-13 17:45:30.441375[Thread 0x00000001ff2e4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-13 17:45:30.441531[Thread 0x00000001ff2e4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-13 17:45:30.442201[Thread 0x00000001ff2e4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-05-14 00:13:43.939083[Thread 0x00000001ff2e4c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 00:13:44.017314[Thread 0x00000001ff2e4c80]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-05-14 00:13:44.019800[Thread 0x00000001ff2e4c80]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png

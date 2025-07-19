@@ -1,0 +1,19 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Qidi XPlus4",
+    "initial_layer_infill_speed": "150",
+    "initial_layer_speed": "100",
+    "internal_solid_infill_pattern": "monotonic",
+    "is_custom_defined": "0",
+    "name": "0.4 Plus4 0.2 Rigid",
+    "print_settings_id": "0.4 Plus4 0.2 Rigid",
+    "sparse_infill_density": "60%",
+    "sparse_infill_pattern": "cubic",
+    "support_on_build_plate_only": "1",
+    "support_style": "tree_hybrid",
+    "support_type": "tree(auto)",
+    "top_shell_layers": "6",
+    "version": "2.3.0.0",
+    "wall_loops": "6"
+}

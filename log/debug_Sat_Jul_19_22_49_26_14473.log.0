@@ -1,0 +1,19 @@
+[warning]	2025-07-19 22:49:26.609218[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-07-19 22:49:26.609381[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-07-19 22:49:26.609446[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-07-19 22:49:26.843672[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Box Turtle.json!
+[error]	2025-07-19 22:49:26.845796[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Rigid.json!
+[error]	2025-07-19 22:49:26.850016[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Toy.json!
+[error]	2025-07-19 22:49:26.851882[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Voron Spec.json!
+[error]	2025-07-19 22:49:26.876060[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/machine/Qidi Plus4 0.4 Nozzle MMU.json!
+[error]	2025-07-19 22:49:26.877385[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/machine/Qidi Plus 4 0.4.json!
+[error]	2025-07-19 22:49:27.496389[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-19 22:49:27.501264[Thread 0x000000016e0f7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-19 22:49:27.501668[Thread 0x00000001fbbc5f00]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-19 22:49:27.501711[Thread 0x000000016d0c7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-19 22:49:28.857550[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-19 22:49:29.323218[Thread 0x0000000417cd7000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-07-20 10:00:30.381278[Thread 0x00000001fbbc5f00]:10:00:30 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-20 10:00:33.298629[Thread 0x00000001fbbc5f00]:10:00:33 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-20 10:00:33.876421[Thread 0x00000001fbbc5f00]:10:00:33 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-07-20 10:23:13.143096[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles

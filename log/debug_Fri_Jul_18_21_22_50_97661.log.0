@@ -1,0 +1,66 @@
+[warning]	2025-07-18 21:22:50.756730[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-07-18 21:22:50.757041[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-07-18 21:22:50.757105[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-07-18 21:22:51.897362[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:22:51.902267[Thread 0x0000000170d73000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-18 21:22:51.902269[Thread 0x00000001721af000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-18 21:22:51.902460[Thread 0x0000000170d73000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-18 21:22:53.296593[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-18 21:22:53.743720[Thread 0x0000000421e2f000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-07-18 21:24:07.500930[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:24:07.502160[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\ruiqimao\Documents\fun\3dprinting\k3\bed-texture.png
+[error]	2025-07-18 21:24:48.223983[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:25:36.513893[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:25:36.514656[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\ruiqimao\Documents\fun\3dprinting\k3\bed-texture.png
+[error]	2025-07-18 21:25:43.170260[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:25:52.399147[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:25:52.399885[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\ruiqimao\Documents\fun\3dprinting\k3\bed-texture.png
+[error]	2025-07-18 21:25:58.727076[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:15.197176[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:15.197878[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\ruiqimao\Documents\fun\3dprinting\k3\bed-texture.png
+[error]	2025-07-18 21:26:21.791146[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:32.563798[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:32.564288[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\ruiqimao\Documents\fun\3dprinting\k3\bed-texture.png
+[error]	2025-07-18 21:26:34.502409[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:42.227437[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:42.228071[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\ruiqimao\Documents\fun\3dprinting\k3\bed-texture.png
+[error]	2025-07-18 21:26:46.214352[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:59.084174[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:26:59.084672[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\ruiqimao\Documents\fun\3dprinting\k3\bed-texture.png
+[error]	2025-07-18 21:27:03.422864[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:28:55.991824[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:29:03.103759[Thread 0x00000001fbbc5f00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-07-18 21:29:03.103832[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:29:03.104235[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-07-18 21:30:21.996297[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:34:21.941794[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-18 21:34:26.373990[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-19 09:01:23.276352[Thread 0x00000001fbbc5f00]:09:01:23 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 09:01:26.227033[Thread 0x00000001fbbc5f00]:09:01:26 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 09:01:26.682980[Thread 0x00000001fbbc5f00]:09:01:26 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 11:14:55.164935[Thread 0x00000001fbbc5f00]:11:14:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 11:14:58.062686[Thread 0x00000001fbbc5f00]:11:14:58 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 11:14:58.798817[Thread 0x00000001fbbc5f00]:11:14:58 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-07-19 12:37:18.741707[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:37:23.082829[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:37:25.470132[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:38:22.726931[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-19 12:38:22.773935[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:38:35.933927[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:38:39.103211[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:38:55.389193[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:38:56.581630[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:38:58.065053[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:39:21.332893[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-19 12:39:21.366331[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-19 12:39:26.601896[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-19 13:12:42.281218[Thread 0x00000001fbbc5f00]:01:12:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 13:12:45.008317[Thread 0x00000001fbbc5f00]:01:12:45 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 13:12:45.664869[Thread 0x00000001fbbc5f00]:01:12:45 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 16:08:27.655973[Thread 0x00000001fbbc5f00]:04:08:27 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 16:08:30.544202[Thread 0x00000001fbbc5f00]:04:08:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 16:08:31.056996[Thread 0x00000001fbbc5f00]:04:08:31 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 21:30:16.865564[Thread 0x00000001fbbc5f00]:09:30:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 21:30:19.780341[Thread 0x00000001fbbc5f00]:09:30:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-07-19 21:30:20.275474[Thread 0x00000001fbbc5f00]:09:30:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-07-19 22:49:21.560379[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles

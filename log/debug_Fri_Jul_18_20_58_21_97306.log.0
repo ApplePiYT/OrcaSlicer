@@ -6,3 +6,5 @@
 [error]	2025-07-18 20:58:24.028881[Thread 0x00000001fbbc5f00]:File Metadata/plate_1.png not found from archive
 [error]	2025-07-18 20:58:24.028955[Thread 0x0000000172173000]:File Metadata/plate_1.png not found from archive
 [error]	2025-07-18 20:58:25.603361[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-18 20:58:26.048140[Thread 0x0000000426763000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-07-18 21:22:35.869982[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles

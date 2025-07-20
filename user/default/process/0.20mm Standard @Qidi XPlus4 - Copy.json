@@ -1,9 +1,0 @@
-{
-    "brim_type": "no_brim",
-    "from": "User",
-    "inherits": "0.20mm Standard @Qidi XPlus4",
-    "is_custom_defined": "0",
-    "name": "0.20mm Standard @Qidi XPlus4 - Copy",
-    "print_settings_id": "0.20mm Standard @Qidi XPlus4 - Copy",
-    "version": "2.3.0.0"
-}

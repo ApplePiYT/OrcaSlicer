@@ -1,0 +1,16 @@
+[warning]	2025-07-22 14:49:51.626113[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-07-22 14:49:51.626283[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-07-22 14:49:51.626350[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-07-22 14:49:51.885208[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Box Turtle.json!
+[error]	2025-07-22 14:49:51.887423[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Rigid.json!
+[error]	2025-07-22 14:49:51.892122[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Toy.json!
+[error]	2025-07-22 14:49:51.894049[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/process/0.4 Plus4 0.2 Voron Spec.json!
+[error]	2025-07-22 14:49:51.927057[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/machine/Qidi Plus4 0.4 Nozzle MMU.json!
+[error]	2025-07-22 14:49:51.928093[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/machine/Qidi Plus 4 0.4.json!
+[error]	2025-07-22 14:49:52.641406[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-22 14:49:52.647147[Thread 0x000000016d21b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-22 14:49:52.647161[Thread 0x000000016d627000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-22 14:49:52.648134[Thread 0x000000016c1eb000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-22 14:49:54.059679[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-22 14:49:54.510037[Thread 0x00000004207d7000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-07-22 15:02:02.232453[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles

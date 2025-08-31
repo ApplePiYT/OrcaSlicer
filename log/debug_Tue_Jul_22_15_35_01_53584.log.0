@@ -1,0 +1,22 @@
+[warning]	2025-07-22 15:35:01.730247[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-07-22 15:35:01.730506[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-07-22 15:35:01.730572[Thread 0x00000001fbbc5f00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-07-22 15:35:01.983788[Thread 0x00000001fbbc5f00]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/default/filament/Plus4 PPS-GF.json!
+[error]	2025-07-22 15:35:02.626468[Thread 0x00000001fbbc5f00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-07-22 15:35:02.626523[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-22 15:35:02.629098[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-07-22 15:35:02.631671[Thread 0x000000016ff5f000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-22 15:35:02.631962[Thread 0x000000016ff5f000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-22 15:35:02.632007[Thread 0x000000016eb23000]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-22 15:35:02.702285[Thread 0x00000001fbbc5f00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-07-22 15:35:02.702295[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-07-22 15:35:03.862502[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-22 15:35:03.874916[Thread 0x00000001fbbc5f00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-07-22 15:35:03.874928[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[warning]	2025-07-22 15:35:04.202423[Thread 0x0000000419283000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-07-22 15:35:05.368146[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-22 15:35:05.392799[Thread 0x00000001fbbc5f00]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-07-22 15:35:05.392825[Thread 0x00000001fbbc5f00]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-07-22 15:35:05.472517[Thread 0x00000001fbbc5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-22 15:35:05.731832[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-22 15:35:25.046857[Thread 0x00000001fbbc5f00]:tree_sel_change_delayedcan not find page with current selection 

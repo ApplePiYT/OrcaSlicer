@@ -22,9 +22,9 @@
     "min_layer_height": [
         "0.1"
     ],
-    "name": "Qidi Plus 4 0.4 nozzle KAMP",
+    "name": "Qidi Plus 4 0.4",
     "print_host": "http://10.162.81.134",
-    "printer_settings_id": "Qidi Plus 4 0.4 nozzle KAMP",
+    "printer_settings_id": "Qidi Plus 4 0.4",
     "retraction_length": [
         "0.4"
     ],

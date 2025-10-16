@@ -1,0 +1,58 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_density": [
+        "1.12"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "17"
+    ],
+    "filament_settings_id": [
+        "Hextrudort 3DX PP-GF30 DB"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.001\nSET_GCODE_OFFSET Z=0.251 "
+    ],
+    "filament_type": [
+        "ASA"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Hextrudort 3DX PP-GF30 DB",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "270"
+    ],
+    "pressure_advance": [
+        "0.063"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "temperature_vitrification": [
+        "130"
+    ],
+    "version": "1.5.1.2"
+}

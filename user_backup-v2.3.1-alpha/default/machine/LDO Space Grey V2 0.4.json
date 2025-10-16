@@ -1,0 +1,28 @@
+{
+    "bed_custom_model": "C:\\\\Users\\\\nicho\\\\OneDrive\\\\Downloads\\\\V24_350mm_bed_model.stl",
+    "bed_custom_texture": "C:\\\\Users\\\\nicho\\\\OneDrive\\\\Downloads\\\\V2_bed_smooth_pei.png",
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_jerk_x": [
+        "50",
+        "12"
+    ],
+    "machine_max_jerk_y": [
+        "50",
+        "12"
+    ],
+    "machine_max_speed_z": [
+        "400",
+        "12"
+    ],
+    "machine_start_gcode": "SET_GCODE_VARIABLE MACRO=START_PRINT_SUPER_SLICER VARIABLE=bed_temp VALUE=[first_layer_bed_temperature]\nSET_GCODE_VARIABLE MACRO=START_PRINT_SUPER_SLICER VARIABLE=extruder_temp VALUE=[first_layer_temperature]\nSTART_PRINT_SUPER_SLICER",
+    "name": "LDO Space Grey V2",
+    "print_host": "http://10.162.81.205",
+    "printer_settings_id": "LDO Space Grey V2",
+    "retraction_length": [
+        "0.4"
+    ],
+    "version": "1.5.1.2"
+}

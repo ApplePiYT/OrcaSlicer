@@ -1,0 +1,74 @@
+[warning]	2025-10-05 23:01:24.147055[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-05 23:01:24.147331[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-05 23:01:24.147376[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-05 23:01:25.152432[Thread 0x000000016d1eb000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-05 23:01:25.152464[Thread 0x000000016e21b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-05 23:01:25.153110[Thread 0x000000016d1eb000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-10-05 23:01:27.274242[Thread 0x000000016ef1f000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-10-06 16:47:58.827800[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-06 16:47:59.650361[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-06 16:49:26.038718[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-06 16:49:32.560319[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-06 16:49:39.899917[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-06 16:49:42.512597[Thread 0x000000016c9d3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-06 20:27:53.802504[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-06 20:27:55.981688[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-06 20:27:57.071924[Thread 0x000000016e627000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-06 20:27:57.074501[Thread 0x000000016e21b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-06 20:27:57.118636[Thread 0x000000016f32b000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-06 20:27:57.118844[Thread 0x000000016e627000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-06 20:27:57.120714[Thread 0x000000016e627000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-06 20:27:57.123498[Thread 0x000000016e627000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-06 20:27:57.126202[Thread 0x000000016de0f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-10-07 00:38:27.053087[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-07 00:38:32.673851[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-10-07 00:38:33.504517[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-07 00:38:35.653224[Thread 0x000000016cddf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-07 00:39:35.516997[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-07 00:39:40.588722[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-10-07 00:39:41.540034[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-07 00:39:43.232950[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-10-07 00:39:45.193348[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 00:39:52.669188[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 00:39:53.678975[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-07 00:40:02.127712[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-07 00:40:07.401749[Thread 0x000000016d1eb000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.404987[Thread 0x000000016f32b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.436787[Thread 0x000000016d5f7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.438599[Thread 0x000000016f32b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.483561[Thread 0x000000016f32b000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.486700[Thread 0x000000016ea33000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.488765[Thread 0x000000016ea33000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.492926[Thread 0x000000016ea33000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.495432[Thread 0x000000016da03000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.515157[Thread 0x000000016f32b000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.517776[Thread 0x000000016ea33000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.518884[Thread 0x000000016de0f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.519578[Thread 0x000000016ea33000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-07 00:40:07.521724[Thread 0x000000016de0f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-10-07 13:23:30.138973[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:23:31.286782[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:23:31.753432[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:23:41.419100[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-07 13:23:47.234340[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:23:47.261167[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:23:53.800547[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 10:14:24.986201[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-08 23:02:09.999550[Thread 0x00000001f4afc800]:11:02:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-11 11:27:55.346793[Thread 0x00000001f4afc800]:11:27:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-13 21:32:57.562064[Thread 0x00000001f4afc800]:09:32:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-14 17:18:44.828527[Thread 0x00000001f4afc800]:05:18:44 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-14 20:43:48.839450[Thread 0x00000001f4afc800]:08:43:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-14 23:37:23.346424[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-10-14 23:37:50.715931[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-14 23:37:54.597316[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-10-14 23:48:59.907555[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-14 23:54:04.336909[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-15 00:59:09.648413[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-15 01:10:22.749257[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-15 01:23:34.293026[Thread 0x000000016c27f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-10-15 01:52:40.130973[Thread 0x00000001f4afc800]:01:52:40 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-15 14:23:16.704399[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-16 00:31:09.514081[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-16 00:31:23.835468[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-16 00:31:26.422651[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 

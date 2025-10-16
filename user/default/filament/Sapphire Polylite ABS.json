@@ -67,7 +67,7 @@
         "100"
     ],
     "fan_min_speed": [
-        "100"
+        "50"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -224,6 +224,9 @@
     "internal_bridge_fan_speed": [
         "-1"
     ],
+    "ironing_fan_speed": [
+        "-1"
+    ],
     "is_custom_defined": "0",
     "name": "Sapphire Polylite ABS",
     "nozzle_temperature": [
@@ -257,7 +260,7 @@
         "3"
     ],
     "slow_down_for_layer_cooling": [
-        "1"
+        "0"
     ],
     "slow_down_layer_time": [
         "1"

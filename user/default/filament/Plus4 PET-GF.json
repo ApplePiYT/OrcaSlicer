@@ -1,0 +1,14 @@
+{
+    "compatible_printers": [],
+    "filament_settings_id": [
+        "Plus4 PET-GF"
+    ],
+    "filament_vendor": [
+        "SirayaTech"
+    ],
+    "from": "User",
+    "inherits": "QIDI PET-GF @Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Plus4 PET-GF",
+    "version": "2.3.1.0"
+}

@@ -1,0 +1,68 @@
+{
+    "bed_custom_model": "/Users/nicholasclark/Downloads/Sapphire Bed Orca v3.stl",
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_e": [
+        "10000",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "30000",
+        "20000"
+    ],
+    "machine_max_acceleration_x": [
+        "30000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "30000",
+        "20000"
+    ],
+    "machine_max_acceleration_z": [
+        "2000",
+        "200"
+    ],
+    "machine_max_jerk_x": [
+        "100",
+        "12"
+    ],
+    "machine_max_jerk_y": [
+        "100",
+        "12"
+    ],
+    "machine_max_speed_e": [
+        "120",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "1000",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "1000",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "75",
+        "12"
+    ],
+    "machine_start_gcode": "PRINT_START BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperature] CHAMBER=[chamber_temperature] MATERIAL=[filament_type[initial_extruder]]",
+    "name": "Sapphire 0.4",
+    "print_host": "http://10.162.81.77",
+    "printable_area": [
+        "0x0",
+        "250x0",
+        "250x250",
+        "0x250"
+    ],
+    "printable_height": "220",
+    "printer_settings_id": "Sapphire 0.4",
+    "retraction_length": [
+        "0.4"
+    ],
+    "version": "1.5.1.2",
+    "z_hop": [
+        "0.2"
+    ]
+}

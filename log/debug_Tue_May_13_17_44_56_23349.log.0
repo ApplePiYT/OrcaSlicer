@@ -1,7 +1,0 @@
-[warning]	2025-05-13 17:44:56.643486[Thread 0x00000001ff2e4c80]:get_network_function, can not find function bambu_network_del_subscribe
-[warning]	2025-05-13 17:44:56.643698[Thread 0x00000001ff2e4c80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
-[warning]	2025-05-13 17:44:56.643759[Thread 0x00000001ff2e4c80]:get_network_function, can not find function bambu_network_get_profile_3mf
-[error]	2025-05-13 17:44:58.056317[Thread 0x000000016e06b000]:File Metadata/plate_1.png not found from archive
-[error]	2025-05-13 17:44:58.087770[Thread 0x000000016d03b000]:File Metadata/plate_1.png not found from archive
-[error]	2025-05-13 17:44:58.132839[Thread 0x000000016d853000]:File Metadata/plate_1.png not found from archive
-[warning]	2025-05-13 17:44:59.834216[Thread 0x000000041d32b000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download

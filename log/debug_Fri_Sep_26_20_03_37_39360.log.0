@@ -1,0 +1,10 @@
+[warning]	2025-09-26 20:03:37.523237[Thread 0x00000001fe4c8800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-09-26 20:03:37.523578[Thread 0x00000001fe4c8800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-09-26 20:03:37.523637[Thread 0x00000001fe4c8800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-09-26 20:03:38.724203[Thread 0x000000017134b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-26 20:03:38.724854[Thread 0x000000017134b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-26 20:03:38.725399[Thread 0x000000017134b000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-09-26 20:03:40.718760[Thread 0x00000001732e7000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-09-26 20:09:56.750028[Thread 0x00000001fe4c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-26 20:09:58.083160[Thread 0x00000001fe4c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-26 20:14:21.657546[Thread 0x00000001fe4c8800]:tree_sel_change_delayedcan not find page with current selection 

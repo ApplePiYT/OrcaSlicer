@@ -1,0 +1,16 @@
+[warning]	2025-08-31 14:15:18.137363[Thread 0x0000000201a960c0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-08-31 14:15:18.137620[Thread 0x0000000201a960c0]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-08-31 14:15:18.137670[Thread 0x0000000201a960c0]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-08-31 14:15:18.943042[Thread 0x0000000201a960c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:15:18.949605[Thread 0x000000016cf7b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-08-31 14:15:18.949678[Thread 0x000000016cf7b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-08-31 14:15:18.950095[Thread 0x000000016e3b7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-08-31 14:15:19.864737[Thread 0x0000000201a960c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-31 14:15:20.241693[Thread 0x000000016ed73000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-09-01 18:53:14.873437[Thread 0x0000000201a960c0]:06:53:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-01 18:53:15.752279[Thread 0x0000000201a960c0]:06:53:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-06 22:24:57.918301[Thread 0x000000016c41b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[warning]	2025-09-06 22:25:27.858383[Thread 0x000000016c41b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-09-06 22:25:43.042278[Thread 0x0000000201a960c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-06 22:25:44.811552[Thread 0x0000000201a960c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-08 21:58:34.543593[Thread 0x0000000201a960c0]:calc_exclude_triangles:Unable to create exclude triangles

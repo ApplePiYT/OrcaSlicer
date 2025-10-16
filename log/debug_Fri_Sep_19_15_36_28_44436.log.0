@@ -1,0 +1,26 @@
+[warning]	2025-09-19 15:36:29.119898[Thread 0x000000020909c800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-09-19 15:36:29.120172[Thread 0x000000020909c800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-09-19 15:36:29.120221[Thread 0x000000020909c800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-09-19 15:36:30.129883[Thread 0x000000020909c800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 15:36:30.136380[Thread 0x0000000170dd3000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 15:36:30.136391[Thread 0x00000001709c7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 15:36:30.136415[Thread 0x000000016f997000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 15:36:31.631259[Thread 0x000000020909c800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-19 15:36:32.077652[Thread 0x000000017108f000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-09-19 15:36:37.846221[Thread 0x000000020909c800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 16:30:03.016090[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:07.985800[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:10.190983[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:10.760840[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:13.917450[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:15.388812[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:18.566799[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:18.599132[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:20.003913[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:21.189695[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:22.925540[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:30:23.281567[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-09-19 16:30:26.459059[Thread 0x000000016e61f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-09-19 16:30:46.403319[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:31:01.324104[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-19 16:40:48.739505[Thread 0x000000020909c800]:tree_sel_change_delayedcan not find page with current selection 

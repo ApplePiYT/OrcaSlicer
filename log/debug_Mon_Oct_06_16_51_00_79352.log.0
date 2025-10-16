@@ -1,0 +1,17 @@
+[warning]	2025-10-06 16:51:00.520977[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-06 16:51:00.521187[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-06 16:51:00.521233[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-06 16:51:02.272233[Thread 0x000000017064f000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-06 16:51:02.272900[Thread 0x0000000170a5b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-06 16:51:02.273237[Thread 0x000000017064f000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-10-06 16:51:04.557078[Thread 0x0000000172677000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-10-06 16:51:09.454063[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-06 16:51:56.145986[Thread 0x000000016faef000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[warning]	2025-10-06 16:51:59.728044[Thread 0x000000016faef000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-06 20:50:14.904307[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:50:15.080936[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:50:16.938587[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:50:21.711146[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:50:21.737824[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-06 20:50:21.737944[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:50:21.739455[Thread 0x00000001f4afc800]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png

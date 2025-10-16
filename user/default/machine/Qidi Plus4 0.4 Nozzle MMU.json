@@ -59,7 +59,7 @@
         "0.4",
         "0.4"
     ],
-    "print_host": "http://10.162.81.134",
+    "print_host": "http://10.162.81.12",
     "printer_settings_id": "Qidi Plus4 0.4 Nozzle MMU",
     "purge_in_prime_tower": "0",
     "retract_before_wipe": [
@@ -91,12 +91,6 @@
         "All Surfaces",
         "All Surfaces",
         "All Surfaces"
-    ],
-    "retract_on_top_layer": [
-        "1",
-        "1",
-        "1",
-        "1"
     ],
     "retract_restart_extra": [
         "0",

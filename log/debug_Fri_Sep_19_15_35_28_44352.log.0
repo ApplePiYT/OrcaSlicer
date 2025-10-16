@@ -1,0 +1,10 @@
+[warning]	2025-09-19 15:35:28.893903[Thread 0x000000020909c800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-09-19 15:35:28.894126[Thread 0x000000020909c800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-09-19 15:35:28.894176[Thread 0x000000020909c800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-09-19 15:35:30.133819[Thread 0x000000020909c800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 15:35:30.140361[Thread 0x000000016cbab000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 15:35:30.140834[Thread 0x000000016dfe7000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 15:35:30.140924[Thread 0x000000016ec0b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 15:35:31.695584[Thread 0x000000020909c800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-19 15:35:32.336454[Thread 0x000000016f29b000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-09-19 15:35:51.431078[Thread 0x000000020909c800]:calc_exclude_triangles:Unable to create exclude triangles

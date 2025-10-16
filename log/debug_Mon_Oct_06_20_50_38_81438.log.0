@@ -1,0 +1,75 @@
+[warning]	2025-10-06 20:50:38.782067[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-06 20:50:38.782448[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-06 20:50:38.782521[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-06 20:50:40.085008[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-06 20:50:40.085099[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:50:40.087964[Thread 0x00000001f4afc800]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-10-06 20:50:40.090626[Thread 0x000000016cee3000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-06 20:50:40.090683[Thread 0x000000016d6fb000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-06 20:50:40.091343[Thread 0x000000016d6fb000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-06 20:50:40.189358[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-06 20:50:40.189371[Thread 0x00000001f4afc800]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-10-06 20:50:41.571842[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:50:41.585089[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-06 20:50:41.585104[Thread 0x00000001f4afc800]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[warning]	2025-10-06 20:50:42.075678[Thread 0x000000016f1ff000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-10-06 20:51:13.638268[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:51:35.842574[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:51:35.969877[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:51:41.039245[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:51:52.326184[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-06 20:52:03.222375[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-06 20:52:10.182005[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-06 20:52:11.123168[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-06 20:52:11.979756[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-06 20:52:13.593816[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-06 20:52:15.719606[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-06 20:52:17.187953[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-06 20:52:19.291138[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-06 20:52:20.934888[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:09:56.996114[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:09:59.126498[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:10:04.071499[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:11:03.768222[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:11:04.250812[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:11:18.642056[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-07 13:11:20.720732[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-07 13:11:25.027775[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:11:41.786903[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-07 13:13:22.111288[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:09:33.453020[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:09:34.574289[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:09:41.824888[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:09:41.858128[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 10:09:43.605087[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-08 10:09:44.388247[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:09:46.359242[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 10:09:46.386431[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 10:09:52.121925[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[warning]	2025-10-08 10:10:01.439685[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-08 10:10:04.080605[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 10:10:04.597491[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 10:10:05.512384[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:10:05.798834[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:10:12.998006[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:10:13.768074[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 10:10:24.457350[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-08 10:10:25.225789[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 10:10:44.195528[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 13:31:34.316137[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-08 13:31:39.443899[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 13:31:43.563163[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 13:31:43.597985[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 13:31:46.968674[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-08 13:31:48.767176[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 13:31:51.085350[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 13:31:53.387829[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 13:31:56.127507[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-08 15:09:51.920495[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 15:09:52.858523[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 15:09:57.916772[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 15:10:02.327596[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 15:10:02.358756[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 15:10:04.475638[Thread 0x000000016c78f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":220.000000,
+[error]	2025-10-08 15:10:06.547701[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 18:21:48.736068[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles

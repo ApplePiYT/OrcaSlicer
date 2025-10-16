@@ -1,0 +1,7 @@
+[warning]	2025-10-05 22:58:57.613904[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-05 22:58:57.614121[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-05 22:58:57.614166[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-05 22:58:58.873867[Thread 0x000000016c4c3000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-05 22:58:58.874185[Thread 0x000000016d4f3000]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-05 22:58:58.875472[Thread 0x000000016d0e7000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-10-05 22:59:00.803466[Thread 0x000000016bc1f000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download

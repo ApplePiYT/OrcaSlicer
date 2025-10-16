@@ -1,0 +1,34 @@
+[warning]	2025-09-29 22:02:09.200997[Thread 0x00000001ede58800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-09-29 22:02:09.201216[Thread 0x00000001ede58800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-09-29 22:02:09.201264[Thread 0x00000001ede58800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-09-29 22:02:10.728434[Thread 0x000000016de7f000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-29 22:02:10.728540[Thread 0x000000016e28b000]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-29 22:02:10.729617[Thread 0x000000016e697000]:File Metadata/plate_1.png not found from archive
+[warning]	2025-09-29 22:02:12.801038[Thread 0x000000016c19f000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-09-29 22:03:12.587359[Thread 0x000000016bee3000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-09-29 22:06:08.617550[Thread 0x000000016bee3000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-09-29 22:06:19.826235[Thread 0x000000016bee3000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-09-29 22:07:06.487586[Thread 0x000000016b55f000]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10004 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-09-29 22:07:11.961782[Thread 0x00000001ede58800]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+
+[Error 7], HTTP 0, body: ``
+[error]	2025-09-29 22:10:39.334839[Thread 0x00000001ede58800]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10000 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-09-29 22:11:01.437199[Thread 0x00000001ede58800]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10001 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-09-29 22:11:18.185409[Thread 0x00000001ede58800]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10002 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-09-29 22:12:09.913738[Thread 0x00000001ede58800]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10001 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-09-29 22:12:28.003084[Thread 0x000000016b55f000]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10003 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-09-29 22:12:44.302074[Thread 0x000000016b55f000]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10003 milliseconds
+[Error 28], HTTP 0, body: ``

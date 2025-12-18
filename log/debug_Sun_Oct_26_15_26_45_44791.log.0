@@ -1,0 +1,20 @@
+[warning]	2025-10-26 15:26:45.724047[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-26 15:26:45.724410[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-26 15:26:45.724474[Thread 0x00000001f4afc800]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-26 15:26:47.626203[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-26 15:26:49.920324[Thread 0x000000016c65f000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-10-26 15:26:53.099758[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-26 15:26:54.726049[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-26 15:26:59.014903[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-26 15:26:59.015012[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-26 15:26:59.016351[Thread 0x00000001f4afc800]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-10-26 15:27:28.064968[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-26 15:27:28.065089[Thread 0x00000001f4afc800]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-10-26 15:27:44.904802[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-26 15:27:44.904925[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-26 15:27:44.906550[Thread 0x00000001f4afc800]:Unable to load bed texture: C:\Users\nicho\OneDrive\Downloads\V2_bed_smooth_pei.png
+[error]	2025-10-26 15:27:44.911485[Thread 0x00000001f4afc800]:Unable to load bed model: C:\Users\nicho\OneDrive\Downloads\V24_350mm_bed_model.stl
+[error]	2025-10-26 15:27:56.482303[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-26 15:28:02.769631[Thread 0x00000001f4afc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-26 21:00:11.607245[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-26 21:03:29.863785[Thread 0x00000001f4afc800]:tree_sel_change_delayedcan not find page with current selection 

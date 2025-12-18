@@ -1,0 +1,22 @@
+[warning]	2025-11-20 13:18:19.094321[Thread 0x000000020819a080]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-11-20 13:18:19.094538[Thread 0x000000020819a080]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-11-20 13:18:19.094585[Thread 0x000000020819a080]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-11-20 13:18:20.308438[Thread 0x000000020819a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-20 13:18:21.488638[Thread 0x000000020819a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-20 13:18:22.001168[Thread 0x000000016c16f000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[warning]	2025-11-20 13:18:22.036413[Thread 0x000000016c0e3000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-11-20 18:13:22.257413[Thread 0x000000020819a080]:06:13:22 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-20 18:13:24.897185[Thread 0x000000020819a080]:06:13:24 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-20 20:28:26.923866[Thread 0x000000020819a080]:08:28:26 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-20 20:28:29.756236[Thread 0x000000020819a080]:08:28:29 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 00:00:33.899369[Thread 0x000000020819a080]:12:00:33 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 00:00:36.644184[Thread 0x000000020819a080]:12:00:36 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-21 00:17:21.822183[Thread 0x000000020819a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-21 00:17:22.583971[Thread 0x000000020819a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-21 00:47:37.309063[Thread 0x000000020819a080]:12:47:37 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 00:47:40.029862[Thread 0x000000020819a080]:12:47:40 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 13:50:49.768416[Thread 0x000000020819a080]:01:50:49 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 13:50:52.127658[Thread 0x000000020819a080]:01:50:52 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 19:56:51.601111[Thread 0x000000020819a080]:07:56:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 19:56:54.133300[Thread 0x000000020819a080]:07:56:54 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-21 19:59:47.261950[Thread 0x000000020819a080]:calc_exclude_triangles:Unable to create exclude triangles

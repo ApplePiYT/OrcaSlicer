@@ -1,0 +1,26 @@
+[warning]	2025-11-21 20:06:48.157077[Thread 0x00000002034ce080]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-11-21 20:06:48.157297[Thread 0x00000002034ce080]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-11-21 20:06:48.157342[Thread 0x00000002034ce080]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-11-21 20:06:49.718552[Thread 0x00000002034ce080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-21 20:06:50.847275[Thread 0x00000002034ce080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-21 20:06:51.310170[Thread 0x0000000171307000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[warning]	2025-11-21 20:06:51.410896[Thread 0x000000017127b000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-11-21 21:05:16.616055[Thread 0x00000002034ce080]:09:05:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 21:05:19.205838[Thread 0x00000002034ce080]:09:05:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 13:50:05.992880[Thread 0x00000002034ce080]:01:50:05 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 13:50:08.333017[Thread 0x00000002034ce080]:01:50:08 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 19:05:52.694860[Thread 0x00000002034ce080]:07:05:52 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 19:05:55.112985[Thread 0x00000002034ce080]:07:05:55 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-22 19:47:54.453822[Thread 0x00000002034ce080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-22 20:49:09.155071[Thread 0x00000002034ce080]:08:49:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 20:49:42.323256[Thread 0x00000002034ce080]:08:49:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 21:01:59.250605[Thread 0x00000002034ce080]:09:01:59 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 21:03:07.074837[Thread 0x00000002034ce080]:09:03:07 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 21:05:05.605789[Thread 0x00000002034ce080]:09:05:05 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 21:05:13.624371[Thread 0x00000002034ce080]:09:05:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-22 21:15:31.410743[Thread 0x000000016e31f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-11-22 21:15:58.181917[Thread 0x000000016e31f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-11-22 21:16:38.290260[Thread 0x000000016e31f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[warning]	2025-11-22 21:17:13.719195[Thread 0x000000016e31f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":32.000000,"clearance_height_to_lid":135.000000,"clearance_radius":72.000000,"printable_height":280.000000,
+[error]	2025-11-22 21:17:55.942498[Thread 0x00000002034ce080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-22 21:17:56.027319[Thread 0x00000002034ce080]:tree_sel_change_delayedcan not find page with current selection 

@@ -1,0 +1,31 @@
+[2025-12-18 14:26:46.586056 -08:00] [I] [T 2012314]: init log
+[2025-12-18 14:26:46.586084 -08:00] [I] [T 2012314]: Version: 01.06.00.11
+[2025-12-18 14:26:46.586086 -08:00] [I] [T 2012314]: Agent: set_cert_dir_name, dir=/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/C2DDC768-42B5-42D3-BCE3-6037442F2FFC/d/OrcaSlicer.app/Contents/Resources/cert, name=slicer_base64.cer
+[2025-12-18 14:26:46.586190 -08:00] [I] [T 2012314]: set_on_server_connected_fn
+[2025-12-18 14:26:46.586192 -08:00] [I] [T 2012314]: set_on_printer_connected_fn
+[2025-12-18 14:26:46.586192 -08:00] [I] [T 2012314]: set_get_country_code_fn
+[2025-12-18 14:26:46.586193 -08:00] [I] [T 2012314]: set_on_local_connect_fn
+[2025-12-18 14:26:46.586194 -08:00] [I] [T 2012314]: set_on_message_fn
+[2025-12-18 14:26:46.586194 -08:00] [I] [T 2012314]: set_on_local_message_fn
+[2025-12-18 14:26:46.586209 -08:00] [I] [T 2012314]: set host to https://api.bambulab.com/v1
+[2025-12-18 14:26:46.586210 -08:00] [I] [T 2012314]: region update iot = https://api.bambulab.com/v1
+[2025-12-18 14:26:46.586210 -08:00] [I] [T 2012314]: region update api = https://api.bambulab.com/
+[2025-12-18 14:26:46.586210 -08:00] [I] [T 2012314]: region update mqtt = ssl://us.mqtt.bambulab.com:8883
+[2025-12-18 14:26:46.586210 -08:00] [I] [T 2012314]: region update tutk = US
+[2025-12-18 14:26:46.586211 -08:00] [I] [T 2012314]: region update base domain = bambulab.com
+[2025-12-18 14:26:46.586211 -08:00] [I] [T 2012314]: region update environment = 
+[2025-12-18 14:26:46.586211 -08:00] [I] [T 2012314]: region update wifi_code = US
+[2025-12-18 14:26:46.586211 -08:00] [I] [T 2012314]: region update design = https://bambulab.com
+[2025-12-18 14:26:46.586212 -08:00] [I] [T 2012314]: Agent: load_config
+[2025-12-18 14:26:46.586499 -08:00] [I] [T 2012314]: load_user_info
+[2025-12-18 14:26:46.586513 -08:00] [I] [T 2012314]: save_user_info
+[2025-12-18 14:26:46.586518 -08:00] [I] [T 2012314]: set_on_server_connected_fn
+[2025-12-18 14:26:46.586518 -08:00] [I] [T 2012314]: set_on_printer_connected_fn
+[2025-12-18 14:26:46.586519 -08:00] [I] [T 2012314]: set_get_country_code_fn
+[2025-12-18 14:26:46.586519 -08:00] [I] [T 2012314]: set_on_local_connect_fn
+[2025-12-18 14:26:46.586519 -08:00] [I] [T 2012314]: set_on_message_fn
+[2025-12-18 14:26:46.586520 -08:00] [I] [T 2012314]: set_on_local_message_fn
+[2025-12-18 14:26:46.586523 -08:00] [I] [T 2012314]: set_on_http_error_fn
+[2025-12-18 14:26:46.586523 -08:00] [I] [T 2012314]: ssdp: stop()
+[2025-12-18 14:26:46.586558 -08:00] [I] [T 2012314]: Network Interface List: 3
+[2025-12-18 14:26:57.469395 -08:00] [I] [T 2012314]: Agent: save_config

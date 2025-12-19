@@ -1,0 +1,7 @@
+{
+    "from": "User",
+    "inherits": "Qidi X-Plus 4 0.4 nozzle",
+    "name": "Qidi X-Plus 4 0.4 nozzle - Copy",
+    "printer_settings_id": "Qidi X-Plus 4 0.4 nozzle - Copy",
+    "version": "2.3.1.10"
+}

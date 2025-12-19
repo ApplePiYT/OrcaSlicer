@@ -1,0 +1,64 @@
+[warning]	2025-12-18 14:28:20.408274[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_on_subscribe_failure_fn
+[warning]	2025-12-18 14:28:20.408444[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_on_user_message_fn
+[warning]	2025-12-18 14:28:20.408464[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_queue_on_main_fn
+[warning]	2025-12-18 14:28:20.408481[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_add_subscribe
+[warning]	2025-12-18 14:28:20.408495[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-12-18 14:28:20.408509[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_enable_multi_machine
+[warning]	2025-12-18 14:28:20.408522[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_start_device_subscribe
+[warning]	2025-12-18 14:28:20.408536[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_stop_device_subscribe
+[warning]	2025-12-18 14:28:20.408551[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-12-18 14:28:20.408564[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_install_device_cert
+[warning]	2025-12-18 14:28:20.408582[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_ping_bind
+[warning]	2025-12-18 14:28:20.408595[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_bind_detect
+[warning]	2025-12-18 14:28:20.408608[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_server_callback
+[warning]	2025-12-18 14:28:20.408624[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_start_sdcard_print
+[warning]	2025-12-18 14:28:20.408638[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_setting_list2
+[warning]	2025-12-18 14:28:20.408653[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_user_tasks
+[warning]	2025-12-18 14:28:20.408669[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_subtask_info
+[warning]	2025-12-18 14:28:20.408684[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_subtask
+[warning]	2025-12-18 14:28:20.408698[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_track_remove_files
+[warning]	2025-12-18 14:28:20.408711[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_track_get_property
+[warning]	2025-12-18 14:28:20.408724[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_put_model_mall_rating
+[warning]	2025-12-18 14:28:20.408736[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_oss_config
+[warning]	2025-12-18 14:28:20.408748[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_put_rating_picture_oss
+[warning]	2025-12-18 14:28:20.408761[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_model_mall_rating
+[warning]	2025-12-18 14:28:20.408776[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_mw_user_preference
+[warning]	2025-12-18 14:28:20.408788[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_mw_user_4ulist
+[error]	2025-12-18 14:28:21.375810[Thread 0x00000001ff95a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 14:28:22.617277[Thread 0x00000001ff95a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 14:28:23.539864[Thread 0x000000016e71f000]:[install_plugin]: 1420, got 47 files
+[warning]	2025-12-18 14:28:24.184718[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_on_subscribe_failure_fn
+[warning]	2025-12-18 14:28:24.184753[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_on_user_message_fn
+[warning]	2025-12-18 14:28:24.184771[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_queue_on_main_fn
+[warning]	2025-12-18 14:28:24.184787[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_add_subscribe
+[warning]	2025-12-18 14:28:24.184801[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-12-18 14:28:24.184814[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_enable_multi_machine
+[warning]	2025-12-18 14:28:24.184827[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_start_device_subscribe
+[warning]	2025-12-18 14:28:24.184840[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_stop_device_subscribe
+[warning]	2025-12-18 14:28:24.184855[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-12-18 14:28:24.184868[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_install_device_cert
+[warning]	2025-12-18 14:28:24.184884[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_ping_bind
+[warning]	2025-12-18 14:28:24.184897[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_bind_detect
+[warning]	2025-12-18 14:28:24.184910[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_set_server_callback
+[warning]	2025-12-18 14:28:24.184927[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_start_sdcard_print
+[warning]	2025-12-18 14:28:24.184941[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_setting_list2
+[warning]	2025-12-18 14:28:24.184956[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_user_tasks
+[warning]	2025-12-18 14:28:24.184970[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_subtask_info
+[warning]	2025-12-18 14:28:24.184984[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_subtask
+[warning]	2025-12-18 14:28:24.184998[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_track_remove_files
+[warning]	2025-12-18 14:28:24.185010[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_track_get_property
+[warning]	2025-12-18 14:28:24.185022[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_put_model_mall_rating
+[warning]	2025-12-18 14:28:24.185034[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_oss_config
+[warning]	2025-12-18 14:28:24.185046[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_put_rating_picture_oss
+[warning]	2025-12-18 14:28:24.185057[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_model_mall_rating
+[warning]	2025-12-18 14:28:24.185069[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_mw_user_preference
+[warning]	2025-12-18 14:28:24.185081[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_mw_user_4ulist
+[warning]	2025-12-18 14:28:24.515469[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-12-18 14:28:24.515534[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-12-18 14:28:24.515580[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_install_device_cert
+[warning]	2025-12-18 14:28:27.881982[Thread 0x000000016b037000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-12-18 14:28:48.665489[Thread 0x00000001ff95a080]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard P2S, just skip
+[warning]	2025-12-18 14:28:48.665581[Thread 0x00000001ff95a080]:load_user_preset, can not find inherit preset for user preset P2S ASA, just skip
+[error]	2025-12-18 14:29:01.747512[Thread 0x00000001ff95a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 14:29:02.201131[Thread 0x00000001ff95a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 14:32:16.513025[Thread 0x00000001ff95a080]:can not find parent for config /Users/nicholasclark/Library/Application Support/OrcaSlicer/user/661698828/machine/Qidi X-Plus 4 0.4 nozzle - Copy.json!

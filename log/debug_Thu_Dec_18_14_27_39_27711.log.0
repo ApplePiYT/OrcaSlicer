@@ -1,0 +1,1067 @@
+2025-12-18 14:27:39.656644[Thread 0x00000001ff95a080]:Update_dark_mode_flag: switch the current dark mode status to 1 
+2025-12-18 14:27:39.658184[Thread 0x00000001ff95a080]:begin to show the splash screen...
+2025-12-18 14:27:39.678904[Thread 0x00000001ff95a080]:loading systen presets...
+2025-12-18 14:27:39.679757[Thread 0x00000001ff95a080]:[BBL Updater]:Checking whether the profile from resource is newer
+2025-12-18 14:27:39.680214[Thread 0x00000001ff95a080]:Installing 3 bundles from resources ...
+2025-12-18 14:27:39.690225[Thread 0x00000001ff95a080]:[BBL Updater]:Performing 12 updates
+2025-12-18 14:27:39.690244[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Custom.json -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom.json)
+2025-12-18 14:27:39.691144[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Custom/process -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom/process)
+2025-12-18 14:27:39.691158[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Custom/process" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom/process"
+2025-12-18 14:27:39.697232[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Custom/filament -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom/filament)
+2025-12-18 14:27:39.697242[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Custom/filament" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom/filament"
+2025-12-18 14:27:39.703525[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Custom/machine -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom/machine)
+2025-12-18 14:27:39.703536[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Custom/machine" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom/machine"
+2025-12-18 14:27:39.705248[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Voron.json -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron.json)
+2025-12-18 14:27:39.705722[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Voron/process -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron/process)
+2025-12-18 14:27:39.705725[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Voron/process" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron/process"
+2025-12-18 14:27:39.708876[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Voron/filament -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron/filament)
+2025-12-18 14:27:39.708899[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Voron/filament" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron/filament"
+2025-12-18 14:27:39.714542[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Voron/machine -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron/machine)
+2025-12-18 14:27:39.714551[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Voron/machine" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron/machine"
+2025-12-18 14:27:39.718537[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Qidi.json -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi.json)
+2025-12-18 14:27:39.719086[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Qidi/process -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi/process)
+2025-12-18 14:27:39.719090[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Qidi/process" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi/process"
+2025-12-18 14:27:39.729488[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Qidi/filament -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi/filament)
+2025-12-18 14:27:39.729504[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Qidi/filament" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi/filament"
+2025-12-18 14:27:39.736115[Thread 0x00000001ff95a080]:	Update(/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Qidi/machine -> /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi/machine)
+2025-12-18 14:27:39.736126[Thread 0x00000001ff95a080]:copy_directory_recursively "/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/profiles/Qidi/machine" -> "/Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi/machine"
+2025-12-18 14:27:40.241228[Thread 0x00000001ff95a080]:initialize_network_module, successfully loaded library /Users/nicholasclark/Library/Application Support/OrcaSlicer/plugins/libbambu_networking.dylib, module 0x6dd13e00
+2025-12-18 14:27:40.241398[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_get_profile_3mf
+2025-12-18 14:27:40.241439[Thread 0x00000001ff95a080]:on_init_network: on_init_network, load dll ok
+2025-12-18 14:27:40.241462[Thread 0x00000001ff95a080]:get_network_agent_version=01.06.00.11
+2025-12-18 14:27:40.241466[Thread 0x00000001ff95a080]:on_init_network: on_init_network, compatibility version
+2025-12-18 14:27:40.252042[Thread 0x00000001ff95a080]:on_init_network, create network agent...
+2025-12-18 14:27:40.252211[Thread 0x00000001ff95a080]:NetworkAgent, this 0x9330438e0, network_agent=0x933019320, create_agent_ptr=1
+2025-12-18 14:27:40.252604[Thread 0x00000001ff95a080]:init_networking_callbacks: enter, m_agent=0x9330438e0
+2025-12-18 14:27:40.252625[Thread 0x00000001ff95a080]:init_networking_callbacks: exit, m_agent=0x9330438e0
+2025-12-18 14:27:40.252922[Thread 0x00000001ff95a080]:preset_folder: set to empty
+2025-12-18 14:27:40.253283[Thread 0x00000001ff95a080]:load_presets enter, substitution_rule 3, preferred printer_model_id 
+2025-12-18 14:27:40.254114[Thread 0x00000001ff95a080]:load_vendor_configs_from_json: parse /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/OrcaFilamentLibrary.json, got description:  "Orca Filament Library"
+2025-12-18 14:27:40.289191[Thread 0x00000001ff95a080]:load_vendor_configs_from_json: parse /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Custom.json, got description:  "My configurations"
+2025-12-18 14:27:40.295416[Thread 0x00000001ff95a080]:load_vendor_configs_from_json: parse /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Voron.json, got description:  "Voron configurations"
+2025-12-18 14:27:40.300940[Thread 0x00000001ff95a080]:load_vendor_configs_from_json: parse /Users/nicholasclark/Library/Application Support/OrcaSlicer/system/Qidi.json, got description:  "Qidi configurations"
+2025-12-18 14:27:40.314876[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Box Turtle
+2025-12-18 14:27:40.316305[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Rigid
+2025-12-18 14:27:40.319037[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 PET Rigid
+2025-12-18 14:27:40.319444[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 PPS-GF
+2025-12-18 14:27:40.321213[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Toy
+2025-12-18 14:27:40.322683[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Voron Spec
+2025-12-18 14:27:40.326737[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Plus4 PET-GF
+2025-12-18 14:27:40.329199[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Plus4 PET-CF
+2025-12-18 14:27:40.335084[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Plus4 PPS-GF
+2025-12-18 14:27:40.343819[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Qidi Plus4 0.4 Nozzle MMU
+2025-12-18 14:27:40.344442[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Qidi Plus 4 0.4
+2025-12-18 14:27:40.344453[Thread 0x00000001ff95a080]:update_compatibility for all presets enter
+2025-12-18 14:27:40.344490[Thread 0x00000001ff95a080]:update_compatibility for all presets exit
+2025-12-18 14:27:40.344492[Thread 0x00000001ff95a080]:update_compatibility for all presets enter
+2025-12-18 14:27:40.344505[Thread 0x00000001ff95a080]:update_compatibility for all presets exit
+2025-12-18 14:27:40.344779[Thread 0x00000001ff95a080]:update_compatibility for all presets enter
+2025-12-18 14:27:40.344831[Thread 0x00000001ff95a080]:update_compatibility for all presets exit
+2025-12-18 14:27:40.344844[Thread 0x00000001ff95a080]:load_presets finished, returned substitutions 0
+2025-12-18 14:27:40.344848[Thread 0x00000001ff95a080]:create the main window
+2025-12-18 14:27:40.392100[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392129[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392156[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392166[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392285[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392296[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392309[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392318[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392329[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392374[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392407[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392417[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392427[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392436[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392894[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392907[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392923[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392933[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.392980[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.392991[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393001[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393010[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393032[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393041[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393050[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393059[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393069[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393078[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393097[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393106[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393115[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393124[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393243[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393253[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393316[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393326[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393337[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393346[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393441[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393452[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393462[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393470[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393489[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393497[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393506[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393515[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393524[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393532[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393550[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393558[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393567[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393575[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393651[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393661[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393675[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393685[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393736[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393747[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.393758[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.393767[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402135[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402153[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402170[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402180[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402204[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402214[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402224[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402233[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402243[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402251[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402271[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402280[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402289[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402298[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402386[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402397[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402410[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402418[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402500[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402511[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402521[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402529[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402547[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402556[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402565[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402574[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402583[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402592[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402609[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402618[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402627[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402636[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402701[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402712[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402761[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402772[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402812[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402821[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402894[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402906[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402916[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402924[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402942[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402950[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402959[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402967[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.402976[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.402984[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403001[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403010[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403018[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403027[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403078[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403089[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403106[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403115[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403160[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403170[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403181[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403191[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403256[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403266[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403275[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403284[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403301[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403310[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403318[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403326[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403335[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403344[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403360[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403369[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403377[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403386[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403438[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403448[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403465[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403474[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403487[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403496[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403553[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403564[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403574[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403583[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403663[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403674[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403683[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403691[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403709[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403717[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403726[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403734[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403743[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403751[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403767[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403776[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403784[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403792[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403845[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403855[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403871[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403881[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403894[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403903[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403916[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403925[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403967[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403978[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.403988[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.403997[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404067[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404077[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404086[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404095[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404112[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404121[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404129[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404137[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404146[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404154[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404171[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404179[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404187[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404196[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404259[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404269[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404285[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404295[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404308[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404316[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404329[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404338[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404350[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404359[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404402[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404412[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404423[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404432[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404498[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404508[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404517[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404526[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404544[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404552[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404561[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404570[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404578[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404587[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404605[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404614[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404623[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404632[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404685[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404696[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404712[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404721[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404735[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404744[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404756[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404765[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404778[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404786[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404799[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404808[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404850[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404860[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.404871[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.404880[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.413470[Thread 0x00000001ff95a080]:CreateWebView: file:/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/web/homepage/index.html
+2025-12-18 14:27:40.528897[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.528925[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534248[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534268[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534287[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534297[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534345[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534356[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534366[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534375[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534386[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534395[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534421[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534430[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534439[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534448[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534593[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534605[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534619[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534628[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534732[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534743[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534753[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534762[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534781[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534790[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534799[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534808[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534817[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534825[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534844[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534853[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534862[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534870[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534932[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.534943[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.534999[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535010[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535021[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535030[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535130[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535175[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535185[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535193[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535212[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535221[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535230[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535238[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535247[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535256[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535274[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535282[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535291[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535299[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535360[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535370[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535387[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535397[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535413[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535422[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535433[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535441[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535484[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535494[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535504[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535512[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535530[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535538[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535547[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535555[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535564[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535573[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535590[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535598[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535607[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535615[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535674[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535684[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535700[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535709[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535723[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535732[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535747[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535756[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535766[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535786[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535816[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535826[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535836[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535844[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535862[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535871[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535880[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535889[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535898[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535907[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535924[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535933[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.535942[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.535951[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536008[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536019[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536034[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536043[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536057[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536066[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536080[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536089[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536104[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536113[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536124[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536132[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536160[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536170[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536179[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536188[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536205[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536214[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536223[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536231[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536240[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536248[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536265[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536273[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536282[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536290[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536345[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536356[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536384[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536394[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536407[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536416[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536429[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536438[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536451[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536460[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536474[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536483[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536493[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536502[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536528[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536537[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536546[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536555[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536572[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536580[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536589[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536597[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536606[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536614[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536631[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536639[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536648[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536656[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536712[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536722[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536737[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536746[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536759[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536768[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536781[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536790[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536803[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536812[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536824[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536833[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536847[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536856[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.536866[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.536874[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.543934[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.543954[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.544004[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.544016[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.544042[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.544052[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.544063[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.544073[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.544083[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.544093[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.544113[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.544122[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.544132[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.544141[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.546243[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.546257[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.546272[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.546281[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.546303[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.546312[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.546321[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.546330[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.546340[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.546348[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.546366[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.546375[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.546384[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.546392[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.549544[Thread 0x00000001ff95a080]:select_technology: change the printer technology from  to  
+2025-12-18 14:27:40.551738[Thread 0x00000001ff95a080]:get_current_slice_result:m_current_plate 0, current_plate 0x93155c800
+2025-12-18 14:27:40.556571[Thread 0x00000001ff95a080]:set_current_panel: current_panel 0x0, new_panel 0x932062680
+2025-12-18 14:27:40.556607[Thread 0x00000001ff95a080]:3dx mac handler starts
+2025-12-18 14:27:40.557657[Thread 0x00000001ff95a080]:loading 3dx drivers
+2025-12-18 14:27:40.557673[Thread 0x00000001ff95a080]:SetConnexionHandlers loaded
+2025-12-18 14:27:40.557675[Thread 0x00000001ff95a080]:CleanupConnexionHandlers loaded
+2025-12-18 14:27:40.557676[Thread 0x00000001ff95a080]:RegisterConnexionClient loaded
+2025-12-18 14:27:40.557677[Thread 0x00000001ff95a080]:SetConnexionClientButtonMask loaded
+2025-12-18 14:27:40.557679[Thread 0x00000001ff95a080]:UnregisterConnexionClient loaded
+2025-12-18 14:27:40.557680[Thread 0x00000001ff95a080]:ConnexionClientControl loaded
+2025-12-18 14:27:40.557681[Thread 0x00000001ff95a080]:3dx drivers loaded: YES, new
+2025-12-18 14:27:40.609035[Thread 0x00000001ff95a080]:3dx mac handler registered
+2025-12-18 14:27:40.827682[Thread 0x00000001ff95a080]:ImageGrid::SetStatus: No printers.
+2025-12-18 14:27:40.828390[Thread 0x00000001ff95a080]:monitor: show_status = 4
+2025-12-18 14:27:40.831011[Thread 0x00000001ff95a080]:load_ams_list: 0 items
+2025-12-18 14:27:40.833966[Thread 0x00000001ff95a080]:CreateWebView: 
+2025-12-18 14:27:40.861958[Thread 0x00000001ff95a080]:CreateWebView: file:/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/web/model/index.html
+2025-12-18 14:27:40.890502[Thread 0x00000001ff95a080]:reset: current result id 0 
+2025-12-18 14:27:40.890612[Thread 0x00000001ff95a080]:set_shape:current position {0,0}, new position {0, 0}
+2025-12-18 14:27:40.890716[Thread 0x00000001ff95a080]:reset_size:before size: plate_width 0, plate_depth 0, plate_height 0
+2025-12-18 14:27:40.890719[Thread 0x00000001ff95a080]:reset_size:after size: plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:40.890722[Thread 0x00000001ff95a080]:set_pos_and_size: plate_id 0, before, origin {0,0,0}, plate_width 0, plate_depth 0, plate_height 0
+2025-12-18 14:27:40.890726[Thread 0x00000001ff95a080]:set_pos_and_size: with_instance_move 0, after, origin {0,0,0}, plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:40.890731[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:40.890733[Thread 0x00000001ff95a080]:set_pos_and_size: plate_id 1, before, origin {0,0,0}, plate_width 0, plate_depth 0, plate_height 0
+2025-12-18 14:27:40.890736[Thread 0x00000001ff95a080]:set_pos_and_size: with_instance_move 0, after, origin {300,0,0}, plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:40.890740[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:40.890742[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:40.890744[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:40.890766[Thread 0x00000001ff95a080]:calc_exclude_triangles:Unable to create exclude triangles
+2025-12-18 14:27:40.913346[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 1, enable= 0 
+2025-12-18 14:27:40.913378[Thread 0x00000001ff95a080]:get_enable_slice_status: m_slice_select 1, enable= 1 
+2025-12-18 14:27:40.913380[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 1, can_print 1, enable_slice 1, enable_print 0 
+2025-12-18 14:27:40.937569[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.937601[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.937764[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.937778[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.937818[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.937829[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.937856[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.937867[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.937914[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.937925[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.937953[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.937963[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.937983[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.937993[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938246[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.938268[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938370[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.938385[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938415[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.938426[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938455[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.938504[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938547[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.938558[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938594[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.938605[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938625[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.938634[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.938718[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:40.939279[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:40.940337[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:40.940340[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:40.940788[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:40.941623[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:40.941627[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:40.941783[Thread 0x00000001ff95a080]:reset: current result id 4294967295 
+2025-12-18 14:27:40.941823[Thread 0x00000001ff95a080]:reset_size:before size: plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:40.941827[Thread 0x00000001ff95a080]:reset_size:after size: plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:40.941830[Thread 0x00000001ff95a080]:PartPlate same shape, skip directly
+2025-12-18 14:27:40.941840[Thread 0x00000001ff95a080]:load_print_as_fff 654: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2025-12-18 14:27:40.943504[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:40.944529[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:40.946992[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:40.953502[Thread 0x00000001ff95a080]:main frame firstly shown
+2025-12-18 14:27:40.956066[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.956099[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:40.956125[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:40.956135[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.000021[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.000044[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.000068[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.000077[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.004491[Thread 0x00000001ff95a080]:finished the gui app init
+2025-12-18 14:27:41.013621[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.013654[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.013677[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.013687[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.014351[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.014366[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.014380[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.014389[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.017024[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.017040[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.017054[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.017064[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.017638[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.017652[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.017664[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.017673[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.034495[Thread 0x00000001ff95a080]:operator(): begin to add script message handler for wx.
+2025-12-18 14:27:41.046988[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047040[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047073[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047085[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047407[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047423[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047436[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047445[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047533[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047545[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047555[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047564[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047704[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047716[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047727[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047736[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047801[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047812[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.047821[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.047830[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.048172[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.048185[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.048196[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:41.048205[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:41.112583[Thread 0x00000001ff95a080]:OnNavigationRequest: 
+2025-12-18 14:27:41.214235[Thread 0x00000001ff95a080]:OnNavigationComplete: 
+2025-12-18 14:27:41.243993[Thread 0x00000001ff95a080]:OnTitleChanged: homepage
+2025-12-18 14:27:41.244102[Thread 0x00000001ff95a080]:OnScriptMessage: {"sequence_id":1766096861,"command":"get_login_info"}
+2025-12-18 14:27:41.244105[Thread 0x00000001ff95a080]:OnScriptMessage Create Timer
+2025-12-18 14:27:41.244193[Thread 0x00000001ff95a080]:OnScriptMessage: {"sequence_id":1766096861,"command":"get_recent_projects"}
+2025-12-18 14:27:41.263544[Thread 0x00000001ff95a080]:OnDocumentLoaded: 
+2025-12-18 14:27:41.263560[Thread 0x00000001ff95a080]:is_compatibility_version: m_networking_compatible=1
+2025-12-18 14:27:41.263567[Thread 0x00000001ff95a080]:ShowNetpluginTip: bValid=1, nShow=0
+2025-12-18 14:27:41.269479[Thread 0x00000001ff95a080]:operator(): finished add script message handler for wx.
+2025-12-18 14:27:41.269489[Thread 0x00000001ff95a080]:operator(): begin to add script message handler for wx.
+2025-12-18 14:27:41.271822[Thread 0x00000001ff95a080]:operator(): finished add script message handler for wx.
+2025-12-18 14:27:41.271834[Thread 0x00000001ff95a080]:operator(): begin to add script message handler for wx.
+2025-12-18 14:27:41.273134[Thread 0x00000001ff95a080]:operator(): finished add script message handler for wx.
+2025-12-18 14:27:41.273177[Thread 0x00000001ff95a080]:post_init, begin load_gl_resources
+2025-12-18 14:27:41.276601[Thread 0x00000001ff95a080]:select view3D
+2025-12-18 14:27:41.276610[Thread 0x00000001ff95a080]:set_current_panel: current_panel 0x0, new_panel 0x932062680
+2025-12-18 14:27:41.279383[Thread 0x00000001ff95a080]:set_current_panel: successfully, exit
+2025-12-18 14:27:41.280291[Thread 0x00000001ff95a080]:post_init, start to init opengl
+2025-12-18 14:27:41.306726[Thread 0x00000001ff95a080]:Found Framebuffer Type ARB.
+2025-12-18 14:27:41.306745[Thread 0x00000001ff95a080]:got opengl version 2.1 Metal - 90.5, glsl version 1.20, vendor Apple
+2025-12-18 14:27:41.316058[Thread 0x00000001ff95a080]:post_init, finished init opengl
+2025-12-18 14:27:41.316088[Thread 0x00000001ff95a080]:init enter
+2025-12-18 14:27:41.316104[Thread 0x00000001ff95a080]:init: before m_layers_editing init
+2025-12-18 14:27:41.316120[Thread 0x00000001ff95a080]:init: before gizmo init
+2025-12-18 14:27:41.575698[Thread 0x00000001ff95a080]:init_occt_fonts start
+2025-12-18 14:27:41.576277[Thread 0x00000001ff95a080]:init_occt_fonts end
+2025-12-18 14:27:41.812986[Thread 0x00000001ff95a080]:init: before _init_toolbars
+2025-12-18 14:27:41.821217[Thread 0x00000001ff95a080]:_init_assemble_view_toolbar: enter,  m_assemble_view_toolbar.is_enabled=true
+2025-12-18 14:27:41.821677[Thread 0x00000001ff95a080]:_init_assemble_view_toolbar: Finished Successfully
+2025-12-18 14:27:41.823727[Thread 0x00000001ff95a080]:init: finish _init_toolbars
+2025-12-18 14:27:41.823777[Thread 0x00000001ff95a080]:init: finish m_selection
+2025-12-18 14:27:41.823779[Thread 0x00000001ff95a080]:post_init, finished init canvas3D
+2025-12-18 14:27:41.842742[Thread 0x00000001ff95a080]:post_init, finished init imgui frame
+2025-12-18 14:27:41.842754[Thread 0x00000001ff95a080]:post_init, start to render a first frame for test
+2025-12-18 14:27:42.031445[Thread 0x00000001ff95a080]:post_init, finished rendering a first frame for test
+2025-12-18 14:27:42.033228[Thread 0x00000001ff95a080]:post_init, end load_gl_resources
+2025-12-18 14:27:42.034095[Thread 0x00000001ff95a080]:before check_updates
+2025-12-18 14:27:42.034102[Thread 0x00000001ff95a080]:after check_updates
+2025-12-18 14:27:42.035024[Thread 0x00000001ff95a080]:delete log file over 30, filename: debug_Wed_Jul_23_15_39_13_69757.log.0
+2025-12-18 14:27:42.036507[Thread 0x00000001ff95a080]:delete log file over 30, filename: debug_Tue_Jul_22_15_37_58_53624.log.0
+2025-12-18 14:27:42.038184[Thread 0x00000001ff95a080]:delete log file over 30, filename: debug_Mon_Aug_04_22_59_06_1208.log.0
+2025-12-18 14:27:42.039484[Thread 0x00000001ff95a080]:finished post_init
+2025-12-18 14:27:42.040874[Thread 0x00000001ff95a080]:select view3D
+2025-12-18 14:27:42.040879[Thread 0x00000001ff95a080]:set_current_panel: current_panel 0x932062680, new_panel 0x932062680
+2025-12-18 14:27:42.040890[Thread 0x00000001ff95a080]:set_current_panel: the same panel, exit
+2025-12-18 14:27:42.041898[Thread 0x00000001ff95a080]:Undo / Redo snapshot taken: Reset Project, Undo / Redo stack memory: 0MB Resident memory: 415MB; Peak memory usage: 415MB
+2025-12-18 14:27:42.041924[Thread 0x00000001ff95a080]:reset: current result id 4294967295 
+2025-12-18 14:27:42.041932[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:42.041958[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:42.041986[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:42.042010[Thread 0x00000001ff95a080]:calc_exclude_triangles:Unable to create exclude triangles
+2025-12-18 14:27:42.042434[Thread 0x00000001ff95a080]:set_pos_and_size: plate_id 1, before, origin {300,0,0}, plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:42.042444[Thread 0x00000001ff95a080]:set_pos_and_size: with_instance_move 0, after, origin {300,0,0}, plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:42.042450[Thread 0x00000001ff95a080]:get_current_slice_result:m_current_plate 0, current_plate 0x93155c800
+2025-12-18 14:27:42.042453[Thread 0x00000001ff95a080]:stop, enter
+2025-12-18 14:27:42.042646[Thread 0x00000001ff95a080]:load_print_as_fff 654: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2025-12-18 14:27:42.042728[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.042766[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043255[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043274[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043309[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043322[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043350[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043362[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043405[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043416[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043442[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043452[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043472[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043482[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043551[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043562[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043577[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043586[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043600[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043609[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043622[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043631[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043644[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043653[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043666[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043675[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.043688[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.043712[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044002[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044045[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044113[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044127[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044153[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044165[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044189[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044200[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044249[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044260[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044295[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044306[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044325[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044336[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044515[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044526[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044815[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044829[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044856[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044867[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044895[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044905[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044940[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044951[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.044981[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.044991[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.045011[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.045021[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.046031[Thread 0x00000001ff95a080]:load_print_as_fff 654: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2025-12-18 14:27:42.046644[Thread 0x00000001ff95a080]:object_list_changed: can_slice 0, model_fits= 1, export_in_progress 0, has_printable_instances 0 
+2025-12-18 14:27:42.046650[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:42.046652[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:42.046669[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:42.048426[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:42.051962[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.051980[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.051997[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:42.052006[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:42.052723[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:42.052727[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:42.053229[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:42.054192[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:42.054202[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:42.054240[Thread 0x00000001ff95a080]:reset: current result id 4294967295 
+2025-12-18 14:27:42.054316[Thread 0x00000001ff95a080]:reset_size:before size: plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:42.054320[Thread 0x00000001ff95a080]:reset_size:after size: plate_width 408, plate_depth 344, plate_height 220
+2025-12-18 14:27:42.054323[Thread 0x00000001ff95a080]:set_pos_and_size: plate_id 0, before, origin {0,0,0}, plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:42.054327[Thread 0x00000001ff95a080]:set_pos_and_size: with_instance_move 0, after, origin {0,0,0}, plate_width 408, plate_depth 344, plate_height 220
+2025-12-18 14:27:42.054331[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:42.054359[Thread 0x00000001ff95a080]:set_pos_and_size: plate_id 1, before, origin {300,0,0}, plate_width 250, plate_depth 250, plate_height 220
+2025-12-18 14:27:42.054363[Thread 0x00000001ff95a080]:set_pos_and_size: with_instance_move 0, after, origin {489.6,0,0}, plate_width 408, plate_depth 344, plate_height 220
+2025-12-18 14:27:42.054366[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:42.054368[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:42.054370[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:42.054373[Thread 0x00000001ff95a080]:PartPlate same shape, skip directly
+2025-12-18 14:27:42.054534[Thread 0x00000001ff95a080]:load_print_as_fff 654: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2025-12-18 14:27:42.055344[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:42.056318[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:42.062997[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:42.063595[Thread 0x00000001ff95a080]:Undo / Redo snapshot taken: New Project, Undo / Redo stack memory: 0MB Resident memory: 416MB; Peak memory usage: 416MB
+2025-12-18 14:27:42.063617[Thread 0x00000001ff95a080]:model 0x16b776e50, id 47, backup_path empty, set to /var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47
+2025-12-18 14:27:42.063644[Thread 0x00000001ff95a080]:create /3D/Objects in "/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47"
+2025-12-18 14:27:42.063867[Thread 0x00000001ff95a080]:create /Metadata in "/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47"
+2025-12-18 14:27:42.063928[Thread 0x00000001ff95a080]:create /lock.txt in "/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47"
+2025-12-18 14:27:42.064077[Thread 0x00000001ff95a080]:set_backup_path, model 0x934592f80, id 7, set backup to /var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47
+2025-12-18 14:27:42.064105[Thread 0x00000001ff95a080]:create missing sub_path/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47//Auxiliaries
+2025-12-18 14:27:42.064516[Thread 0x00000001ff95a080]:select view3D
+2025-12-18 14:27:42.064517[Thread 0x00000001ff95a080]:set_current_panel: current_panel 0x932062680, new_panel 0x932062680
+2025-12-18 14:27:42.064520[Thread 0x00000001ff95a080]:set_current_panel: the same panel, exit
+2025-12-18 14:27:42.065330[Thread 0x00000001ff95a080]:select view3D
+2025-12-18 14:27:42.065700[Thread 0x000000016c0c7000]:[BBL Updater]: sync_config Syncing configuration cache
+2025-12-18 14:27:42.065718[Thread 0x000000016c0c7000]:[BBL Updater]: sync_resources get preferred setting version for app version OrcaSlicer, url: https://api.bambulab.com/v1/iot-service/api/slicer/resource, current_version_str 01.06.00.11, check_patch 1
+2025-12-18 14:27:42.065735[Thread 0x000000016c0c7000]:[BBL Updater]: sync_resources request_url: https://api.bambulab.com/v1/iot-service/api/slicer/resource?slicer/plugins/cloud=01.06.00.00
+2025-12-18 14:27:42.205910[Thread 0x000000016c0c7000]:[BBL Updater]: request_resources, body={"message":"success","code":null,"error":null,"software":{"type":null,"version":"02.04.00.70","description":"###https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-4-0###","url":"https://public-cdn.bblmw.com/upgrade/studio/software/02.04.00.70/541e7d2a25/Bambu_Studio_mac-v02.04.00.70.dmg","force_update":false},"guide":null,"resources":[{"type":"slicer/plugins/cloud","version":"01.06.00.11","description":"1. Fixed some potential security vulnerabilities.\n2. Addressed some random failures during the printing initiation process.","url":"https://public-cdn.bambulab.com/upgrade/studio/plugins/01.06.00.11/e5a920cdbf/mac_01.06.00.11.zip","force_update":false}]}
+2025-12-18 14:27:42.205963[Thread 0x000000016c0c7000]:[BBL Updater]: get type slicer/plugins/cloud, version 01.06.00.11, url https://public-cdn.bambulab.com/upgrade/studio/plugins/01.06.00.11/e5a920cdbf/mac_01.06.00.11.zip
+2025-12-18 14:27:42.205972[Thread 0x000000016c0c7000]:[BBL Updater]: online version=1.6.0.11, current_version=1.6.0.11, no need to download
+2025-12-18 14:27:43.234913[Thread 0x00000001ff95a080]:is_compatibility_version: m_networking_compatible=1
+2025-12-18 14:27:43.234944[Thread 0x00000001ff95a080]:ShowNetpluginTip: bValid=1, nShow=0
+2025-12-18 14:27:43.244609[Thread 0x000000016ea1f000]:HMS: check_hms_info current version = 202512171220
+2025-12-18 14:27:43.247282[Thread 0x00000001ff95a080]:CreateWebView: 
+2025-12-18 14:27:43.372622[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:43.372662[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:43.372695[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:43.372706[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:43.403244[Thread 0x000000016ea1f000]:HMS: check_hms_info latest version = 202512190603
+2025-12-18 14:27:43.403290[Thread 0x000000016ea1f000]:HMS: check_hms_info need download new hms info = true
+2025-12-18 14:27:43.403299[Thread 0x000000016ea1f000]:hms: download url = https://e.bambulab.com/query.php?lang=en
+2025-12-18 14:27:43.415908[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:43.415923[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:43.415928[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:43.415930[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:43.415933[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:43.415935[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:43.416134[Thread 0x00000001ff95a080]:operator(): begin to add script message handler for wx.
+2025-12-18 14:27:43.430052[Thread 0x00000001ff95a080]:update_print_volume_state, print_volume {0, 0, 0} to {250, 250, 220}, got 0 printable istances
+2025-12-18 14:27:43.430076[Thread 0x00000001ff95a080]:update_background_process: enter, force_validation=0 postpone_error_messages=0, switch_print=1, was_running=0
+2025-12-18 14:27:43.430080[Thread 0x00000001ff95a080]:update_print_volume_state, print_volume {0, 0, 0} to {250, 250, 220}, got 0 printable istances
+2025-12-18 14:27:43.430085[Thread 0x00000001ff95a080]:get_current_slice_result:m_current_plate 0, current_plate 0x93155c800
+2025-12-18 14:27:43.430582[Thread 0x00000001ff95a080]:apply, Line 1019: enter
+2025-12-18 14:27:43.430769[Thread 0x00000001ff95a080]:apply, got print_diff 80, object_diff 9, region_diff 21, set status to APPLY_STATUS_CHANGED
+2025-12-18 14:27:43.430797[Thread 0x00000001ff95a080]:apply 1075: found full_config_diff changed.
+2025-12-18 14:27:43.430923[Thread 0x00000001ff95a080]:apply 1575: finished,  this 0x934f70000, m_modified_count 1, apply_status 1, m_support_used 0
+2025-12-18 14:27:43.430986[Thread 0x00000001ff95a080]:update_background_process: background process apply result=1
+2025-12-18 14:27:43.430991[Thread 0x00000001ff95a080]:update_background_process, Line 4521: background data valid, return_state=0
+2025-12-18 14:27:43.430994[Thread 0x00000001ff95a080]:update_background_process, Line 4564: exit, return_state=0
+2025-12-18 14:27:43.430996[Thread 0x00000001ff95a080]:restart_background_process, Line 4602: not started
+2025-12-18 14:27:43.545581[Thread 0x00000001ff95a080]:operator(): finished add script message handler for wx.
+2025-12-18 14:27:45.221784[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:45.221859[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:45.221910[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:45.221923[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.621109[Thread 0x00000001ff95a080]:operator(): received wxEVT_CLOSE_WINDOW, trigger save for window_mainframe
+2025-12-18 14:27:46.624637[Thread 0x00000001ff95a080]:operator(): mainframe received close_widow event
+2025-12-18 14:27:46.624911[Thread 0x00000001ff95a080]:set_backup_path, model 0x934592f80, id 7, remove previous backup /var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47
+2025-12-18 14:27:46.624934[Thread 0x00000001ff95a080]:remove_backup /var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47, true
+2025-12-18 14:27:46.625034[Thread 0x00000001ff95a080]:set_backup_path, model 0x934592f80, id 7, set backup to 
+2025-12-18 14:27:46.625196[Thread 0x000000016e5bf000]:process_task{ type:RemoveBackup, id:7, path:/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47, object:0, extra:1}
+2025-12-18 14:27:46.625225[Thread 0x00000001ff95a080]:Undo / Redo snapshot taken: Reset Project, Undo / Redo stack memory: 0MB Resident memory: 435MB; Peak memory usage: 436MB
+2025-12-18 14:27:46.627343[Thread 0x00000001ff95a080]:reset: current result id 4294967295 
+2025-12-18 14:27:46.627386[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:46.627399[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:46.627499[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:46.627575[Thread 0x00000001ff95a080]:calc_exclude_triangles:Unable to create exclude triangles
+2025-12-18 14:27:46.628867[Thread 0x00000001ff95a080]:set_pos_and_size: plate_id 1, before, origin {489.6,0,0}, plate_width 408, plate_depth 344, plate_height 220
+2025-12-18 14:27:46.628909[Thread 0x00000001ff95a080]:set_pos_and_size: with_instance_move 0, after, origin {489.6,0,0}, plate_width 408, plate_depth 344, plate_height 220
+2025-12-18 14:27:46.628926[Thread 0x00000001ff95a080]:get_current_slice_result:m_current_plate 0, current_plate 0x92f836800
+2025-12-18 14:27:46.628937[Thread 0x00000001ff95a080]:stop, enter
+2025-12-18 14:27:46.629609[Thread 0x00000001ff95a080]:load_print_as_fff 654: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2025-12-18 14:27:46.629873[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.629975[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631067[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631113[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631210[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631244[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631321[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631352[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631462[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631493[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631565[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631595[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631650[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631679[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631865[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631896[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.631941[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.631968[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.632009[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.632032[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.632064[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.632086[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.632118[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.632140[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.632171[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.632194[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.632227[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.632312[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.632942[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.632969[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.633076[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.633100[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.633145[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.633168[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.633216[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.633238[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.633338[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.633363[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.633435[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.633458[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.633499[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.633522[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.633959[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.633985[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.634593[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.634625[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.634685[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.634710[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.634773[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.634797[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.634874[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.634898[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.634967[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.634990[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.635037[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.635059[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.637591[Thread 0x00000001ff95a080]:load_print_as_fff 654: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2025-12-18 14:27:46.638802[Thread 0x00000001ff95a080]:object_list_changed: can_slice 0, model_fits= 1, export_in_progress 0, has_printable_instances 0 
+2025-12-18 14:27:46.638814[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:46.638819[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:46.638851[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:46.642320[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:46.647157[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.647181[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.647210[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.647226[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.648345[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:46.648350[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:46.649203[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:46.650835[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:46.650841[Thread 0x00000001ff95a080]:load_current_preset: enter
+2025-12-18 14:27:46.650905[Thread 0x00000001ff95a080]:reset: current result id 4294967295 
+2025-12-18 14:27:46.651019[Thread 0x00000001ff95a080]:reset_size:before size: plate_width 408, plate_depth 344, plate_height 220
+2025-12-18 14:27:46.651026[Thread 0x00000001ff95a080]:reset_size:after size: plate_width 408, plate_depth 344, plate_height 220
+2025-12-18 14:27:46.651032[Thread 0x00000001ff95a080]:PartPlate same shape, skip directly
+2025-12-18 14:27:46.651408[Thread 0x00000001ff95a080]:load_print_as_fff 654: print is step done, posSlice 0, posSupportMaterial 0, psGCodeExport 0
+2025-12-18 14:27:46.652542[Thread 0x00000001ff95a080]:put_other_changes
+2025-12-18 14:27:46.654022[Thread 0x00000001ff95a080]:load_current_preset: exit
+2025-12-18 14:27:46.658302[Thread 0x00000001ff95a080]:shutdownMainFrame::shutdown enter
+2025-12-18 14:27:46.727682[Thread 0x00000001ff95a080]:GUI_App::shutdown enter
+2025-12-18 14:27:46.727697[Thread 0x00000001ff95a080]:preset_folder: set to empty
+2025-12-18 14:27:46.727922[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 PPGF
+2025-12-18 14:27:46.728151[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Box Turtle
+2025-12-18 14:27:46.728158[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 Slow Quality (Infil 200) 
+2025-12-18 14:27:46.728160[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.60mm V2.4 Slow Quality
+2025-12-18 14:27:46.728163[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.10mm V2.4 Slow Quality
+2025-12-18 14:27:46.728287[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Rigid
+2025-12-18 14:27:46.728291[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 300mms
+2025-12-18 14:27:46.728293[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm Sapphire Moons Motor
+2025-12-18 14:27:46.728296[Thread 0x00000001ff95a080]:Preset already present, not loading: Pandora's Box RIGID
+2025-12-18 14:27:46.728297[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.6 Nozzle 0.20mm V2.4 Slow Quality
+2025-12-18 14:27:46.728299[Thread 0x00000001ff95a080]:Preset already present, not loading: Pandora's Box 0.1mm
+2025-12-18 14:27:46.728300[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm Sapphire TEST
+2025-12-18 14:27:46.728302[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 Quality
+2025-12-18 14:27:46.728417[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 PET Rigid
+2025-12-18 14:27:46.728614[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 PPS-GF
+2025-12-18 14:27:46.728619[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 Toy
+2025-12-18 14:27:46.728621[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 Slow Quality RIGID
+2025-12-18 14:27:46.728623[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm Sapphire
+2025-12-18 14:27:46.728733[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Toy
+2025-12-18 14:27:46.728737[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 Slow Quality
+2025-12-18 14:27:46.728739[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20mm V2.4 AWD Speed
+2025-12-18 14:27:46.728740[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.10mm V2.4 Quality
+2025-12-18 14:27:46.728846[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: 0.4 Plus4 0.2 Voron Spec
+2025-12-18 14:27:46.728849[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.6 Nozzle 0.30mm V2.4 Slow Quality
+2025-12-18 14:27:46.728851[Thread 0x00000001ff95a080]:Preset already present, not loading: 3DO 0.20mm V2.4 Quality
+2025-12-18 14:27:46.728853[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.20 Sapphire PET
+2025-12-18 14:27:46.728871[Thread 0x00000001ff95a080]:Preset already present, not loading: Pandora's Box Quality
+2025-12-18 14:27:46.728978[Thread 0x00000001ff95a080]:Preset already present, not loading: Plus4 Polylite ASA
+2025-12-18 14:27:46.728981[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort GM SnoLabs PCCF+
+2025-12-18 14:27:46.728984[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Polymaker CF-PLA
+2025-12-18 14:27:46.728986[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Sparta PCCF
+2025-12-18 14:27:46.728989[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Polymaker PC-PBT
+2025-12-18 14:27:46.729081[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Plus4 PET-GF
+2025-12-18 14:27:46.729084[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.5 Nozzle Polymaker ABS
+2025-12-18 14:27:46.729087[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Fusion ABS 1.5
+2025-12-18 14:27:46.729089[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 0.8mm ABS
+2025-12-18 14:27:46.729090[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort IEMAI PCCF
+2025-12-18 14:27:46.729093[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Atomic Filaments ABS 1.5
+2025-12-18 14:27:46.729175[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Plus4 PET-CF
+2025-12-18 14:27:46.729178[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Phaetus ASA-GF GM
+2025-12-18 14:27:46.729179[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Fusion Filaments ABS 2.0
+2025-12-18 14:27:46.729182[Thread 0x00000001ff95a080]:Preset already present, not loading: Plus4 Zyltech ABS
+2025-12-18 14:27:46.729184[Thread 0x00000001ff95a080]:Preset already present, not loading: Sapphire Polylite ASA
+2025-12-18 14:27:46.729187[Thread 0x00000001ff95a080]:Preset already present, not loading: RoXY - ASA
+2025-12-18 14:27:46.729189[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Atomic Filaments ABS
+2025-12-18 14:27:46.729190[Thread 0x00000001ff95a080]:Preset already present, not loading: ABS No PA
+2025-12-18 14:27:46.729192[Thread 0x00000001ff95a080]:Preset already present, not loading: 3DX PP-GF30 GV2
+2025-12-18 14:27:46.729195[Thread 0x00000001ff95a080]:Preset already present, not loading: Fusion HTPET+
+2025-12-18 14:27:46.729198[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 3DX PP-GF30 DB
+2025-12-18 14:27:46.729200[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Polymaker ABS
+2025-12-18 14:27:46.729202[Thread 0x00000001ff95a080]:Preset already present, not loading: Polymaker Polyterra PLA
+2025-12-18 14:27:46.729203[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 3DO ASA
+2025-12-18 14:27:46.729205[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Phaetus CF-ASA
+2025-12-18 14:27:46.729206[Thread 0x00000001ff95a080]:Preset already present, not loading: Sapphire Polylite ABS
+2025-12-18 14:27:46.729208[Thread 0x00000001ff95a080]:Preset already present, not loading: Zyltech TPU
+2025-12-18 14:27:46.729210[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 3DX PP-GF30 PHTC
+2025-12-18 14:27:46.729435[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Plus4 PPS-GF
+2025-12-18 14:27:46.729441[Thread 0x00000001ff95a080]:Preset already present, not loading: 0.5 Fusion Filaments ABS 1.5
+2025-12-18 14:27:46.729444[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 3DX PA6-GF30 GM0.6
+2025-12-18 14:27:46.729445[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 3DO ASA-GF
+2025-12-18 14:27:46.729447[Thread 0x00000001ff95a080]:Preset already present, not loading: Plus4 Polylite ABS
+2025-12-18 14:27:46.729448[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 3DX PP-GF30 GM0.6
+2025-12-18 14:27:46.729455[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Zyltech ASA
+2025-12-18 14:27:46.729456[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort ZYLTECH PETG
+2025-12-18 14:27:46.729458[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort ZYLTECH PETG 0.6mm
+2025-12-18 14:27:46.729460[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Polymaker ASA
+2025-12-18 14:27:46.729462[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Polymaker Galaxy ASA
+2025-12-18 14:27:46.729463[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort SnoLabs PCCF+
+2025-12-18 14:27:46.729465[Thread 0x00000001ff95a080]:Preset already present, not loading: Polymaker PLA
+2025-12-18 14:27:46.729466[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort 3DX PP-GF30
+2025-12-18 14:27:46.729469[Thread 0x00000001ff95a080]:Preset already present, not loading: Hextrudort Fusion Filaments ABS 2.0 SL GM
+2025-12-18 14:27:46.729470[Thread 0x00000001ff95a080]:Preset already present, not loading: Plus4 Phaetus ASA-GF
+2025-12-18 14:27:46.729472[Thread 0x00000001ff95a080]:Preset already present, not loading: Plus4 3DO ASA
+2025-12-18 14:27:46.729539[Thread 0x00000001ff95a080]:Preset already present, not loading: roxy
+2025-12-18 14:27:46.729542[Thread 0x00000001ff95a080]:Preset already present, not loading: LDO Space Grey V2 0.5
+2025-12-18 14:27:46.729544[Thread 0x00000001ff95a080]:Preset already present, not loading: Sapphire 0.4
+2025-12-18 14:27:46.729545[Thread 0x00000001ff95a080]:Preset already present, not loading: LDO Space Grey V2 0.4
+2025-12-18 14:27:46.729547[Thread 0x00000001ff95a080]:Preset already present, not loading: LDO Space Grey V2 0.8
+2025-12-18 14:27:46.729548[Thread 0x00000001ff95a080]:Preset already present, not loading: Doom 0.4
+2025-12-18 14:27:46.729705[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Qidi Plus4 0.4 Nozzle MMU
+2025-12-18 14:27:46.729709[Thread 0x00000001ff95a080]:Preset already present, not loading: LDO Space Grey V2 0.6
+2025-12-18 14:27:46.729821[Thread 0x00000001ff95a080]:Preset incompatibla, not loading: Qidi Plus 4 0.4
+2025-12-18 14:27:46.729828[Thread 0x00000001ff95a080]:update_compatibility for all presets enter
+2025-12-18 14:27:46.730028[Thread 0x00000001ff95a080]:update_compatibility for all presets exit
+2025-12-18 14:27:46.731310[Thread 0x00000001ff95a080]:~NetworkAgent, this 0x9330438e0, network_agent=0x933019320, destroy_agent_ptr=1, ret 0
+2025-12-18 14:27:46.731318[Thread 0x00000001ff95a080]:GUI_App::shutdown exit
+2025-12-18 14:27:46.731319[Thread 0x00000001ff95a080]:shutdownMainFrame::shutdown exit
+2025-12-18 14:27:46.731321[Thread 0x00000001ff95a080]:operator(): mainframe finished process close_widow event
+2025-12-18 14:27:46.732785[Thread 0x00000001ff95a080]:process_ui_task{ type:RemoveBackup, id:7, path:/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47, object:0, extra:1}
+2025-12-18 14:27:46.733323[Thread 0x00000001ff95a080]:process_ui_task: remove all of backup path /var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/orcaslicer_model/Thu_Dec_18/14_27_42#27711#47
+2025-12-18 14:27:46.733574[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:46.733580[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:46.733585[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:46.733586[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:46.733590[Thread 0x00000001ff95a080]:get_enable_print_status: m_print_select 4, enable= 0 
+2025-12-18 14:27:46.733591[Thread 0x00000001ff95a080]:update_slice_print_status m_slice_select 1: can_slice= 0, can_print 1, enable_slice 0, enable_print 0 
+2025-12-18 14:27:46.734475[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.734524[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.734552[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.734563[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.769337[Thread 0x00000001ff95a080]:~WebViewPanel Start
+2025-12-18 14:27:46.769420[Thread 0x00000001ff95a080]:~WebViewPanel End
+2025-12-18 14:27:46.778927[Thread 0x00000001ff95a080]:~PrinterWebView Start
+2025-12-18 14:27:46.778937[Thread 0x00000001ff95a080]:~PrinterWebView End
+2025-12-18 14:27:46.780416[Thread 0x00000001ff95a080]:stop, enter
+2025-12-18 14:27:46.780478[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:46.780498[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 0 , update slice result from 0 to 0
+2025-12-18 14:27:46.780510[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:46.780934[Thread 0x00000001ff95a080]:update_slice_result_valid_state: plate 1 , update slice result from 0 to 0
+2025-12-18 14:27:46.788530[Thread 0x00000001ff95a080]:reset: current result id 0 
+2025-12-18 14:27:46.789645[Thread 0x00000001ff95a080]:reset: current result id 4294967295 
+2025-12-18 14:27:46.789696[Thread 0x00000001ff95a080]:reset: current result id 0 
+2025-12-18 14:27:46.806958[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807004[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807038[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807050[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807063[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807073[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807085[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807094[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807105[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807114[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807125[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807134[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807145[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807154[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807202[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807213[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807228[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807237[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807252[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807261[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807272[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807281[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807292[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807300[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807311[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807319[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807330[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807338[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807744[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807757[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807769[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807778[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807788[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807797[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807826[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807835[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807848[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807857[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.807868[Thread 0x00000001ff95a080]:Cann't find HarmonyOS Sans SC font
+2025-12-18 14:27:46.807877[Thread 0x00000001ff95a080]:Use system font instead: .AppleSystemUIFont
+2025-12-18 14:27:46.819633[Thread 0x00000001ff95a080]:~GUI_App: enter
+2025-12-18 14:27:46.819647[Thread 0x00000001ff95a080]:~GUI_App: destroy app_config
+2025-12-18 14:27:46.819657[Thread 0x00000001ff95a080]:~GUI_App: destroy preset_bundle
+2025-12-18 14:27:46.821419[Thread 0x00000001ff95a080]:~GUI_App: destroy preset updater
+2025-12-18 14:27:46.821441[Thread 0x00000001ff95a080]:~GUI_App: exit

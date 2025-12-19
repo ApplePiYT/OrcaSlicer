@@ -1,0 +1,5 @@
+[warning]	2025-12-18 14:33:08.712704[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-12-18 14:33:08.712953[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-12-18 14:33:08.713000[Thread 0x00000001ff95a080]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-12-18 14:33:09.890688[Thread 0x00000001ff95a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 14:33:11.103399[Thread 0x00000001ff95a080]:calc_exclude_triangles:Unable to create exclude triangles

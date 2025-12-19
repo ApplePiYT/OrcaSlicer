@@ -1,0 +1,25 @@
+[2025-12-18 14:27:40.252509 -08:00] [I] [T 2014788]: init log
+[2025-12-18 14:27:40.252541 -08:00] [I] [T 2014788]: Version: 01.06.00.11
+[2025-12-18 14:27:40.252543 -08:00] [I] [T 2014788]: Agent: set_cert_dir_name, dir=/private/var/folders/hm/_31wg2417pn4r3khtg0qlw640000gn/T/AppTranslocation/D342ED7C-5E1D-4D15-B9D4-7DC870CB83A7/d/OrcaSlicer.app/Contents/Resources/cert, name=slicer_base64.cer
+[2025-12-18 14:27:40.252622 -08:00] [I] [T 2014788]: set_on_server_connected_fn
+[2025-12-18 14:27:40.252622 -08:00] [I] [T 2014788]: set_on_printer_connected_fn
+[2025-12-18 14:27:40.252623 -08:00] [I] [T 2014788]: set_get_country_code_fn
+[2025-12-18 14:27:40.252624 -08:00] [I] [T 2014788]: set_on_local_connect_fn
+[2025-12-18 14:27:40.252624 -08:00] [I] [T 2014788]: set_on_message_fn
+[2025-12-18 14:27:40.252624 -08:00] [I] [T 2014788]: set_on_local_message_fn
+[2025-12-18 14:27:40.252640 -08:00] [I] [T 2014788]: set host to https://api.bambulab.com/v1
+[2025-12-18 14:27:40.252640 -08:00] [I] [T 2014788]: region update iot = https://api.bambulab.com/v1
+[2025-12-18 14:27:40.252640 -08:00] [I] [T 2014788]: region update api = https://api.bambulab.com/
+[2025-12-18 14:27:40.252641 -08:00] [I] [T 2014788]: region update mqtt = ssl://us.mqtt.bambulab.com:8883
+[2025-12-18 14:27:40.252641 -08:00] [I] [T 2014788]: region update tutk = US
+[2025-12-18 14:27:40.252641 -08:00] [I] [T 2014788]: region update base domain = bambulab.com
+[2025-12-18 14:27:40.252642 -08:00] [I] [T 2014788]: region update environment = 
+[2025-12-18 14:27:40.252642 -08:00] [I] [T 2014788]: region update wifi_code = US
+[2025-12-18 14:27:40.252642 -08:00] [I] [T 2014788]: region update design = https://bambulab.com
+[2025-12-18 14:27:40.252642 -08:00] [I] [T 2014788]: Agent: load_config
+[2025-12-18 14:27:40.252910 -08:00] [I] [T 2014788]: load_user_info
+[2025-12-18 14:27:40.252921 -08:00] [I] [T 2014788]: save_user_info
+[2025-12-18 14:27:42.034126 -08:00] [I] [T 2014788]: set_on_http_error_fn
+[2025-12-18 14:27:42.034133 -08:00] [I] [T 2014788]: ssdp: stop()
+[2025-12-18 14:27:42.034184 -08:00] [I] [T 2014788]: Network Interface List: 3
+[2025-12-18 14:27:46.731135 -08:00] [I] [T 2014788]: Agent: save_config
